@@ -56,8 +56,14 @@ I will be using 2 datasets:
 
 As the last project I found difficult to be able to find my own objective into the data, as the project is open and the possibilities are infinite, this time I started with an objective and then search for the Data. Wich I found Much Much more difficult.
 
+<font color=red>The existance of a 100Mb limit on files uploaded to a public fork repo. And I spent quite an amount of time in solving the problem. Finaly I deleted the repo, forked again, and add the file to the .gitignore.</font>
+
 <a name="lessons"></a>
 
 ## Lessons Learned
 
 * I have learned to choose more wisely a dataset. I thought I already learned that point, but obliusly I did not.
+
+* I have learned the is a git-lfs to upload big files over the 100Mb, but git hub do not allow to upload them to a public repo.
+
+
