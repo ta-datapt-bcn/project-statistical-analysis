@@ -21,71 +21,84 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+The objective of the project is to integrate data analysis and statistical analysis tools and methods learnt throughout this module.
+I've chosen a dataset that contains every flight from or to a United States airport during the year 2015. 
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-* What data/business/research/personal question you would like to answer? 
-* What is he context for the question and the scientific or business application? 
-* What are the hypotheses you would like to test in order to answer your question?  
-Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
+The specifics about questions and hypotheses are detailed in the notebook.
+In general terms, I wanted to demonstrate how the volume of operations of the airports and airlines influence delays. Also, some analysis on how the day of the week may influence delays was carried out.
 
 <a name="dataset"></a>
 
 ## Dataset
-* Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
-* Did you build your own datset? If so, did you use an API? If so, provide the scripts in your repo.
-* For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
-* If the question cannot be answered with the available data, why not? What data would you need to answer it better?
+I chose a dataset from Kaggle including all the flights from/to the US during the year 2015. [link](https://www.kaggle.com/usdot/flight-delays#flights.csv)
+It is a pretty large dataset (more than 6 million rows) that I had to filter from the beginning for performance issues.
+The dataset contains the following 31 columns.
+**Column Explanations**
+* YEAR: Year of the Flight Trip
+* MONTH: Month of the Flight Trip
+* DAY: Day of the Flight Trip
+* DAY_OF_WEEK: Day of week of the Flight Trip
+* AIRLINE: Airline Identifier
+* FLIGHT_NUMBER: Flight Identifier
+* TAIL_NUMBER: Aircraft Identifier
+* ORIGIN_AIRPORT: Starting Airport
+* DESTINATION_AIRPORT: Destination Airport
+* SCHEDULED_DEPARTURE: Planned Departure Time (as integer: first two digits hour, other two digits minutes)
+* DEPARTURE_TIME: Actual Departure Time
+* DEPARTURE_DELAY: Total Delay on Departure (in minutes). If + Delayed, if - Before.
+* TAXI_OUT: The time duration elapsed between departure from the origin airport gate and wheels off
+* WHEELS_OFF: The time point that the aircraft's wheels leave the ground
+* SCHEDULED_TIME: Planned time amount needed for the flight trip
+* ELAPSED_TIME: AIR_TIME+TAXI_IN+TAXI_OUT
+* AIR_TIME: The time duration between wheels_off and wheels_on time
+* DISTANCE: Distance between two airports
+* WHEELS_ON: The time point that the aircraft's wheels touch on the ground
+* TAXI_IN: The time duration elapsed between wheels-on and gate arrival at the destination airport
+* SCHEDULED_ARRIVAL: Planned arrival time
+* ARRIVAL_TIME: WHEELS_ON+TAXI_IN
+* ARRIVAL_DELAY: ARRIVAL_TIME-SCHEDULED_ARRIVAL. If + Delayed, if - Before.
+* DIVERTED: Aircraft landed on airport that out of schedule
+* CANCELLED: Flight Cancelled (1 = cancelled)
+* CANCELLATION_REASON: Reason for Cancellation of flight: A - Airline/Carrier; B - Weather; C - National Air System; D - Security
+* AIR_SYSTEM_DELAY: Delay caused by air system
+* SECURITY_DELAY: Delay caused by security
+* AIRLINE_DELAY: Delay caused by the airline
+* LATE_AIRCRAFT_DELAY: Delay caused by aircraft
+* WEATHER_DELAY: Delay caused by weather
 
 <a name="cleaning"></a>
 
 ## Cleaning
-Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did, etc, as well as your thinking process.
+* Creating a subset only with the delayed flights to work with a lighter dataset.
+* Overview of the dataset.
+* Filtering out the columns and rows with null values.
+* Dropping columns that were complete but weren't useful for the analysis.
+* Cleaning outliers using the IQR method.
+* Plotting distributions and correlations using heatmap.
+* Changing Year, Month, Day columns to DateTime and combining them in a unique column.
 
 <a name="analysis"></a>
 
 ## Analysis
-* Overview the general steps you will go through to analyze your data in order to test your hypothesis.
-* Document each step of your data exploration and analysis.
-* Include charts to demonstrate the effect of your work. 
-* If you use ML in your final project, describe your feature selection process.
+* Descriptive statistics for departure and arrival delays by airport and airlines, with confidence intervals.
+* Proportion of long delay flights among all flights, with confidence intervals.
+* Proportion of long delay flights among all the flights of #1 company in terms of number of flights, with confidence intervals.
+* Proportion of long delay ORIGIN flights in the #1 Airport in terms of number of total departures, with confidence intervals.
+* Proportion of long delay DESTINATION flights in the #1 Airport in terms of number of total arrivals, with confidence intervals.
 
-<a name="model-training-and-evaluation"></a>
-
-## Model Training and Evaluation
-*Include this section only if you chose to include ML in your project.*
-* Describe how you trained your model, the results you obtained, and how you evaluated those results.
+* Hypothesis testing: Is there a significant correlation between mean departure and arrival delay for those flights delayed longer than 2h in the TOP30 US airports?
+* Hypothesis testing: Are arrival delays on weekends (Fri-Sat-Sun) significantly different from those on weekdays (Mon-Tue-Wed-Thu) for flights delayed in the TOP30 US airports?
+* Hypothesis testing: Are there differences between variances on the arrival delay for the TOP5 airlines?
+* Hypothesis testing: Are there differences between variances on the arrival delay for the TOP30 airports?
+* Hypothesis testing: Is the difference of mean arrival delay significant between #1 and #2 airlines for those flights delayed longer than 2h?
+* Hypothesis testing: Is there a significant difference on the porportion of long delay flight among all flights between the #1 airport and the rest of airports?
 
 <a name="conclusion"></a>
 
 ## Conclusion
-* Summarize your results. What do they mean?
-* What can you say about your hypotheses?
-* Interpret your findings in terms of the human-understandable question you try to answer.
+* As detailed in the notebook, some of the hypotheses were rejected but others could not.
+* The narrowness of some of some confidence intervals surprised me. I suppose it is due to the size of the sample.
 
-<a name="future-work"></a>
-
-## Future Work
-Address any questions you were unable to answer, or any next steps or future extensions to your project.
-
-<a name="workflow"></a>
-
-## Workflow
-Outline the workflow you used in your project. What were the steps?
-How will you test the success of our analysis or algorithm?
-
-<a name="organization"></a>
-
-## Organization
-How did you organize yourself? Did you use any tools?
-
-<a name="links"></a>
-
-## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
