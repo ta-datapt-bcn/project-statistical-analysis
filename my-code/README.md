@@ -1,7 +1,6 @@
 
 ---
-<div style="width: 200px;">![https://camo.githubusercontent.com/7b53865828a6796cb5f25926548e18dbf5e14de2/68747470733a2f2f6269742e6c792f32566e58577232](attachment:foo.svg)</div>
-<img src="attachment:https://camo.githubusercontent.com/7b53865828a6796cb5f25926548e18dbf5e14de2/68747470733a2f2f6269742e6c792f32566e58577232" width="200">
+![alt Iron Hack] (https://camo.githubusercontent.com/7b53865828a6796cb5f25926548e18dbf5e14de2/68747470733a2f2f6269742e6c792f32566e58577232){ width=50% }
 ---
 
 # Análisis de House Prices
