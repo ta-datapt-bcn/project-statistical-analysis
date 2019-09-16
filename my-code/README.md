@@ -1,7 +1,11 @@
 
 ---
-<div style="width:20%">![alt Iron Hack] (https://camo.githubusercontent.com/7b53865828a6796cb5f25926548e18dbf5e14de2/68747470733a2f2f6269742e6c792f32566e58577232)
-</div>
+![alt Iron Hack](https://camo.githubusercontent.com/7b53865828a6796cb5f25926548e18dbf5e14de2/68747470733a2f2f6269742e6c792f32566e58577232#thumbnail)
+
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
 
 ---
 
