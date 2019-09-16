@@ -1,6 +1,6 @@
 
 ---
-![alt Iron Hack](https://camo.githubusercontent.com/7b53865828a6796cb5f25926548e18dbf5e14de2/68747470733a2f2f6269742e6c792f32566e58577232  "Iron Hack"){ width: 200px; }
+![alt Iron Hack](https://camo.githubusercontent.com/7b53865828a6796cb5f25926548e18dbf5e14de2/68747470733a2f2f6269742e6c792f32566e58577232  "Iron Hack"){: width: 200px; }
 ---
 
 # Análisis de House Prices
