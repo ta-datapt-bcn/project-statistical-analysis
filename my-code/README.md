@@ -45,5 +45,5 @@ El P-Value es menor que 0.05 por lo cual rechazo el H0
 Aparentemente todos los barrios comparten una cierta correlación entre sus dos Componentes principales.
 
 ## Links
-[link text](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+[Fuente del DataSet](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
