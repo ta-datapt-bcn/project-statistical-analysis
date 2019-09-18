@@ -45,22 +45,22 @@ También se encuentran algunas columnas que con un faltante del entorno del 5% d
 - Respecto a la variable base "SalePrice" 
 
 - **Variables con correlación ALTA:** 
-     * OverallQual (Calidad de la construcción) - 79%
-     * GrLiveArea (Area habitable) - 71%
-     * GarageArea (Area de cochera) - 62%
-     * 1stFlSF (Pies cuadrados habitables en primer piso) - 61%
+    - OverallQual (Calidad de la construcción) - 79%
+    - GrLiveArea (Area habitable) - 71%
+    - GarageArea (Area de cochera) - 62%
+    - 1stFlSF (Pies cuadrados habitables en primer piso) - 61%
 
 - **Variables con correlación MEDIA o BAJA:**
-- - TotRmsAbvGrd (Cantidad de habitaciones) - 53%
-- - 2ndFlrSF (Pies cuadrados habitables en segundo piso) - 32%
-- - LotArea (Area de terreno) - 26%
-- - BedroomAbvGr (Cantidad de baños) - 17%
+    - TotRmsAbvGrd (Cantidad de habitaciones) - 53%
+    - 2ndFlrSF (Pies cuadrados habitables en segundo piso) - 32%
+    - LotArea (Area de terreno) - 26%
+    - BedroomAbvGr (Cantidad de baños) - 17%
 
 **Variables con correlación MUY BAJA o NEGATIVA:**
-- - PoolArea (Area de piscina)
-- - MSSubClass (Clase de construcción)
-- - OverallCond (Calificación de condición general)
-- - KitchenAbvGr (Cantidad de cocinas)
+    - PoolArea (Area de piscina)
+    - MSSubClass (Clase de construcción)
+    - OverallCond (Calificación de condición general)
+    - KitchenAbvGr (Cantidad de cocinas)
 
 - Se aprecia que los top 3 barrios con precios más elevados son NoRidge, NridgHt y StoneBr. **La media de los barrios anterior nombrados supera en un 77% la media global del Dataset**
 
