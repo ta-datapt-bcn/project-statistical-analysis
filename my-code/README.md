@@ -4,7 +4,7 @@
 ---
 
 # Análisis de House Prices
-*Jorge Alvarez - Data Analitics Part-Time*
+*Jorge Alvarez - Data Analytics Part-Time*
 
 ## Contenido
 - [Descripción del proyecto](#description)
