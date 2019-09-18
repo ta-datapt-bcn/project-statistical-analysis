@@ -45,10 +45,10 @@ También se encuentran algunas columnas que con un faltante del entorno del 5% d
 - Respecto a la variable base "SalePrice" 
 
 - **Variables con correlación ALTA:** 
-- - OverallQual (Calidad de la construcción) - 79%
-- - GrLiveArea (Area habitable) - 71%
-- - GarageArea (Area de cochera) - 62%
-- - 1stFlSF (Pies cuadrados habitables en primer piso) - 61%
+ - OverallQual (Calidad de la construcción) - 79%
+ - GrLiveArea (Area habitable) - 71%
+ - GarageArea (Area de cochera) - 62%
+ - 1stFlSF (Pies cuadrados habitables en primer piso) - 61%
 
 - **Variables con correlación MEDIA o BAJA:**
 - - TotRmsAbvGrd (Cantidad de habitaciones) - 53%
