@@ -62,9 +62,9 @@ También se encuentran algunas columnas que con un faltante del entorno del 5% d
 - - OverallCond (Calificación de condición general)
 - - KitchenAbvGr (Cantidad de cocinas)
 
-- Se aprecia que los top 3 barrios con precios mas elevados son NoRidge, NridgHt y StoneBr. **La media de los barrios anterior nombrados supera en un 77% la media global del Dataset**
+- Se aprecia que los top 3 barrios con precios más elevados son NoRidge, NridgHt y StoneBr. **La media de los barrios anterior nombrados supera en un 77% la media global del Dataset**
 
-- En general la discreción respecto a la variable base SalePrice con las 4 variables mas correlacionadas demuestran estar fuertemente alineadas. Siendo el GarageArea la variable con mayor discreción respecto al precio de venta.
+- En general la discreción respecto a la variable base SalePrice con las 4 variables más correlacionadas demuestran estar fuertemente alineadas. Siendo el GarageArea la variable con mayor discreción respecto al precio de venta.
 
 <a name="h_test"></a>
 ## Hipótesis
