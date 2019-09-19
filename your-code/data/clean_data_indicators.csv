@@ -1,0 +1,374 @@
+,Indicator Code,Indicator Name
+0,AG.LND.AGRI.K2,Agricultural land (sq. km)
+1,AG.LND.AGRI.ZS,Agricultural land (% of land area)
+2,AG.LND.ARBL.HA,Arable land (hectares)
+3,AG.LND.ARBL.HA.PC,Arable land (hectares per person)
+4,AG.LND.ARBL.ZS,Arable land (% of land area)
+5,AG.LND.CROP.ZS,Permanent cropland (% of land area)
+6,AG.LND.TOTL.K2,Land area (sq. km)
+7,AG.PRD.CROP.XD,Crop production index (2004-2006 = 100)
+8,AG.PRD.FOOD.XD,Food production index (2004-2006 = 100)
+9,AG.PRD.LVSK.XD,Livestock production index (2004-2006 = 100)
+10,AG.SRF.TOTL.K2,Surface area (sq. km)
+11,BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows (BoP, current US$)"
+12,BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows (% of GDP)"
+13,BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)"
+14,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)"
+15,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)"
+16,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)"
+17,EG.ELC.ACCS.ZS,Access to electricity (% of population)
+18,EN.POP.DNST,Population density (people per sq. km of land area)
+19,EN.URB.LCTY,Population in largest city
+20,EN.URB.LCTY.UR.ZS,Population in the largest city (% of urban population)
+21,EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter)
+22,ER.FSH.AQUA.MT,Aquaculture production (metric tons)
+23,ER.FSH.CAPT.MT,Capture fisheries production (metric tons)
+24,ER.FSH.PROD.MT,Total fisheries production (metric tons)
+25,ER.LND.PTLD.ZS,Terrestrial protected areas (% of total land area)
+26,ER.PTD.TOTL.ZS,Terrestrial and marine protected areas (% of total territorial area)
+27,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)"
+28,FI.RES.XGLD.CD,Total reserves minus gold (current US$)
+29,IC.BUS.DFRN.XQ,Distance to frontier score (0=lowest performance to 100=frontier)
+30,IC.BUS.DISC.XQ,Business extent of disclosure index (0=less disclosure to 10=more disclosure)
+31,IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high)
+32,IC.CRD.PRVT.ZS,Private credit bureau coverage (% of adults)
+33,IC.CRD.PUBL.ZS,Public credit registry coverage (% of adults)
+34,IC.ELC.TIME,Time required to get electricity (days)
+35,IC.EXP.CSBC.CD,"Cost to export, border compliance (US$)"
+36,IC.EXP.CSDC.CD,"Cost to export, documentary compliance (US$)"
+37,IC.EXP.TMBC,"Time to export, border compliance (hours)"
+38,IC.EXP.TMDC,"Time to export, documentary compliance (hours)"
+39,IC.IMP.CSBC.CD,"Cost to import, border compliance (US$)"
+40,IC.IMP.CSDC.CD,"Cost to import, documentary compliance (US$)"
+41,IC.IMP.TMBC,"Time to import, border compliance (hours)"
+42,IC.IMP.TMDC,"Time to import, documentary compliance (hours)"
+43,IC.LGL.CRED.XQ,Strength of legal rights index (0=weak to 12=strong)
+44,IC.LGL.DURS,Time required to enforce a contract (days)
+45,IC.PRP.DURS,Time required to register property (days)
+46,IC.PRP.PROC,Procedures to register property (number)
+47,IC.REG.COST.PC.FE.ZS,"Cost of business start-up procedures, female (% of GNI per capita)"
+48,IC.REG.COST.PC.MA.ZS,"Cost of business start-up procedures, male (% of GNI per capita)"
+49,IC.REG.COST.PC.ZS,Cost of business start-up procedures (% of GNI per capita)
+50,IC.REG.DURS,Time required to start a business (days)
+51,IC.REG.DURS.FE,"Time required to start a business, female (days)"
+52,IC.REG.DURS.MA,"Time required to start a business, male (days)"
+53,IC.REG.PROC,Start-up procedures to register a business (number)
+54,IC.REG.PROC.FE,"Start-up procedures to register a business, female (number)"
+55,IC.REG.PROC.MA,"Start-up procedures to register a business, male (number)"
+56,IC.TAX.DURS,Time to prepare and pay taxes (hours)
+57,IC.TAX.LABR.CP.ZS,Labor tax and contributions (% of commercial profits)
+58,IC.TAX.OTHR.CP.ZS,Other taxes payable by businesses (% of commercial profits)
+59,IC.TAX.PAYM,Tax payments (number)
+60,IC.TAX.PRFT.CP.ZS,Profit tax (% of commercial profits)
+61,IC.TAX.TOTL.CP.ZS,Total tax and contribution rate (% of profit)
+62,IC.WRH.DURS,Time required to build a warehouse (days)
+63,IC.WRH.PROC,Procedures to build a warehouse (number)
+64,IQ.WEF.CUST.XQ,"Burden of customs procedure, WEF (1=extremely inefficient to 7=extremely efficient)"
+65,IQ.WEF.PORT.XQ,"Quality of port infrastructure, WEF (1=extremely underdeveloped to 7=well developed and efficient by international standards)"
+66,IT.CEL.SETS,Mobile cellular subscriptions
+67,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people)
+68,IT.MLT.MAIN,Fixed telephone subscriptions
+69,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people)
+70,IT.NET.BBND,Fixed broadband subscriptions
+71,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people)
+72,IT.NET.SECR,Secure Internet servers
+73,IT.NET.SECR.P6,Secure Internet servers (per 1 million people)
+74,IT.NET.USER.ZS,Individuals using the Internet (% of population)
+75,NE.CON.GOVT.CD,General government final consumption expenditure (current US$)
+76,NE.CON.GOVT.CN,General government final consumption expenditure (current LCU)
+77,NE.CON.GOVT.ZS,General government final consumption expenditure (% of GDP)
+78,NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure (current US$)
+79,NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure (current LCU)
+80,NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure (constant 2010 US$)
+81,NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure (annual % growth)
+82,NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure (constant LCU)
+83,NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita (constant 2010 US$)
+84,NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth (annual %)
+85,NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)"
+86,NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure (% of GDP)
+87,NE.CON.TOTL.CD,Final consumption expenditure (current US$)
+88,NE.CON.TOTL.CN,Final consumption expenditure (current LCU)
+89,NE.CON.TOTL.KD,Final consumption expenditure (constant 2010 US$)
+90,NE.CON.TOTL.KD.ZG,Final consumption expenditure (annual % growth)
+91,NE.CON.TOTL.KN,Final consumption expenditure (constant LCU)
+92,NE.CON.TOTL.ZS,Final consumption expenditure (% of GDP)
+93,NE.DAB.DEFL.ZS,Gross national expenditure deflator (base year varies by country)
+94,NE.DAB.TOTL.CD,Gross national expenditure (current US$)
+95,NE.DAB.TOTL.CN,Gross national expenditure (current LCU)
+96,NE.DAB.TOTL.KD,Gross national expenditure (constant 2010 US$)
+97,NE.DAB.TOTL.KN,Gross national expenditure (constant LCU)
+98,NE.DAB.TOTL.ZS,Gross national expenditure (% of GDP)
+99,NE.EXP.GNFS.CD,Exports of goods and services (current US$)
+100,NE.EXP.GNFS.CN,Exports of goods and services (current LCU)
+101,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP)
+102,NE.GDI.FTOT.CD,Gross fixed capital formation (current US$)
+103,NE.GDI.FTOT.CN,Gross fixed capital formation (current LCU)
+104,NE.GDI.FTOT.ZS,Gross fixed capital formation (% of GDP)
+105,NE.GDI.TOTL.CD,Gross capital formation (current US$)
+106,NE.GDI.TOTL.CN,Gross capital formation (current LCU)
+107,NE.GDI.TOTL.KD,Gross capital formation (constant 2010 US$)
+108,NE.GDI.TOTL.KD.ZG,Gross capital formation (annual % growth)
+109,NE.GDI.TOTL.KN,Gross capital formation (constant LCU)
+110,NE.GDI.TOTL.ZS,Gross capital formation (% of GDP)
+111,NE.IMP.GNFS.CD,Imports of goods and services (current US$)
+112,NE.IMP.GNFS.CN,Imports of goods and services (current LCU)
+113,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP)
+114,NE.RSB.GNFS.CD,External balance on goods and services (current US$)
+115,NE.RSB.GNFS.CN,External balance on goods and services (current LCU)
+116,NE.RSB.GNFS.ZS,External balance on goods and services (% of GDP)
+117,NE.TRD.GNFS.ZS,Trade (% of GDP)
+118,NV.AGR.EMPL.KD,"Agriculture, forestry, and fishing, value added per worker (constant 2010 US$)"
+119,NV.AGR.TOTL.KD,"Agriculture, forestry, and fishing, value added (constant 2010 US$)"
+120,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)"
+121,NV.AGR.TOTL.KN,"Agriculture, forestry, and fishing, value added (constant LCU)"
+122,NV.IND.EMPL.KD,"Industry (including construction), value added per worker (constant 2010 US$)"
+123,NV.IND.TOTL.KD,"Industry (including construction), value added (constant 2010 US$)"
+124,NV.IND.TOTL.KD.ZG,"Industry (including construction), value added (annual % growth)"
+125,NV.IND.TOTL.KN,"Industry (including construction), value added (constant LCU)"
+126,NV.SRV.EMPL.KD,"Services, value added per worker (constant 2010 US$)"
+127,NV.SRV.TOTL.KD,"Services, value added (constant 2010 US$)"
+128,NV.SRV.TOTL.KD.ZG,"Services, value added (annual % growth)"
+129,NV.SRV.TOTL.KN,"Services, value added (constant LCU)"
+130,NY.ADJ.DCO2.CD,Adjusted savings: carbon dioxide damage (current US$)
+131,NY.ADJ.DCO2.GN.ZS,Adjusted savings: carbon dioxide damage (% of GNI)
+132,NY.ADJ.DKAP.CD,Adjusted savings: consumption of fixed capital (current US$)
+133,NY.ADJ.DKAP.GN.ZS,Adjusted savings: consumption of fixed capital (% of GNI)
+134,NY.ADJ.DMIN.CD,Adjusted savings: mineral depletion (current US$)
+135,NY.ADJ.DMIN.GN.ZS,Adjusted savings: mineral depletion (% of GNI)
+136,NY.ADJ.DNGY.CD,Adjusted savings: energy depletion (current US$)
+137,NY.ADJ.DNGY.GN.ZS,Adjusted savings: energy depletion (% of GNI)
+138,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP)
+139,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+140,NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series (annual %)"
+141,NY.GDP.DEFL.ZS,GDP deflator (base year varies by country)
+142,NY.GDP.DEFL.ZS.AD,GDP deflator: linked series (base year varies by country)
+143,NY.GDP.DISC.CN,Discrepancy in expenditure estimate of GDP (current LCU)
+144,NY.GDP.FRST.RT.ZS,Forest rents (% of GDP)
+145,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP)
+146,NY.GDP.MKTP.CD,GDP (current US$)
+147,NY.GDP.MKTP.CN,GDP (current LCU)
+148,NY.GDP.MKTP.CN.AD,GDP: linked series (current LCU)
+149,NY.GDP.MKTP.KD,GDP (constant 2010 US$)
+150,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+151,NY.GDP.MKTP.KN,GDP (constant LCU)
+152,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)"
+153,NY.GDP.MKTP.PP.KD,"GDP, PPP (constant 2011 international $)"
+154,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP)
+155,NY.GDP.PCAP.CD,GDP per capita (current US$)
+156,NY.GDP.PCAP.CN,GDP per capita (current LCU)
+157,NY.GDP.PCAP.KD,GDP per capita (constant 2010 US$)
+158,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %)
+159,NY.GDP.PCAP.KN,GDP per capita (constant LCU)
+160,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)"
+161,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2011 international $)"
+162,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP)
+163,NY.GDP.TOTL.RT.ZS,Total natural resources rents (% of GDP)
+164,NY.GDS.TOTL.CD,Gross domestic savings (current US$)
+165,NY.GDS.TOTL.CN,Gross domestic savings (current LCU)
+166,NY.GDS.TOTL.ZS,Gross domestic savings (% of GDP)
+167,NY.GNP.ATLS.CD,"GNI, Atlas method (current US$)"
+168,NY.GNP.MKTP.CD,GNI (current US$)
+169,NY.GNP.MKTP.CN,GNI (current LCU)
+170,NY.GNP.MKTP.KD,GNI (constant 2010 US$)
+171,NY.GNP.MKTP.KD.ZG,GNI growth (annual %)
+172,NY.GNP.MKTP.KN,GNI (constant LCU)
+173,NY.GNP.MKTP.PP.CD,"GNI, PPP (current international $)"
+174,NY.GNP.MKTP.PP.KD,"GNI, PPP (constant 2011 international $)"
+175,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)"
+176,NY.GNP.PCAP.CN,GNI per capita (current LCU)
+177,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$)
+178,NY.GNP.PCAP.KD.ZG,GNI per capita growth (annual %)
+179,NY.GNP.PCAP.KN,GNI per capita (constant LCU)
+180,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)"
+181,NY.GNP.PCAP.PP.KD,"GNI per capita, PPP (constant 2011 international $)"
+182,NY.GSR.NFCY.CD,Net primary income (Net income from abroad) (current US$)
+183,NY.GSR.NFCY.CN,Net primary income (Net income from abroad) (current LCU)
+184,PA.NUS.ATLS,DEC alternative conversion factor (LCU per US$)
+185,PA.NUS.PPP,"PPP conversion factor, GDP (LCU per international $)"
+186,PA.NUS.PPPC.RF,Price level ratio of PPP conversion factor (GDP) to market exchange rate
+187,SE.COM.DURS,"Compulsory education, duration (years)"
+188,SE.PRE.DURS,"Preprimary education, duration (years)"
+189,SE.PRM.AGES,Primary school starting age (years)
+190,SE.PRM.DURS,"Primary education, duration (years)"
+191,SE.PRM.ENRL,"Primary education, pupils"
+192,SE.PRM.ENRL.FE.ZS,"Primary education, pupils (% female)"
+193,SE.SEC.AGES,Lower secondary school starting age (years)
+194,SE.SEC.DURS,"Secondary education, duration (years)"
+195,SG.LAW.EQRM.WK,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)
+196,SG.LEG.DVAW,Legislation exists on domestic violence (1=yes; 0=no)
+197,SH.TBS.DTEC.ZS,"Tuberculosis case detection rate (%, all forms)"
+198,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)"
+199,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)"
+200,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)"
+201,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate)
+202,SL.EMP.1524.SP.FE.ZS,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)"
+203,SL.EMP.1524.SP.MA.ZS,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+204,SL.EMP.1524.SP.ZS,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)"
+205,SL.EMP.MPYR.FE.ZS,"Employers, female (% of female employment) (modeled ILO estimate)"
+206,SL.EMP.MPYR.MA.ZS,"Employers, male (% of male employment) (modeled ILO estimate)"
+207,SL.EMP.MPYR.ZS,"Employers, total (% of total employment) (modeled ILO estimate)"
+208,SL.EMP.SELF.FE.ZS,"Self-employed, female (% of female employment) (modeled ILO estimate)"
+209,SL.EMP.SELF.MA.ZS,"Self-employed, male (% of male employment) (modeled ILO estimate)"
+210,SL.EMP.SELF.ZS,"Self-employed, total (% of total employment) (modeled ILO estimate)"
+211,SL.EMP.TOTL.SP.FE.ZS,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)"
+212,SL.EMP.TOTL.SP.MA.ZS,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)"
+213,SL.EMP.TOTL.SP.ZS,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)"
+214,SL.EMP.VULN.FE.ZS,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)"
+215,SL.EMP.VULN.MA.ZS,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)"
+216,SL.EMP.VULN.ZS,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)"
+217,SL.EMP.WORK.FE.ZS,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)"
+218,SL.EMP.WORK.MA.ZS,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)"
+219,SL.EMP.WORK.ZS,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)"
+220,SL.FAM.WORK.FE.ZS,"Contributing family workers, female (% of female employment) (modeled ILO estimate)"
+221,SL.FAM.WORK.MA.ZS,"Contributing family workers, male (% of male employment) (modeled ILO estimate)"
+222,SL.FAM.WORK.ZS,"Contributing family workers, total (% of total employment) (modeled ILO estimate)"
+223,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2011 PPP $)
+224,SL.IND.EMPL.FE.ZS,"Employment in industry, female (% of female employment) (modeled ILO estimate)"
+225,SL.IND.EMPL.MA.ZS,"Employment in industry, male (% of male employment) (modeled ILO estimate)"
+226,SL.IND.EMPL.ZS,Employment in industry (% of total employment) (modeled ILO estimate)
+227,SL.SRV.EMPL.FE.ZS,"Employment in services, female (% of female employment) (modeled ILO estimate)"
+228,SL.SRV.EMPL.MA.ZS,"Employment in services, male (% of male employment) (modeled ILO estimate)"
+229,SL.SRV.EMPL.ZS,Employment in services (% of total employment) (modeled ILO estimate)
+230,SL.TLF.ACTI.1524.FE.ZS,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)"
+231,SL.TLF.ACTI.1524.MA.ZS,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+232,SL.TLF.ACTI.1524.ZS,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)"
+233,SL.TLF.ACTI.FE.ZS,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)"
+234,SL.TLF.ACTI.MA.ZS,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)"
+235,SL.TLF.ACTI.ZS,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)"
+236,SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+237,SL.TLF.CACT.FM.ZS,Ratio of female to male labor force participation rate (%) (modeled ILO estimate)
+238,SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+239,SL.TLF.CACT.ZS,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)"
+240,SL.TLF.TOTL.FE.ZS,"Labor force, female (% of total labor force)"
+241,SL.TLF.TOTL.IN,"Labor force, total"
+242,SL.UEM.1524.FE.ZS,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)"
+243,SL.UEM.1524.MA.ZS,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+244,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)"
+245,SL.UEM.TOTL.FE.ZS,"Unemployment, female (% of female labor force) (modeled ILO estimate)"
+246,SL.UEM.TOTL.MA.ZS,"Unemployment, male (% of male labor force) (modeled ILO estimate)"
+247,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+248,SM.POP.REFG.OR,Refugee population by country or territory of origin
+249,SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+250,SP.DYN.CBRT.IN,"Birth rate, crude (per 1,000 people)"
+251,SP.DYN.CDRT.IN,"Death rate, crude (per 1,000 people)"
+252,SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)"
+253,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)"
+254,SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)"
+255,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)"
+256,SP.DYN.TO65.FE.ZS,"Survival to age 65, female (% of cohort)"
+257,SP.DYN.TO65.MA.ZS,"Survival to age 65, male (% of cohort)"
+258,SP.POP.0004.FE.5Y,"Population ages 00-04, female (% of female population)"
+259,SP.POP.0004.MA.5Y,"Population ages 00-04, male (% of male population)"
+260,SP.POP.0014.FE.IN,"Population ages 0-14, female"
+261,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)"
+262,SP.POP.0014.MA.IN,"Population ages 0-14, male"
+263,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)"
+264,SP.POP.0014.TO,"Population ages 0-14, total"
+265,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population)
+266,SP.POP.0509.FE.5Y,"Population ages 05-09, female (% of female population)"
+267,SP.POP.0509.MA.5Y,"Population ages 05-09, male (% of male population)"
+268,SP.POP.1014.FE.5Y,"Population ages 10-14, female (% of female population)"
+269,SP.POP.1014.MA.5Y,"Population ages 10-14, male (% of male population)"
+270,SP.POP.1519.FE.5Y,"Population ages 15-19, female (% of female population)"
+271,SP.POP.1519.MA.5Y,"Population ages 15-19, male (% of male population)"
+272,SP.POP.1564.FE.IN,"Population ages 15-64, female"
+273,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)"
+274,SP.POP.1564.MA.IN,"Population ages 15-64, male"
+275,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)"
+276,SP.POP.1564.TO,"Population ages 15-64, total"
+277,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population)
+278,SP.POP.2024.FE.5Y,"Population ages 20-24, female (% of female population)"
+279,SP.POP.2024.MA.5Y,"Population ages 20-24, male (% of male population)"
+280,SP.POP.2529.FE.5Y,"Population ages 25-29, female (% of female population)"
+281,SP.POP.2529.MA.5Y,"Population ages 25-29, male (% of male population)"
+282,SP.POP.3034.FE.5Y,"Population ages 30-34, female (% of female population)"
+283,SP.POP.3034.MA.5Y,"Population ages 30-34, male (% of male population)"
+284,SP.POP.3539.FE.5Y,"Population ages 35-39, female (% of female population)"
+285,SP.POP.3539.MA.5Y,"Population ages 35-39, male (% of male population)"
+286,SP.POP.4044.FE.5Y,"Population ages 40-44, female (% of female population)"
+287,SP.POP.4044.MA.5Y,"Population ages 40-44, male (% of male population)"
+288,SP.POP.4549.FE.5Y,"Population ages 45-49, female (% of female population)"
+289,SP.POP.4549.MA.5Y,"Population ages 45-49, male (% of male population)"
+290,SP.POP.5054.FE.5Y,"Population ages 50-54, female (% of female population)"
+291,SP.POP.5054.MA.5Y,"Population ages 50-54, male (% of male population)"
+292,SP.POP.5559.FE.5Y,"Population ages 55-59, female (% of female population)"
+293,SP.POP.5559.MA.5Y,"Population ages 55-59, male (% of male population)"
+294,SP.POP.6064.FE.5Y,"Population ages 60-64, female (% of female population)"
+295,SP.POP.6064.MA.5Y,"Population ages 60-64, male (% of male population)"
+296,SP.POP.6569.FE.5Y,"Population ages 65-69, female (% of female population)"
+297,SP.POP.6569.MA.5Y,"Population ages 65-69, male (% of male population)"
+298,SP.POP.65UP.FE.IN,"Population ages 65 and above, female"
+299,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)"
+300,SP.POP.65UP.MA.IN,"Population ages 65 and above, male"
+301,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)"
+302,SP.POP.65UP.TO,"Population ages 65 and above, total"
+303,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population)
+304,SP.POP.7074.FE.5Y,"Population ages 70-74, female (% of female population)"
+305,SP.POP.7074.MA.5Y,"Population ages 70-74, male (% of male population)"
+306,SP.POP.7579.FE.5Y,"Population ages 75-79, female (% of female population)"
+307,SP.POP.7579.MA.5Y,"Population ages 75-79, male (% of male population)"
+308,SP.POP.80UP.FE.5Y,"Population ages 80 and above, female (% of female population)"
+309,SP.POP.80UP.MA.5Y,"Population ages 80 and above, male (% of male population)"
+310,SP.POP.BRTH.MF,Sex ratio at birth (male births per female births)
+311,SP.POP.DPND,Age dependency ratio (% of working-age population)
+312,SP.POP.DPND.OL,"Age dependency ratio, old (% of working-age population)"
+313,SP.POP.DPND.YG,"Age dependency ratio, young (% of working-age population)"
+314,SP.POP.GROW,Population growth (annual %)
+315,SP.POP.TOTL,"Population, total"
+316,SP.POP.TOTL.FE.IN,"Population, female"
+317,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)"
+318,SP.POP.TOTL.MA.IN,"Population, male"
+319,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)"
+320,SP.RUR.TOTL,Rural population
+321,SP.RUR.TOTL.ZS,Rural population (% of total population)
+322,SP.URB.GROW,Urban population growth (annual %)
+323,SP.URB.TOTL,Urban population
+324,SP.URB.TOTL.IN.ZS,Urban population (% of total population)
+325,ST.INT.RCPT.CD,"International tourism, receipts (current US$)"
+326,ST.INT.XPND.CD,"International tourism, expenditures (current US$)"
+327,TG.VAL.TOTL.GD.ZS,Merchandise trade (% of GDP)
+328,TM.QTY.MRCH.XD.WD,Import volume index (2000 = 100)
+329,TM.UVI.MRCH.XD.WD,Import unit value index (2000 = 100)
+330,TM.VAL.AGRI.ZS.UN,Agricultural raw materials imports (% of merchandise imports)
+331,TM.VAL.FOOD.ZS.UN,Food imports (% of merchandise imports)
+332,TM.VAL.FUEL.ZS.UN,Fuel imports (% of merchandise imports)
+333,TM.VAL.ICTG.ZS.UN,ICT goods imports (% total goods imports)
+334,TM.VAL.MANF.ZS.UN,Manufactures imports (% of merchandise imports)
+335,TM.VAL.MMTL.ZS.UN,Ores and metals imports (% of merchandise imports)
+336,TM.VAL.MRCH.AL.ZS,Merchandise imports from economies in the Arab World (% of total merchandise imports)
+337,TM.VAL.MRCH.CD.WT,Merchandise imports (current US$)
+338,TM.VAL.MRCH.HI.ZS,Merchandise imports from high-income economies (% of total merchandise imports)
+339,TM.VAL.MRCH.OR.ZS,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports)
+340,TM.VAL.MRCH.R1.ZS,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports)
+341,TM.VAL.MRCH.R2.ZS,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports)
+342,TM.VAL.MRCH.R3.ZS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports)
+343,TM.VAL.MRCH.R4.ZS,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports)
+344,TM.VAL.MRCH.R5.ZS,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports)
+345,TM.VAL.MRCH.R6.ZS,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports)
+346,TM.VAL.MRCH.RS.ZS,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)"
+347,TM.VAL.MRCH.WL.CD,Merchandise imports by the reporting economy (current US$)
+348,TM.VAL.MRCH.XD.WD,Import value index (2000 = 100)
+349,TT.PRI.MRCH.XD.WD,Net barter terms of trade index (2000 = 100)
+350,TX.QTY.MRCH.XD.WD,Export volume index (2000 = 100)
+351,TX.UVI.MRCH.XD.WD,Export unit value index (2000 = 100)
+352,TX.VAL.AGRI.ZS.UN,Agricultural raw materials exports (% of merchandise exports)
+353,TX.VAL.FOOD.ZS.UN,Food exports (% of merchandise exports)
+354,TX.VAL.FUEL.ZS.UN,Fuel exports (% of merchandise exports)
+355,TX.VAL.ICTG.ZS.UN,ICT goods exports (% of total goods exports)
+356,TX.VAL.MANF.ZS.UN,Manufactures exports (% of merchandise exports)
+357,TX.VAL.MMTL.ZS.UN,Ores and metals exports (% of merchandise exports)
+358,TX.VAL.MRCH.AL.ZS,Merchandise exports to economies in the Arab World (% of total merchandise exports)
+359,TX.VAL.MRCH.CD.WT,Merchandise exports (current US$)
+360,TX.VAL.MRCH.HI.ZS,Merchandise exports to high-income economies (% of total merchandise exports)
+361,TX.VAL.MRCH.OR.ZS,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports)
+362,TX.VAL.MRCH.R1.ZS,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports)
+363,TX.VAL.MRCH.R2.ZS,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports)
+364,TX.VAL.MRCH.R3.ZS,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports)
+365,TX.VAL.MRCH.R4.ZS,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports)
+366,TX.VAL.MRCH.R5.ZS,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports)
+367,TX.VAL.MRCH.R6.ZS,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports)
+368,TX.VAL.MRCH.RS.ZS,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)"
+369,TX.VAL.MRCH.WL.CD,Merchandise exports by the reporting economy (current US$)
+370,TX.VAL.MRCH.XD.WD,Export value index (2000 = 100)
+371,TX.VAL.TECH.CD,High-technology exports (current US$)
+372,TX.VAL.TECH.MF.ZS,High-technology exports (% of manufactured exports)
