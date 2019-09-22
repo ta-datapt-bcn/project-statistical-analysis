@@ -1,7 +1,7 @@
 # Statistical Analysis Project
 # by Jordi Marsal
 
-*Ironhack's Data Part-Time | Barcelona | May 2019*
+*Ironhack's Data Part-Time | Barcelona | September 2019*
 
 ## Content
 - [Project Description](#project-description)
