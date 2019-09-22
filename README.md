@@ -1,8 +1,8 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+![IronHack Logo](https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/E1A2/production/_105126775_tennis_bbc.jpg)
 
 # Project: Statistical Analysis
 
-## Overview
+## The DATASET: ATP matches since 1968
 
 The goal of this project is for you to practice statistical analysis using the iterative data analysis process. For this project, you will use this [Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset we choose for you. You need to download the `train.csv` dataset then use your statistical analysis skills to analyze this dataset. **The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
 
