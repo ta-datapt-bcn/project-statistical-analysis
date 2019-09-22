@@ -1,66 +1,102 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Project: Statistical Analysis
+# Title of My Project
+*[Hernando Cardenas]*
 
-## Overview
+*[Your Cohort, Campus & Date]*
 
-The goal of this project is for you to practice statistical analysis using the iterative data analysis process. For this project, you will use this [Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset we choose for you. You need to download the `train.csv` dataset then use your statistical analysis skills to analyze this dataset. **The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
+## Content
+- [Project Description](#project-description)
+- [Hypotheses / Questions](#hypotheses-/-questions)
+- [Dataset](#dataset)
+- [Cleaning](#cleaning)
+- [Analysis](#analysis)
+- [Model Training and Evaluation](#model-training-and-evaluation)
+- [Conclusion](#conclusion)
+- [Future Work](#future-work)
+- [Workflow](#workflow)
+- [Organization](#organization)
+- [Links](#links)
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
+<a name="project-description"></a>
 
----
+## Project Description
+En este proyecto vamos a analizar los datos de la premiere league desde el año 1993 al año 2018 para tratar de predecir que equipo va a ganar mas partidos, cual recibe mas goles y cual anota mas goles durante la temporada. 
 
-## Technical Requirements
+<a name="hypotheses-/-questions"></a>
 
-The technical requirements for this project are as follows:
+## Hypotheses / Questions
+* Es realmente el 2-0 o 0-2 el resultado mas remontable? 
+* Ser el equipo con mas goles te hace mas propenso a ganar la competicion? 
+* Ser el equipo con menos goles en contra te hace mas propenso a ganar la competicion?  
+*
 
-* Try to apply everything you have learned so far about data analysis (in creative ways if you can) such as data cleaning, data manipulation, data visualization, and various statistical analysis methods.
+<a name="dataset"></a>
 
-* Apply the iterative data analysis process -- setting expectations, collecting information, and reacting to data / revising expectations.
+## Dataset
+*Este data set fue descargado de kaggle https://www.kaggle.com/thefc17/epl-results-19932018.
+   * los datos a manejar son los siguientes y cada uno significa lo siguiente
+    Div = Division donde se juega
+    Date = Fecha de los partidos
+    HomeTeam = Equipo local
+    AwayTeam = Equipo visitante
+    FTHG = Goles equipo local al final del partido
+    FTAG = Goles equipo visitante al final del partido
+    FTR = Resultado final del partido
+    HTHG = Goles equipo local medio tiempo
+    HTAG = Goles equipo visitante medio tiempo
+    HTR = Resultado medio tiempo
+    Season = Temporada.
+* If the question cannot be answered with the available data, why not? What data would you need to answer it better?
 
-* Conduct your analysis in Jupyter Notebook using Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, and other Python libraries you have learned, as necessary.
+<a name="cleaning"></a>
 
-## Necessary Deliverables
+## Cleaning
+Los datos del año 1993 a 1995 en las columnas HTHG HTAG HTR estan con valores NaN por tanto seran borradas ya que no va a servir para el tipo de estudio que se desea realizar.
 
-The following deliverables should be pushed to your Github repo for this project.
+<a name="analysis"></a>
 
-* **A Jupyter Notebook (statistical-analysis.ipynb)** containing your Python codes, outputs, and data visualizations. Make sure to include explanations for each of your steps in Markdown cells or Python comments.
+## Analysis
+* Revisar si realmente el mito de el resultado 2-0 o 0-2 es el mas traicionero para los equipos.
+* Tratar de dar un estimado de cual equipo tiene mas chance de ganar la liga.
+* Saber como en que condicion le son mas favorables los partidos a el top 5 de los equipos. 
+* Saber con que probabilidad el resultado 2-0 o 0-2 es empatado o remontado.
+*
 
-* [optional] A `README.md` file containing any additional information.
+<a name="model-training-and-evaluation"></a>
 
-## Suggested Ways to Get Started
+## Model Training and Evaluation
+*Include this section only if you chose to include ML in your project.*
+* Describe how you trained your model, the results you obtained, and how you evaluated those results.
 
-1. Explore data and understand what the fields mean.
+<a name="conclusion"></a>
 
-1. Examine the relationships between the sales price and other features in the dataset. Use data visualization techniques to help you gain intuitive understanding of the relationships.
+## Conclusion
+* Summarize your results. What do they mean?
+* What can you say about your hypotheses?
+* Interpret your findings in terms of the human-understandable question you try to answer.
 
-1. Make informed guess on which features should be investigated in depth.
+<a name="future-work"></a>
 
-1. Data cleaning & manipulation. Apply the following techniques as appropriate:
-    * Adjust skewed data distribution.
-    * Remove columns with high proportion of missing values.
-    * Remove records with missing values.
-    * Feature reduction.
-    * Convert categorical data to numerical.
+## Future Work
+Address any questions you were unable to answer, or any next steps or future extensions to your project.
 
-1. Compute field relationship scores with the chosen statistical model.
+<a name="workflow"></a>
 
-1. Present your findings in statistical summary and/or data visualizations.
+## Workflow
+Outline the workflow you used in your project. What were the steps?
+How will you test the success of our analysis or algorithm?
 
-## Project Feedback + Evaluation
+<a name="organization"></a>
 
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+## Organization
+How did you organize yourself? Did you use any tools?
 
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
+<a name="links"></a>
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
+## Links
+Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-* __Total__: Your instructors will give you a total score on your project between:
-
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+[Repository](https://github.com/)  
+[Slides](https://slides.com/)  
+[Trello](https://trello.com/en)  
