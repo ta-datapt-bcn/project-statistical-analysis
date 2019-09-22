@@ -1,66 +1,29 @@
 ![IronHack Logo](https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/E1A2/production/_105126775_tennis_bbc.jpg)
 
-# Project: Statistical Analysis
+# Statistical Analysis from Tennis matches since 1968
 
 ## The DATASET: ATP matches since 1968
 
-The goal of this project is for you to practice statistical analysis using the iterative data analysis process. For this project, you will use this [Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset we choose for you. You need to download the `train.csv` dataset then use your statistical analysis skills to analyze this dataset. **The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
+For this analisys we are using a fresh dataset hosted on Kaggle, for all ATP male matches from 1968, you can find further detail about the Dataset directly on the [Kaggle DataSET](https://www.kaggle.com/sijovm/atpdata)
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
+**Goal**: Check which variable is most correlated with the winner **and** find nice and useful information to before the game start for television.
 
 ---
 
-## Technical Requirements
+## 1 - Data wrangling and manipulation
 
-The technical requirements for this project are as follows:
+- Dealing with NaN values
+- Change data type to Datatime
+- Reducing the number of variables
 
-* Try to apply everything you have learned so far about data analysis (in creative ways if you can) such as data cleaning, data manipulation, data visualization, and various statistical analysis methods.
+## 2 - Plotting and analisizing 
 
-* Apply the iterative data analysis process -- setting expectations, collecting information, and reacting to data / revising expectations.
+- Find correlated variable
+- Plot the best way to check how they correlate
 
-* Conduct your analysis in Jupyter Notebook using Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, and other Python libraries you have learned, as necessary.
 
-## Necessary Deliverables
+## 3 - Create new features
 
-The following deliverables should be pushed to your Github repo for this project.
+- Create mainly 2 functions to easily see information about the players desired.
 
-* **A Jupyter Notebook (statistical-analysis.ipynb)** containing your Python codes, outputs, and data visualizations. Make sure to include explanations for each of your steps in Markdown cells or Python comments.
 
-* [optional] A `README.md` file containing any additional information.
-
-## Suggested Ways to Get Started
-
-1. Explore data and understand what the fields mean.
-
-1. Examine the relationships between the sales price and other features in the dataset. Use data visualization techniques to help you gain intuitive understanding of the relationships.
-
-1. Make informed guess on which features should be investigated in depth.
-
-1. Data cleaning & manipulation. Apply the following techniques as appropriate:
-    * Adjust skewed data distribution.
-    * Remove columns with high proportion of missing values.
-    * Remove records with missing values.
-    * Feature reduction.
-    * Convert categorical data to numerical.
-
-1. Compute field relationship scores with the chosen statistical model.
-
-1. Present your findings in statistical summary and/or data visualizations.
-
-## Project Feedback + Evaluation
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
