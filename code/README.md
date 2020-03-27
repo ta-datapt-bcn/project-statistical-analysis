@@ -61,9 +61,9 @@ Dataset [Amazon_co-ecommerce_sample](https://data.world/promptcloud/fashion-prod
 - Identified that the number of ratings is biased. Conducted bayesian rating average which is a lot more aligned.
 - Inspecting price confidence intervals for the top 3 selling categories we are 95% sure that: 
     - the population mean lies within the range of lower 2.07 and upper 2.524 limit
-    - the mean for Hobbies lies within the range of lower 2.726 and upper 3.101 limit
-    - the mean for Die-Cast & Toy Vehicles lies within the range of lower 2.634 and upper 2.989 limit
-    - the mean for Figures & Playsets lies within the range of lower 2.679 and upper 3.028 limit
+    - the mean for Hobbies lies within the range of lower 2.644 and upper 3.07 limit
+    - the mean for Die-Cast & Toy Vehicles lies within the range of lower 2.668 and upper 3.055 limit
+    - the mean for Figures & Playsets lies within the range of lower 2.625 and upper 3.0 limit
 - After conducting linear regression model on the number of reviews we can see that this model has a very low R-squared value — 0.032, meaning that this model explains only 3.2% of the variance in our dependent variable. After plotting the results we can see that our prediction is almost always too high. So even if the pvalue is lower than 0.05 we can't trust the results of this model.
 - After a few more attempts (one of which was linear regression on sales per category) it is concluded that we would need to have more data to be able to conduct better analysis. 
  
