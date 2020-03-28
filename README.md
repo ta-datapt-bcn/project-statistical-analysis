@@ -2,65 +2,86 @@
 
 # Project: Statistical Analysis
 
-## Overview
+Dinis Oliveira Costa
+Data Part-time Dec 2019
 
-The goal of this project is for you to practice statistical analysis using the iterative data analysis process. For this project, you will use this [Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset we choose for you. You need to download the `train.csv` dataset then use your statistical analysis skills to analyze this dataset. **The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
+### Analysis of 20 years of data on Kobe Bryants's swishes and misses
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
+## Content
+- [Project Description](#project)
+- [Data](#data)
+- [Workflow](#workflow)
+- [Results](#results)
 
----
 
-## Technical Requirements
+## Project Description
 
-The technical requirements for this project are as follows:
+- The goal of this project was to practice practice statistical analysis using the iterative data analysis process.
+- It is meant to identify the most important features, shot charactheristics and relations between the variables that influence the Kobe's shot accuracy.
+- The commands assume a basic understanding of the Pandas, Matplotlib and Seaborn libraries.
 
-* Try to apply everything you have learned so far about data analysis (in creative ways if you can) such as data cleaning, data manipulation, data visualization, and various statistical analysis methods.
+## Data
 
-* Apply the iterative data analysis process -- setting expectations, collecting information, and reacting to data / revising expectations.
+The data used in this project was collected from:
 
-* Conduct your analysis in Jupyter Notebook using Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, and other Python libraries you have learned, as necessary.
+- `Kobe Bryant Shot Selection` - a free dataset from Kaggle originally from a competition meant to practice classification basics, feature engineering, and time series analysis.
 
-## Necessary Deliverables
 
-The following deliverables should be pushed to your Github repo for this project.
 
-* **A Jupyter Notebook (statistical-analysis.ipynb)** containing your Python codes, outputs, and data visualizations. Make sure to include explanations for each of your steps in Markdown cells or Python comments.
+## Workflow
 
-* [optional] A `README.md` file containing any additional information.
+The project follows three essential steps: 
+- **1) Data Collection and Exploration** 
+- **2) Data Analysis and Visualization** and 
+- **3) Data Visualization**
 
-## Suggested Ways to Get Started
+### Step 1 - ` Data Cleaning`
 
-1. Explore data and understand what the fields mean.
+- using the given dataset, it is possible to get a clear idea of how each row is characterised given the original column names; 
 
-1. Examine the relationships between the sales price and other features in the dataset. Use data visualization techniques to help you gain intuitive understanding of the relationships.
+- since the objective is to interpretate his shots' accuracy, we will begin by checking which columns exist, what values do they admit and what they relate to.
 
-1. Make informed guess on which features should be investigated in depth.
+1.1 - Import Libraries and important functions
+1.2 - Loading the dataset
+1.3 - Adjusting the variables
+1.4 - Looking for Nan values
 
-1. Data cleaning & manipulation. Apply the following techniques as appropriate:
-    * Adjust skewed data distribution.
-    * Remove columns with high proportion of missing values.
-    * Remove records with missing values.
-    * Feature reduction.
-    * Convert categorical data to numerical.
 
-1. Compute field relationship scores with the chosen statistical model.
 
-1. Present your findings in statistical summary and/or data visualizations.
+### Step 2: `Data Analysis and Visualization`:
 
-## Project Feedback + Evaluation
+- resorting to a few shot's features, it is possible to draw conclusions by comparing their average and run statistical tests
 
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+- identifying potential correlations between variables; 
 
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
+- identify trends between his accuracy per zone, shot type and season by plotting the distribution of his shots and comparing differences between the average accuracy across these features;
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
+2.1 - Statistical Tests
+2.2 - Plotting Location variables
+2.3 - Plotting shot accuracy per location
+2.4 - Plotting shot accuracy per distance
+2.5 - Plotting shots per type, season, period and zone
+2.6 - Plotting shot accuracy per type and zone
+2.7 - Plotting accuracy across his career 
 
-* __Total__: Your instructors will give you a total score on your project between:
+### Step 3: `Correlations and Data Prediction`:
 
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
+- The goal of this section is to draw conclusions in regards to which features influence the target variable **shot_made_flag** the most, and to build a model that can predict its missing values
+- The two methods chosen are Logisitc Regression and LDA
 
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+3.1 - Heatmap of all the variables
+3.2 - One Hot Encoding
+3.3 Dimensionality Reduction and Logistic Regression
+3.4 Linear Discriminant Analysis
+
+## Results
+
+- Clean data set containing all the shots features and Logistic Regression model for shot_made_flag
+- Set of figures that help visualize the results and draw conclusions about the dataset
+
+
+## Deliverables
+- `data.csv` - with all the data collected from Kaggle
+- `Kobe_Bryant_Project.ipynb` - containing all the code that built the project
+- `figures` - containing the product of all the visualization that supported the project
+- https://view.genial.ly/5e7e97d35ad5150d93c92bb6/guide-statistical-analysis
