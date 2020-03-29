@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100" align="right"/>
 
 
-#   Project Ironhack Data Bootcamp: Visualizing Pokémon VGC Data
+#   Project Ironhack Data Bootcamp: Statistical analysis on Happiness-Culture interaction
 
 MIGUEL GARCÍA MELGAR
 
@@ -20,121 +20,184 @@ MIGUEL GARCÍA MELGAR
 
 ### Overview
 
-The goal of this project was to practice creating and interpreting different types of visualizations using real world data, yet I decided to use the data I cleaned and transformed for the previous project.
+In order to practice statistical analysis using the iterative data analysis process, I've chosen two datasets related to my backround in psychology.
 
 
 ### Technical Requirements
 
-The technical requirements for this project are as follows:
+The technical requirements for this project have been:
 
-* We had to select a dataset from a public source but, despite being in a public github repo, we used the datasets resulting from the previous project.
-* We created a Jupyter noteboosk to analyze the data.
-* Using our data, we tried to create a at least of one scatter plot, one histogram, one box plot and one bar graph. Graphs should contain the proper labeling of the x and y axis when appropriate as well as a title for the graph.
-* Explain what insights can be inferred from these visualizations. The explanation should be in the notebook in markdown cells.
+* Trying to apply everything I have learned so far about data analysis such as data cleaning, data manipulation, data visualization, and various statistical analysis methods.
 
-### Necessary Deliverables
+* Applying the iterative data analysis process -- setting expectations, collecting information, and reacting to data / revising expectations.
+
+* Conducting an analysis in Jupyter Notebook using Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, and other Python libraries I've have learned, as necessary.
+
+### Deliverables
 
 The following deliverables were pushed to our Github repo for this chapter.
 
-* **A Jupyter Notebook** containing the analysis and the code used to obtain this analysis.
-* **An data folder** containing the datasets
-* **A README.md** containing a detailed explanation of the followed approach visializing and analysing the information.
+* * **A Jupyter Notebook (statistical-analysis.ipynb)** containing our Python codes, outputs, and data visualizations. Making sure to include explanations for each step in Markdown cells or Python comments.
+* **A folder** named "data" containing the I used.
+* **This README.md** containing a detailed explanation of the followed approach visializing and analysing the information.
 
 <a name="Datasets"></a>
 
 ## Datasets
  
-* The datasets we'll use are 4 csv files: pikalyticsDF_clean, cointaining the cleaned information resulting from using pikalytics API; wikidexDF_clean, that includes cleaned information obtained from wikidex web page; Combined_DF_clean, that combines the previous datasets; and outliers_clean, which states those pokemon that are very rarely used in VGC 2020.
-* If we have time enough we will use Parsehub to scrape information from Pokémon World Championships official results on pokemon.com from 2014 to 2019 so as to create a new dataset joining and listing the top 8 contestants' teams of masters, senior and junior categories.
+One is [Hofstede's six-dimensions model](https://data.world/adamhelsinger/geerthofstedeculturaldimension) has information on the results of several countries for various years and, similarly [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness); I will focus on 2015 data.
   
 <a name="workflow"></a>
 
 ## Introduction
 
-The Video Game Championships (VGC) is a yearly tournament, created by The Pokemon Company International in order to give video game players a large-scale ingame competition, similar to what they have already for the Trading Card Game. The rules, however, are very different from the standard metagame people at Smogon reated.
+**Geert Hofstede's cultural dimensions theory** proposes a method of analyzing cultures based on a handful of continuums.
 
-<p align="center">
-<img src="https://victoryroad.es/wp-content/uploads/2019/03/VG-Championships-Logo.png" alt="Regionals" width="100"/>
-</p>
-    
-The biggest change between the standard Smogon rules and the VGC rules is that battles are primarily doubles instead of singles. Because of time constraints involved with hosting large-scale tournaments in a single day, doubles was chosen for the faster paced metagame and the inability to stall due to the number of attacks being thrown around each turn. Doubles allows for certain strategies such as Trick Room and Gravity to be more effective, and people going into the VGC with a singles mindset will be unprepared for the myriad of strategies being used.
+`Power distance index (PDI):` The power distance index is defined as “the extent to which the less powerful members of organizations and institutions (like the family) accept and expect that power is distributed unequally.”
 
-<p align="center">
-<img src="https://victoryroadvgc.com/wp-content/uploads/2019/03/INTERNATIONAL-LOGO-FINAL-279x300.png" alt="Internationals" width="100"/>
-</p>
+`Individualism vs. collectivism (IDV):` This index explores the “degree to which people in a society are integrated into groups.”
 
-Another major difference is the level 50 limit, which helps certain Pokemon do things they normally cannot do at level 100. Timid Max Speed Scarf Abomasnow normally hits 360 Speed at level 100; a +Speed Azelf will outspeed Scarf Abomasnow by 1 point. However, at level 50, the same Abomasnow will hit 184 Speed while the same Azelf will only hit 183 Speed. This is big as Abomasnow can now do damage to Azelf before Azelf can even move, something normally not possible in the standard metagame.
+`Uncertainty avoidance index (UAI):` The uncertainty avoidance index is defined as “a society's tolerance for ambiguity,” in which people embrace or avert an event of something unexpected, unknown, or away from the status quo.
 
-<p align="center">
-<img src="https://victoryroadvgc.com/wp-content/uploads/2019/03/Worlds-Logo-300x281.png" alt="World championship" width="100"/>
-</p>
+`Masculinity vs. femininity (MAS):` In this dimension, masculinity is defined as “a preference in society for achievement, heroism, assertiveness and material rewards for success.”
 
-Item clause is another change standard players may not be familiar with: each Pokemon must have a different item from one another, which forces players to be creative when building a team. While creating a team, the creator has to keep this in mind, as one cannot just stick Leftovers or Life Orb on every Pokemon and call it a day. There is a large number of usable items, so finding an item for a certain purpose is not incredibly difficult; the problem arises when you have two similar Pokemon that would love to have the same item, so finding a useful substitute can be difficult.
+`Long-term orientation vs. short-term orientation (LTO):` This dimension associates the connection of the past with the current and future actions/challenges.
+
+`Indulgence vs. restraint (IND):` This dimension is essentially a measure of happiness; whether or not simple joys are fulfilled.
+
+More contextual information about this model can be found in here: https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?referer=https://en.wikipedia.org/&httpsredir=1&article=1014&context=orpc
+
+
+**The World Happiness Report 2015** is a landmark survey of the state of global happiness which ranks 158 countries by their happiness levels based on six factors.
+
+
+`Country:` Name of the country.
+
+`Region:` Region the country belongs to.
+
+`Happiness Rank:` Rank of the country based on the Happiness Score.
+
+`Happiness Score:` A metric measured in 2015 by asking the sampled people the question: "How would you rate your happiness on a scale of 0 to 10 where 10 is the happiest."
+
+`Economy:` real GDP per capita
+
+`Family:` social support
+
+`Health:` healthy life expectancy
+
+`Freedom:` freedom to make life choices
+
+`Trust:` perceptions of corruption
+
+`Generosity:` perceptions of generosity
+
+`Dystopia:` each country is compared against a hypothetical nation that represents the lowest national averages for each key variable and is, along with residual error, used as a regression benchmark.
 
 ## Workflow
 
-### Import Useful Libraries
+###  Introduction
+####  Objectives
+####  Imports
 
-### Pikalytics dataset
-#### Pikalytics dataset EDA and cleaning
-#### Pikalytics dataset visualization
-#### Pikalytics dataset insights
+###  1. EDA
+####  Hofstede's six-dimensions model (2015)
+#####  Context
+#####  Read dataset and check head
+#####  Check tail
+#####  Check shape
+#####  Check dtypes and columns
+#####  Check nulls
+##### Check duplicates
+#####  See some descriptive statistics
+####  World Happiness Report 2015
+#####  Context
+#####  Read dataset and check head
+#####  Check tail
+#####  Check shape
+#####  Check dtypes and columns
+#####  Check nulls
+#####  Check duplicates
+#####  See some descriptive statistics
 
-### Wikidex dataset
-#### Wikidex dataset EDA and cleaning
-#### Wikidex dataset visualization
-#### Wikidex dataset insights
+###  2. Describe relationships between variables
+####  Hofstede's six-dimensions model (2015)
+####  World Happiness Report 2015
 
-### Combined dataset
-#### Combined dataset EDA and cleaning
-#### Combined dataset visualization
-#### Combined dataset insights
+###  3. Features should be investigated in depth combining datasets
+####  Merge of datasets
 
-### Outliers dataset
-#### Outliers dataset EDA and cleaning
-#### Outliers dataset visualization
-#### Outliers dataset insights
+###  4. Data cleaning & manipulation
+####  Feature reduction.
+####  Remove columns with high proportion of missing values.
+####  Remove records with missing values.
+####  Adjust skewed data distribution.
+#####  Normality testing
+#####  Standardize measures and check correlations
+
+###  5. Hypothesis testing
+
+###  6. Bonus: Regression analysis and PCA
+####  Regression model
+####  PCA
+#####  How much components are needed to explain >= 0.95 of variance?
+
 
 ## Conclusions
 
-##### ¿Does viability predict usage?
+##### Hofstede's six-dimensions model (2015) correlations
 
-We don't really know if *viability* predicts *usage*, or if it is the latest that defines which Pokémon deserves to be in which *viability* cluster. However we can see that the 3 most used Pokémon are in cluster B, cluster B- Pokémon are used almost as much frequently, and very few Pokemon within-cluster C+ are used, being 0 Pokémon from lower strata. 
+**Most correlations seem to be negligible but there's still some significant ones:**
+`Power distance` highly negatively correlates with `Individualism vs Collectivism`, and has low but significant correlations with `Uncertainty Avoidance`, positively, and negativley with  `Indulgence vs Restraint`. The latter also correlates moderately negatively with `Long Term versus Short Term Orientation`.
 
-Still, we don't know what are the rules deciding in which stratum Pokémon are classified and... ¿What about A, A-, and B+ clusters? ¿Are they *Uber* (banned)?
+So the **more hierarchy** is accepted in a country, the **more colectivistic** the culture seems being also quite probable citizens' tendency to **avoid risk** and **surpress emotions and pleasure**.
+In those countries where **pleasure seek is indulged**, usually there's also a common tendencty to think in the **short-term future**.
 
-##### Comment about Base Stats distribution through the whole list of Pokémon.
+##### World Happiness Report 2015
 
-`Shape:`
-All the distributions are right-skewed, slightly in *Attack* and *Speed* instances, which are closer to a normal distribution; but none is Wald distributed as they had no support on (0,∞). 
-
-`Centre:`
-The stat with the highest mean is *Attack* (80.11) whilst the lowest is *Speed* (67.96) being all-together with *HP* (69.53) the only stats with below overall stats mean (72.78) means.
-
-`Spread:`
-The stat that holds the biggest spread is *HP* (1-255) whereas *Speed* (5-180) has the lowest range of values.
-
-`Kurtosis:`
-Defensive stats (*HP, Defense and Special Defense*) seem to be more Leptokurtic, especially *HP*. On the other hand, offensive-related base stats are more Mesokurtic, being *Speed* the best example.
+**As the 6 indexes the test uses were chosen from factorizing Happiness Score, we will just focus on correletions between them.**
+They all positively correlate except `Generosity` with a negligible negative correlation with `Economy`.
+Moreover, the top 3 correlations, being correlations over 0.5, are the top 3 Happiness Score factors: `Economy`, `Family` and `Health`.
 
 ##### Comments about VGC 2020 Usage % and Base Stats Mean relationship
 
 Pokémon's usage in VGC 2020 online competitions seems to be ***positively correlated*** with each Pokémon's Base Stats Mean forming a ***logarithmic growth*** so that Stats Means grow a lot without affecting much to VGC Usage %, and from 70 base stats means, usage starts increasing really fast, and it almost stops growing from 85-90 mean values.
 
-##### Comment about Base Stats distribution of Pokémon very rarely used in VGC 2020
-`Centre:`
-The stat with the highest mean is *Defense* (62.13) whilst the lowest is *HP* (46.94) being all-together with *Speed* (48) being below average (54.67) as *Special Attack* (52.94).
+##### Correlations of the merged and standardized dataset (Happiness Score + 6 cultural dimensions)
+**Most correlations seem to be negligible but there's still some significant ones:**
+`Happiness Score` highly positively correlates with `Indulgence vs Restraint`(0.73), and moderately correlates with `Power distance` and `Individualism vs Collectivism`, respectively in a negative (-0.56) and in a positive(0.44) way.
 
-`Spread:`
-The stat that holds the biggest spread is *Defense* (24-135) whereas *Speed* (16-75) has again the lowest range of values.
+So that **higher levels of happiness** are registered in coutries where **pleasure seek is indulged** and can be described as **egalitarian** and **individualistic**.
 
-`Outliers:`
-Among all outliers, there's just 2 that are not in this dataset because of having much lower Base Stats Mean that the other competitive Pokémon: Shedinja and Stonjourner. The first one is here because of its negligible HP (1), the latest because of holding the lowest Base Special Defense among Pokémon frequently used in VGC.
+##### Hypothesis testing
+As the hypothesis were sided and we have standardized data a one sided T-Test with a 95% confidence interval was performed. 
 
-Actually, all those data come from those Pokémon that are outliers among VGC 2020 used Pokémon, still there 2 outliers among them. 
+H0: Individualistic societies are happier (>) than colectivistic ones.
+H1: Individualistic societies aren't happier (<=) than colectivistic ones.
 
-One of them is Shedinja which can be considered an outlier among outliers because of its HP (being 1). The other one is Stonjourner, outlying because of both its high HP (100) and its high defence (135).
+With a stat=0.445 and p=0.001; **H0 has been accepted**.
+
+
+##### According to the regression analysis using a multivariate OLS model:
+
+The most important variables in the model are, in this order, "ind", "lto", "pdi" and "idv"; having an R-squared of 0.759, so that a lot of its variability depends on the variables included in the model.
+
+It is kinda curious as its correlations coefficient were:
+
+- `Indulgence vs Restraint` = 0.73, which is coherent with the regression coefficient of 0.77
+- `Power - distance` = -0.56, differing in size from the regression coefficient, -0.21
+- `Individualism vs Collectivism` = 0.44, which as PDI has a regression coef "halving" its correlation one being  0.163
+- `Long Term vs Short Term Orientation` = -0.11, which is pretty interesting as its regression coefficient doubles and turns positive, 0.23
+
+##### After doing a PCA
+
+**87,9% of variance can be explained with 4 of the 6 possible components**, they're probably the top 4 obtained from the regression model but we can't be sure. 
+
+We have also seen that with a 5th component 95% of the variability would be explained, but remember there were just 6, so it is not really a good idea to focus on few components we you are already using just a few.
 
 ## Future Improvements
 
-* We will use Parsehub to scrape information from Pokémon World Championships official results on pokemon.com from 2014 to 2019 so as to create a new dataset joining and listing the top 8 contestants' teams of masters, senior and junior categories.
+* We have to find out why correlation coeficients differ but one of the main issues could be that the samble was not that big and it had to be reduced a lot. 
+
+* There are currently 247 countries but one of our datasets had results from 111 countries and the other only considered 158 and they didn't always coincide plus there were some NaN values. We ended up with a dataset of just 57 countries' results. I shiould try to look for more complete and up-to-date data.
+
+* It would be interesting to analyze how other indexes that conform Happiness Score correlate with the 6 cultural dimensions.
