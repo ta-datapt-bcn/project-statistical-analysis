@@ -18,13 +18,20 @@ KRISTINA KUNCEVICIUTE
 
 ## Project Description
 
-The goal of this project is to practice statistical analysis. Using the Amazon Dataset discover if there are particular attributes of the products that may impact their success per product categories.
+The goal of this project is to practice statistical analysis. 
+Using the Amazon and Brazilian E-Commerce datasets discover if there are particular attributes of the products that may impact their success.
+
+Note: 
+- The first dataset analyzed was Amazon dataset, after investigating, it appeared that there is almost no correlation between the variables.
+- Second analysis is done with the Brazilian E-Commerce data.
 
 <a name="dataset"></a>
 
-## Dataset
+## Datasets
 
-Dataset [Amazon_co-ecommerce_sample](https://data.world/promptcloud/fashion-products-on-amazon-com/workspace/file?filename=amazon_co-ecommerce_sample.csv).
+Datasets:
+- [Amazon_co-ecommerce_sample](https://data.world/promptcloud/fashion-products-on-amazon-com/workspace/file?filename=amazon_co-ecommerce_sample.csv).
+- [Brazilian E-Commerce data](https://www.kaggle.com/olistbr/brazilian-ecommerce).
 
 <a name="workflow"></a>
 
@@ -32,14 +39,11 @@ Dataset [Amazon_co-ecommerce_sample](https://data.world/promptcloud/fashion-prod
 
  - Select a dataset from a public source.
  - Create a Jupyter notebook to analyze the data
- - Cleaning data
- - Understanding and manipulating data
- - Checking correlation between variables
+ - Data cleaning
+ - Exploratory analysis
+ - Correlation
  - Hypothesis testing
-      - Normal distribution (T-Test)
-      - Not normal distribution (Mann–Whitney U test)
-      - Not normal distribution, between categorical and numeric variables (Kruskal-Wallis H Test)
- - Calculating Bayesian Average of rating per category
+ - Calculating Bayesian Average
  - Confidence intervals
  - Linear regression
 
@@ -47,6 +51,39 @@ Dataset [Amazon_co-ecommerce_sample](https://data.world/promptcloud/fashion-prod
 <a name="results"></a>
 
 ## Results
+
+Brazilian E-Commerce dataset:
+
+Results from the Exploratory Data Analysis:
+ - Have 2 years of transactional data between 2016-10 and 2018-08
+ - In both cases, the usage and the total value, credit card payment type is the clear leader
+ - The majority of customers buy up to 2 products
+ - Revenue differ a lot depending on the state, SP generates most revenue
+ - We can see a big increase in sales in November 2017 (due to Black Friday), something that could be expected to repeat in 2018
+ - Identified top 3 selling categories that generate the biggest part of revenue
+ - Identified top voted categories
+
+Results from the Correlation analysis:
+ - Identified the most correlated variables with the payment value
+
+Results of the hypothesis testing:
+ - The average payment value in two selected groups (2 categories that have the highest average payment value) is significantly different
+ - We saw that the average ratings were similar, but thanks to the test we realized that there is actually a significant difference between the 3 top scored categories
+ 
+Results from the confidence intervals analysis:
+ - We are 95% sure that the population mean of payment value lies within the range of lower 4.596 and upper 4.798 limit.
+
+Results form the Linear Regression model:
+ - R-squared value of 0.356, meaning that this model explains 35,6% of the variance in our dependent variable.
+ - The pvalue is lower than 0.05, meaning we can reject the Null hypothesis and accept the alternate hypothesis. There is a statistically significant impact on the payment value from our selected independent variables.
+- The biggest impact on the payment value is coming from:
+  - payment_sequential(several payment methods), increasing by one it decreases the payment value by -0.3417
+  - order_item_id (number of items included in the same order), increasing by one it increases the payment value by 0.3049
+  - payment_installments, increasing by one it increases the payment value by 0.1054
+ 
+ 
+
+Amazon Dataset:
 
  - From the exploratory data analysis we already identified that 
      - the number of sales and average price differ a lot depending on the category
