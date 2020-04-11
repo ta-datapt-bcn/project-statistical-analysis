@@ -52,7 +52,7 @@ Datasets:
 
 ## Results
 
-Brazilian E-Commerce dataset:
+**Brazilian E-Commerce dataset:**
 
 Results from the Exploratory Data Analysis:
  - Have 2 years of transactional data between 2016-10 and 2018-08
@@ -83,7 +83,7 @@ Results form the Linear Regression model:
  
  
 
-Amazon Dataset:
+**Amazon Dataset:**
 
  - From the exploratory data analysis we already identified that 
      - the number of sales and average price differ a lot depending on the category
