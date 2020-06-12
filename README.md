@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100" align="right"/>
 
 
-#   Project Ironhack Data Bootcamp
+#   Project - Statistical Analysis of E-Commerce Data
 
 KRISTINA KUNCEVICIUTE
 
