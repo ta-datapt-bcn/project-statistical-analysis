@@ -1,66 +1,122 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100" align="right"/>
 
-# Project: Statistical Analysis
 
-## Overview
+#   Project Ironhack Data Bootcamp
 
-The goal of this project is for you to practice statistical analysis using the iterative data analysis process. For this project, you will use this [Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset we choose for you. You need to download the `train.csv` dataset then use your statistical analysis skills to analyze this dataset. **The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
+KRISTINA KUNCEVICIUTE
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
+*Data Part Time Barcelona Dic 2019*
 
----
 
-## Technical Requirements
+## Content
+- [Project Description](#project)
+- [Dataset](#dataset)
+- [Workflow](#workflow)
+- [Results](#results)
 
-The technical requirements for this project are as follows:
+<a name="project"></a>
 
-* Try to apply everything you have learned so far about data analysis (in creative ways if you can) such as data cleaning, data manipulation, data visualization, and various statistical analysis methods.
+## Project Description
 
-* Apply the iterative data analysis process -- setting expectations, collecting information, and reacting to data / revising expectations.
+The goal of this project is to find the insights that would be useful for future business decisions.
+Using Amazon and Brazilian E-Commerce datasets discover if there are particular attributes of the products that may impact their success.
 
-* Conduct your analysis in Jupyter Notebook using Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, and other Python libraries you have learned, as necessary.
+Note: 
+- The first dataset analyzed was Amazon dataset, after investigating, it appeared that there is almost no correlation between the variables.
+- Second analysis is done with the Brazilian E-Commerce data.
 
-## Necessary Deliverables
+<a name="dataset"></a>
 
-The following deliverables should be pushed to your Github repo for this project.
+## Datasets
 
-* **A Jupyter Notebook (statistical-analysis.ipynb)** containing your Python codes, outputs, and data visualizations. Make sure to include explanations for each of your steps in Markdown cells or Python comments.
+Datasets:
+- [Amazon_co-ecommerce_sample](https://data.world/promptcloud/fashion-products-on-amazon-com/workspace/file?filename=amazon_co-ecommerce_sample.csv).
+- [Brazilian E-Commerce data](https://www.kaggle.com/olistbr/brazilian-ecommerce).
 
-* [optional] A `README.md` file containing any additional information.
+<a name="workflow"></a>
 
-## Suggested Ways to Get Started
+## Workflow
 
-1. Explore data and understand what the fields mean.
+ - Exploratory Data Analysis (EDA):
+  - Data Collection
+  - Understanding the Dataset
+  - Understanding Variables
+  - Data Cleaning
+  - Data Transformation
+  - Analyzing relationships between variables
+  - Data Visualization
+ - Inferential Statistics:
+  - Hypothesis testing
+  - Confidence intervals
+ - Bayesian average of ratings per category
+ 
+ 
+ **Libraries Used:**
 
-1. Examine the relationships between the sales price and other features in the dataset. Use data visualization techniques to help you gain intuitive understanding of the relationships.
+ - Scipy
+ - NumPy
+ - Pandas
+ - Seaborn
+ - Plotly Express
+ - Matplotlib
 
-1. Make informed guess on which features should be investigated in depth.
+ 
+<a name="results"></a>
 
-1. Data cleaning & manipulation. Apply the following techniques as appropriate:
-    * Adjust skewed data distribution.
-    * Remove columns with high proportion of missing values.
-    * Remove records with missing values.
-    * Feature reduction.
-    * Convert categorical data to numerical.
+## Results
 
-1. Compute field relationship scores with the chosen statistical model.
+**Brazilian E-Commerce dataset:**
 
-1. Present your findings in statistical summary and/or data visualizations.
+**Results from the Exploratory Data Analysis:**
+ - Have 2 years of transactional data between 2016-10 and 2018-08
+ - In both cases, the usage and the total value, credit card payment type is the clear leader
+ - The majority of customers buy up to 2 products
+ - Revenue differ a lot depending on the state, SP generates most revenue
+ - We can see a big increase in sales in November 2017 (due to Black Friday), something that could be expected to repeat in 2018
+ - Identified top 3 selling categories that generate the biggest part of revenue
+ - Identified top voted categories
 
-## Project Feedback + Evaluation
+**Results from the Correlation analysis:**
+ - Identified the most correlated variables with the payment value
 
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+**Results of the hypothesis testing:**
+ - We failed to reject H0, not enough data to state that the averages are statistically different
+ 
+**Results from the confidence interval analysis:**
+ - We are 95% sure that the population mean of payment value lies within the range of lower 108.864 and upper 122.856 limit.
 
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
+**Bayesian average:**
+ - Identified that the average of rating score per category is biased. Conducted bayesian average to align it.
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
 
-* __Total__: Your instructors will give you a total score on your project between:
 
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
+**Amazon Dataset:**
 
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+**Results fom exploratory data analysis:**
+ - the number of sales and average price differ a lot depending on the category
+ - identified top-selling categories
+ - identified that the average ratings don't differ a lot (all between 4 and 5)
+ - After checking the correlation we identified that there is no strong correlation with any variables and we would need more data to be able to conduct a more informative statistical analysis
+  - Some correlation was discovered between the number of reviews and the number of answered questions, average review rating, description len.
+
+**Conducting various hypothesis testing on price, number of reviews and average rating. Main findings:**
+ - Out of 3 most selling, only Hobbies and Figures & Playsets have statistical significance in average price.
+ - There is a significant difference between the number of reviews in Hobbies and Die-Cast & Toy Vehicles categories.
+ - From the visual inspection, we saw that the average ratings were similar, but thanks to the test we realized that there is actually a significant difference between the 3 top categories.
+ 
+**After inspecting price confidence intervals for the top 3 selling categories we are 95% sure that:** 
+    - the population mean lies within the range of lower 2.218 and upper 2.592 limit
+    - the mean for Hobbies lies within the range of lower 2.498 and upper 2.832 limit
+    - the mean for Die-Cast & Toy Vehicles lies within the range of lower 2.473 and upper 2.751 limit
+    - the mean for Figures & Playsets lies within the range of lower 2.591 and upper 2.892 limit
+
+**Identified that the number of ratings is biased. Conducted bayesian rating average to align it.**
+
+ 
+ 
+ 
+ ## Next Steps
+ 
+ - Collect more data about the users and their behavior on site. Use ML models to predict which users are more likely to buy
+ - Get the data of transactions to be able to predict the revenue and identify the variables that have the biggest impact on sales
+ - Have the monthly data and check how the sales are changing depending on the months (seasonalities), forecast the future sales
