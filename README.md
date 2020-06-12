@@ -37,7 +37,7 @@ Datasets:
 
 ## Workflow
 
- - Exploratory Data Analysis (EDA):
+- **Exploratory Data Analysis (EDA):**
   - Data Collection
   - Understanding the Dataset
   - Understanding Variables
@@ -45,10 +45,10 @@ Datasets:
   - Data Transformation
   - Analyzing relationships between variables
   - Data Visualization
- - Inferential Statistics:
+- **Inferential Statistics:**
   - Hypothesis testing
   - Confidence intervals
- - Bayesian average of ratings per category
+- **Bayesian average of ratings per category**
  
  
  **Libraries Used:**
@@ -89,7 +89,7 @@ Datasets:
  - Identified that the average of rating score per category is biased. Conducted bayesian average to align it.
 
 
-
+<br><br>
 **Amazon Dataset:**
 
 **Results fom exploratory data analysis:**
