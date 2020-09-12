@@ -9,6 +9,7 @@ The goal of this project is for you to practice statistical analysis using the i
 **You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
 
 An example dataset would be [Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset we choose for you. You need to download the `train.csv` dataset then use your statistical analysis skills to analyze this dataset. **The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
+
 ---
 
 ## Technical Requirements
