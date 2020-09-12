@@ -4,10 +4,11 @@
 
 ## Overview
 
-The goal of this project is for you to practice statistical analysis using the iterative data analysis process. For this project, you will use this [Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset we choose for you. You need to download the `train.csv` dataset then use your statistical analysis skills to analyze this dataset. **The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
+The goal of this project is for you to practice statistical analysis using the iterative data analysis process on a dataset of your choice. 
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
 
+An example dataset would be [Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset we choose for you. You need to download the `train.csv` dataset then use your statistical analysis skills to analyze this dataset. **The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
 ---
 
 ## Technical Requirements
@@ -32,7 +33,7 @@ The following deliverables should be pushed to your Github repo for this project
 
 1. Explore data and understand what the fields mean.
 
-1. Examine the relationships between the sales price and other features in the dataset. Use data visualization techniques to help you gain intuitive understanding of the relationships.
+1. Examine the relationships between the features in the dataset. Use data visualization techniques to help you gain intuitive understanding of the relationships.
 
 1. Make informed guess on which features should be investigated in depth.
 
@@ -40,10 +41,14 @@ The following deliverables should be pushed to your Github repo for this project
     * Adjust skewed data distribution.
     * Remove columns with high proportion of missing values.
     * Remove records with missing values.
-    * Feature reduction.
+    * Feature selection.
     * Convert categorical data to numerical.
 
-1. Compute field relationship scores with the chosen statistical model.
+1. Perform some statistical analysis on the data
+   * Regression analysis (predict some variable values)
+   * Mean difference between groups
+   * Simulation rom derived variable distribution
+   * ...
 
 1. Present your findings in statistical summary and/or data visualizations.
 
