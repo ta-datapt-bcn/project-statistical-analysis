@@ -20,6 +20,10 @@ The technical requirements for this project are as follows:
 
 * Conduct your analysis in Jupyter Notebook using Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, and other Python libraries you have learned, as necessary.
 
+* It will be mandatory to use 3 different inferential statistics methods if using a prediction algorithm (regression / time series / classification) or 5 inferential methods without predictions.
+
+* At least 5 interactive plots will be needed to do the presentation, at least 1 of them must use ipywidgets and at least one of them must use plotly.
+
 ## Necessary Deliverables
 
 The following deliverables should be pushed to your Github repo for this project.
