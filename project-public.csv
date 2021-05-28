@@ -1,0 +1,608 @@
+EEID,Status,Age,Gender,Education Level,Hire Date,Termination Date,Termination Type,Termination Reason,Job Information: Date,Division,Department,Supervisor EID,Pay rate,Pay rate - Currency code,Compensation Change Reason,Stock Options,Level,Is Supervisor,Length of service,Length of service: Years
+343,Inactive,28,Female,Undergraduate degree (Grado),19 Aug 2019,30 Sep 2019,Involuntary,End of contract,19 Aug 2019,People,People Operations,1,6047,EUR,Reduce/Increase Working hours,N,,No,"1 month, 11 days",0
+468,Inactive,29,Male,Unknown,05 Jul 2016,30 Mar 2017,Involuntary,End of contract,05 Jul 2016,Engineering,,234,6144,EUR,,N,,No,"8 months, 25 days",0
+458,Inactive,27,Male,Unknown,05 Sep 2016,26 Jan 2017,Involuntary,End of contract,05 Sep 2016,Engineering,,,6144,EUR,,N,,No,"4 months, 21 days",0
+379,Inactive,25,Male,Undergraduate degree (Grado),23 Oct 2017,28 Aug 2018,Involuntary,End of contract,23 Oct 2017,Engineering,,,6144,EUR,New hire,N,,No,"10 months, 5 days",0
+492,Inactive,58,Female,Unknown,13 Sep 2017,29 Sep 2017,Involuntary,End of contract,13 Sep 2017,People,,,7200,EUR,,N,,No,16 days,0
+570,Inactive,21,Male,High-school (Bachillerato),09 Mar 2020,31 Jul 2020,Involuntary,End of contract,09 Mar 2020,Strategy,,148,9984,EUR,,N,E0,No,"4 months, 22 days",0
+676,Inactive,24,Female,Master/Postgraduate,02 Nov 2020,16 Apr 2021,Involuntary,End of contract,02 Nov 2020,Strategy,Strategy,148,11290,EUR,New hire,N,E0,No,"5 months, 14 days",0
+410,Inactive,24,Male,Unknown,25 Jun 2018,24 Dec 2018,Involuntary,End of contract,25 Jun 2018,Engineering,,,11341,EUR,,N,L0,No,"5 months, 29 days",0
+752,Active,27,Male,Master/Postgraduate,06 Apr 2021,,,,15 Apr 2021,Marketing,Demand Generation,217,11520,EUR,New hire,N,E0,No,"1 month, 22 days",0
+776,Active,23,Female,Master/Postgraduate,17 May 2021,,,,17 May 2021,Strategy,Strategy,148,11520,EUR,New hire,N,E0,No,11 days,0
+336,Inactive,26,Female,Unknown,27 Jun 2016,20 Jan 2017,Involuntary,End of contract,27 Jun 2016,Marketing,Brand Marketing,,12288,EUR,,N,,No,"6 months, 23 days",0
+483,Inactive,31,Female,Master/Postgraduate,20 Mar 2017,31 Aug 2017,Involuntary,End of contract,20 Mar 2017,People,,,12288,EUR,New hire,N,,No,"5 months, 11 days",0
+387,Inactive,32,Female,Unknown,03 Jul 2017,29 Dec 2017,Involuntary,End of contract,03 Jul 2017,Data & Analytics,,,12480,EUR,,N,,No,"5 months, 26 days",0
+384,Inactive,37,Female,Unknown,19 Mar 2018,12 Jul 2018,Voluntary,Personal reasons,19 Mar 2018,Marketing,Brand Marketing,,13824,EUR,,N,,No,"3 months, 24 days",0
+620,Inactive,26,Female,Master/Postgraduate,02 Nov 2020,29 Jan 2021,Involuntary,End of contract,02 Nov 2020,Marketing,Demand Generation,544,14400,EUR,New hire,N,E0,No,"6 months, 8 days",0
+481,Inactive,35,Male,Unknown,27 Mar 2017,06 Apr 2018,Involuntary,Low Performance,27 Mar 2017,Engineering,,,16000,EUR,New hire,Y,,No,"1 year, 10 days",1
+249,Active,27,Female,Undergraduate degree (Grado),19 Aug 2019,,,,15 Apr 2021,Finance & Legal,Legal,280,17200,EUR,Contract change,Y,E1,No,"1 year, 9 months, 9 days",1
+451,Inactive,28,Female,Unknown,27 Feb 2017,16 Mar 2018,Involuntary,Low Performance,27 Feb 2017,Finance,,,17600,EUR,,Y,,No,"1 year, 17 days",1
+648,Inactive,29,Female,Undergraduate degree (Grado),01 Feb 2016,14 Oct 2016,Voluntary,No details given,01 Feb 2016,Customer Success,,,18400,EUR,Contract change,Y,,No,"1 year, 1 day",1
+144,Active,24,Female,Undergraduate degree (Grado),17 May 2019,,,,15 Apr 2021,Finance & Legal,Finance,568,18832,EUR,Merit increase,N,E1,No,"2 years, 11 days",2
+488,Inactive,33,Female,Unknown,29 May 2017,09 Mar 2018,Involuntary,Low Performance,29 May 2017,People,,,19200,EUR,,Y,,No,"9 months, 11 days",0
+489,Inactive,34,Female,Unknown,17 Jul 2017,28 Oct 2018,Voluntary,Other employment,01 Sep 2018,Home,,,19200,EUR,,Y,,No,"1 year, 3 months, 11 days",1
+158,Inactive,31,Male,Unknown,30 Apr 2018,30 Sep 2020,Involuntary,Role no longer needed,07 Sep 2020,People & Home,Home,660,19200,EUR,,N,E1,No,"2 years, 5 months, 0 days",2
+359,Inactive,41,Female,Secondary school (ESO),10 Dec 2018,01 Aug 2019,Involuntary,Low Performance,10 Dec 2018,Home,,1,19200,EUR,,Y,,No,"7 months, 22 days",0
+155,Active,36,Female,Unknown,01 Dec 2014,,,,15 Apr 2021,People & Home,Home,660,20000,EUR,Merit increase,Y,E1,No,"6 years, 5 months, 27 days",6
+487,Inactive,47,Female,Undergraduate degree (Grado),03 Apr 2018,31 Aug 2018,Involuntary,End of contract,03 Apr 2018,People,,,20000,EUR,New hire,N,,No,"4 months, 28 days",0
+587,Active,26,Male,Technical degree (FP),20 Apr 2020,,,,15 Apr 2021,Engineering,Corporate,267,20000,EUR,New hire,N,E1,No,"1 year, 1 month, 8 days",1
+701,Active,27,Female,Master/Postgraduate,11 Jan 2021,,,,15 Apr 2021,Marketing,Brand Marketing,223,20800,EUR,New hire,N,E1,No,"4 months, 17 days",0
+484,Inactive,35,Male,Unknown,14 Mar 2016,31 Aug 2017,Involuntary,Low Performance,14 Mar 2016,Finance,,,21600,EUR,New hire,Y,,No,"1 year, 5 months, 17 days",1
+123,Inactive,25,Female,Master/Postgraduate,16 Oct 2019,08 Mar 2020,Voluntary,Personal reasons,16 Oct 2019,People,People Operations,1,21600,EUR,New hire,N,E1,No,"4 months, 23 days",0
+539,Active,29,Female,Undergraduate degree (Grado),10 Feb 2020,,,,15 Apr 2021,Customer Success,Customer Support,165,21600,EUR,New hire,N,E2,No,"1 year, 3 months, 18 days",1
+581,Active,34,Female,Master/Postgraduate,06 Apr 2020,,,,15 Apr 2021,Design,Product Design,168,21600,EUR,New hire,N,E0,No,"1 year, 1 month, 22 days",1
+612,Active,35,Male,Technical degree (FP),02 Jun 2020,,,,15 Apr 2021,Customer Success,Customer Support,165,21600,EUR,New hire,N,E2,No,"11 months, 26 days",0
+728,Active,30,Female,Undergraduate degree (Grado),08 Mar 2021,,,,15 Apr 2021,Customer Success,Customer Support,165,21600,EUR,New hire,N,E2,No,"2 months, 20 days",0
+344,Inactive,30,Female,Undergraduate degree (Grado),03 Apr 2018,30 Sep 2019,Voluntary,Personal reasons,01 Nov 2018,People,People Experience,276,22400,EUR,,Y,L1,No,"1 year, 5 months, 27 days",1
+323,Inactive,25,Female,Unknown,04 Feb 2019,19 Nov 2019,Voluntary,Personal reasons,04 Feb 2019,Finance,Finance Operations,227,22400,EUR,,Y,L2,No,"9 months, 15 days",0
+345,Inactive,39,Male,Technical degree (FP),08 Jan 2018,23 Sep 2019,Voluntary,Unhappy with the salary / perks,08 Jan 2018,Customer Success,Customer Support,266,23184,EUR,,Y,L2,No,"1 year, 8 months, 15 days",1
+440,Inactive,31,Male,Unknown,21 Jan 2016,25 Nov 2016,Voluntary,Personal reasons,21 Jan 2016,Marketing,Email,,24000,EUR,New hire,Y,,No,"10 months, 4 days",0
+157,Inactive,39,Male,Technical degree (FP),17 May 2016,19 Jun 2020,Involuntary,Low Performance,30 Mar 2020,Home,Barception,1,24000,EUR,,Y,E2,No,"4 years, 1 month, 2 days",4
+482,Inactive,31,Male,Unknown,30 May 2016,02 May 2017,Voluntary,Unhappy with the manager,30 May 2016,Customer Success,,190,24000,EUR,New hire,Y,,No,"11 months, 3 days",0
+337,Inactive,30,Female,Unknown,04 Jul 2016,03 Aug 2018,Voluntary,Personal reasons,01 Mar 2017,Marketing,Brand Marketing,,24000,EUR,,Y,L1,No,"2 years, 30 days",2
+171,Active,41,Female,Master/Postgraduate,27 Sep 2017,,,,15 Apr 2021,People & Home,Home,660,24000,EUR,Promotion,N,E2,No,"3 years, 8 months, 1 day",3
+204,Inactive,29,Male,Master/Postgraduate,04 Dec 2017,31 Jan 2020,Voluntary,Ready for the next challenge,01 Mar 2019,Marketing,Content,223,24000,EUR,,Y,E1,No,"2 years, 1 month, 27 days",2
+324,Inactive,33,Female,Undergraduate degree (Grado),22 Jan 2018,18 Nov 2019,Voluntary,Other employment,01 May 2019,Customer Success,Customer Support,266,24000,EUR,,Y,L2,No,"1 year, 9 months, 27 days",1
+156,Active,29,Male,Master/Postgraduate,28 Aug 2018,,,,15 Apr 2021,People & Home,Home,660,24000,EUR,Promotion,Y,E2,No,"2 years, 9 months, 0 days",2
+577,Active,26,Female,Undergraduate degree (Grado),20 Apr 2020,,,,15 Apr 2021,People & Home,People Talent,146,24000,EUR,New hire,N,E2,No,"1 year, 1 month, 8 days",1
+605,Inactive,29,Female,Master/Postgraduate,18 May 2020,14 Apr 2021,Voluntary,Unhappy with the manager,01 Sep 2020,People & Home,People Talent,146,24000,EUR,New hire,N,E2,No,"10 months, 27 days",0
+675,Active,0,Female,Undergraduate degree (Grado),02 Nov 2020,,,,15 Apr 2021,Finance & Legal,Finance,692,24000,EUR,New hire,N,E2,No,"6 months, 26 days",0
+748,Active,37,Female,Undergraduate degree (Grado),06 Apr 2021,,,,15 Apr 2021,Customer Success,Customer Support,624,24000,EUR,New hire,N,E2,No,"1 month, 22 days",0
+490,Inactive,45,Female,Unknown,03 Aug 2015,18 May 2017,Involuntary,Low Performance,03 Aug 2015,People,,,24800,EUR,,Y,,No,"1 year, 9 months, 15 days",1
+491,Inactive,47,Male,Unknown,29 Feb 2016,16 Apr 2019,Involuntary,Low Performance,29 Feb 2016,Home,,,24800,EUR,,Y,,No,"3 years, 1 month, 16 days",3
+288,Inactive,27,Female,Unknown,03 Apr 2018,12 Jan 2020,Voluntary,Unhappy with the salary / perks,07 Aug 2019,Marketing,Content,223,24800,EUR,,Y,L1,No,"1 year, 9 months, 9 days",1
+742,Active,23,Female,Master/Postgraduate,06 Apr 2021,,,,15 Apr 2021,Marketing,Content,611,24800,EUR,New hire,N,E1,No,"1 month, 22 days",0
+753,Active,28,Female,Undergraduate degree (Grado),06 Apr 2021,,,,15 Apr 2021,Design,Creative Design,277,24800,EUR,New hire,N,E2,No,"1 month, 22 days",0
+766,Active,26,Female,Undergraduate degree (Grado),17 May 2021,,,,17 May 2021,Customer Success,Community & Learning,312,24800,EUR,New hire,N,E2,No,11 days,0
+265,Inactive,29,Female,Undergraduate degree (Grado),01 Apr 2019,02 Apr 2021,Voluntary,Ready for the next challenge,01 Sep 2020,Marketing,Content,223,24864,EUR,Merit increase,N,E1,No,"2 years, 1 day",2
+428,Inactive,23,Female,Unknown,02 Jul 2018,24 Aug 2018,Involuntary,End of contract,02 Jul 2018,,,,24960,USD,,N,L0,No,"1 month, 22 days",0
+457,Inactive,25,Male,Unknown,17 Sep 2018,17 Dec 2018,Involuntary,End of contract,17 Sep 2018,,,,24960,USD,,N,,No,"3 months, 0 days",0
+139,Active,37,Male,Unknown,11 Jun 2018,,,,15 Apr 2021,Business Development,Sales,579,25200,EUR,,Y,E1,No,"2 years, 11 months, 17 days",2
+300,Active,27,Male,Undergraduate degree (Grado),19 Aug 2019,,,,15 Apr 2021,Customer Success,Customer Engagement,725,25440,EUR,Merit increase,N,E2,No,"1 year, 9 months, 9 days",1
+178,Active,44,Male,Master/Postgraduate,14 Oct 2019,,,,15 Apr 2021,Customer Success,Customer Support,165,25440,EUR,Merit increase,N,E2,No,"1 year, 7 months, 14 days",1
+152,Active,25,Female,Undergraduate degree (Grado),11 Nov 2019,,,,15 Apr 2021,Customer Success,Community & Learning,558,25440,EUR,Merit increase,N,E2,No,"1 year, 6 months, 17 days",1
+154,Active,33,Male,Unknown,02 Jan 2017,,,,15 Apr 2021,People & Home,Home,660,25600,EUR,Reduce/Increase Working hours,Y,E2,No,"4 years, 4 months, 26 days",4
+339,Inactive,28,Female,Unknown,03 Apr 2017,02 Jun 2019,Voluntary,Ready for the next challenge,03 Apr 2017,Marketing,Brand Marketing,,25600,EUR,,Y,L1,No,"2 years, 1 month, 29 days",2
+433,Inactive,28,Male,Master/Postgraduate,14 May 2018,09 Apr 2019,Voluntary,Limited career opportunities,15 May 2018,Finance,,,25600,EUR,New hire,Y,L2,No,"10 months, 26 days",0
+639,Active,24,Male,Master/Postgraduate,24 Aug 2020,,,,15 Apr 2021,Strategy,Strategy,148,25600,EUR,New hire,N,E1,No,"9 months, 4 days",0
+668,Active,30,Female,Undergraduate degree (Grado),21 Sep 2020,,,,15 Apr 2021,Design,Creative Design,614,25840,EUR,New hire,N,E2,No,"8 months, 7 days",0
+252,Active,29,Male,Undergraduate degree (Grado),06 Jun 2017,,,,15 Apr 2021,Customer Success,Customer Support,165,25970,EUR,Merit increase,Y,E2,No,"3 years, 11 months, 22 days",3
+263,Active,26,Male,Undergraduate degree (Grado),01 Apr 2019,,,,15 Apr 2021,Design,Creative Design,279,26000,EUR,Merit increase,N,E1,No,"2 years, 1 month, 27 days",2
+310,Active,31,Female,Undergraduate degree (Grado),06 Dec 2016,,,,15 Apr 2021,Data & Analytics,Insights Enablers,225,26082,EUR,Reduce/Increase Working hours,Y,E2,No,"4 years, 5 months, 22 days",4
+463,Inactive,30,Female,Unknown,11 Jan 2016,07 Jan 2019,Voluntary,Ready for the next challenge,15 Feb 2017,Customer Success,Customer Education,,26400,EUR,,Y,L2,No,"2 years, 11 months, 27 days",2
+456,Inactive,31,Female,Unknown,02 May 2016,31 Oct 2018,Voluntary,Other employment,02 May 2016,Design,Creative Design,190,26400,EUR,,Y,L2,No,"2 years, 5 months, 29 days",2
+441,Inactive,26,Female,Unknown,31 Aug 2016,15 Dec 2017,Voluntary,No details given,31 Aug 2016,Marketing,Marketing Ops,,26400,EUR,,Y,,No,"1 year, 3 months, 15 days",1
+402,Inactive,33,Male,Unknown,17 Dec 2018,17 May 2019,Voluntary,Ready for the next challenge,17 Dec 2018,Design,Creative Design,190,26400,EUR,,Y,,No,"5 months, 0 days",0
+735,Active,24,Female,Master/Postgraduate,22 Mar 2021,,,,15 Apr 2021,Customer Success,Community & Learning,312,26400,EUR,New hire,N,E2,No,"2 months, 6 days",0
+206,Active,27,Male,Master/Postgraduate,01 Oct 2019,,,,15 Apr 2021,Strategy,Strategy,148,26880,EUR,Merit increase,N,E1,No,"1 year, 7 months, 27 days",1
+217,Active,29,Male,Master/Postgraduate,15 Oct 2018,,,,17 May 2021,Marketing,SEO,746,27200,EUR,Market adjustment,N,E1,Yes,"2 years, 7 months, 13 days",2
+592,Active,25,Male,Undergraduate degree (Grado),20 Apr 2020,,,,15 Apr 2021,Design,Creative Design,277,27200,EUR,New hire,N,E2,No,"1 year, 1 month, 8 days",1
+366,Inactive,38,Male,Unknown,12 Sep 2016,09 Aug 2019,Voluntary,Unhappy with the leadership,01 Nov 2018,Customer Success,Customer Support,165,27600,EUR,,Y,L2,No,"2 years, 10 months, 27 days",2
+527,Active,33,Male,Undergraduate degree (Grado),09 Dec 2019,,,,15 Apr 2021,Customer Success,Customer Support,165,27720,EUR,Merit increase,N,E2,No,"1 year, 5 months, 19 days",1
+357,Inactive,34,Female,Master/Postgraduate,09 Oct 2017,02 Sep 2019,Voluntary,Lack of strategy / direction,09 Oct 2017,Customer Success,Customer Engagement,219,28000,EUR,,Y,L2,No,"1 year, 10 months, 24 days",1
+254,Active,34,Female,Undergraduate degree (Grado),03 Apr 2018,,,,15 Apr 2021,Customer Success,Customer Support,266,28000,EUR,Lateral move,Y,E3,No,"3 years, 1 month, 25 days",3
+130,Active,46,Female,Master/Postgraduate,08 Jul 2019,,,,15 Apr 2021,People & Home,People Talent,146,28000,EUR,Contract change,N,E2,No,"1 year, 10 months, 20 days",1
+153,Inactive,44,Female,Undergraduate degree (Grado),11 Nov 2019,03 Apr 2020,Involuntary,Low Performance,11 Nov 2019,Home,,1,28000,EUR,New hire,N,M1,No,"4 months, 22 days",0
+729,Active,29,Female,Master/Postgraduate,22 Mar 2021,,,,15 Apr 2021,Customer Success,Project Management,220,28000,EUR,New hire,N,E2,No,"2 months, 6 days",0
+736,Active,26,Female,Undergraduate degree (Grado),06 Apr 2021,,,,15 Apr 2021,Customer Success,Community & Learning,312,28000,EUR,New hire,N,E2,No,"1 month, 22 days",0
+751,Active,29,Female,Master/Postgraduate,19 Apr 2021,,,,19 Apr 2021,Finance & Legal,Finance,272,28000,EUR,New hire,N,E2,No,"1 month, 9 days",0
+427,Inactive,35,Female,Unknown,18 Jul 2016,07 Sep 2018,Voluntary,Other employment,02 Oct 2017,,,,28248,EUR,,Y,,No,"2 years, 1 month, 20 days",2
+273,Active,34,Female,Master/Postgraduate,18 Mar 2019,,,,15 Apr 2021,Customer Success,Community & Learning,312,28248,EUR,Merit increase,N,E2,No,"2 years, 2 months, 10 days",2
+493,Inactive,28,Male,Unknown,27 Jun 2016,14 Dec 2018,Voluntary,Other employment,01 Sep 2017,Product,,,28800,EUR,,Y,L1,No,"2 years, 5 months, 17 days",2
+172,Inactive,30,Male,Master/Postgraduate,05 Dec 2016,05 Jun 2020,Involuntary,Low Performance,14 Apr 2020,Customer Success,Customer Engagement,220,28800,EUR,Merit increase,Y,E2,No,"3 years, 6 months, 0 days",3
+306,Inactive,33,Female,Undergraduate degree (Grado),08 Jul 2019,02 Jan 2020,Voluntary,Unhappy with the job,08 Jul 2019,Engineering,Funnel Health,228,28800,EUR,New hire,N,L1,No,"5 months, 25 days",0
+211,Inactive,33,Female,Undergraduate degree (Grado),08 Jul 2019,04 Jan 2021,Voluntary,Limited career opportunities,01 Sep 2020,People & Home,People Talent,146,28800,EUR,Merit increase,N,E2,No,"1 year, 5 months, 27 days",1
+624,Active,28,Female,Undergraduate degree (Grado),02 Jun 2020,,,,15 Feb 2021,Customer Success,Customer Support,312,28800,EUR,New hire,N,E2,Yes,"11 months, 26 days",0
+316,Active,31,Male,Undergraduate degree (Grado),01 Oct 2015,,,,15 Apr 2021,Design,Creative Design,279,29200,EUR,Merit increase,Y,E2,No,"5 years, 7 months, 27 days",5
+253,Active,36,Female,Undergraduate degree (Grado),22 Aug 2016,,,,15 Apr 2021,Customer Success,Customer Support,165,29245,EUR,Merit increase,Y,E3,No,"4 years, 9 months, 6 days",4
+338,Inactive,34,Female,Master/Postgraduate,19 Feb 2018,31 Mar 2019,Involuntary,Low Performance,19 Feb 2018,Marketing,Brand Marketing,,29600,EUR,,Y,L2,No,"1 year, 1 month, 12 days",1
+203,Inactive,33,Male,Master/Postgraduate,30 Apr 2018,10 Jan 2020,Involuntary,Low Performance,30 Apr 2018,People,People Talent,146,29600,EUR,,Y,L2,No,"1 year, 8 months, 10 days",1
+120,Active,28,Female,Undergraduate degree (Grado),06 May 2019,,,,15 Apr 2021,People & Home,People Operations,1,29600,EUR,Merit increase,Y,E2,No,"2 years, 22 days",2
+733,Active,26,Female,Undergraduate degree (Grado),22 Mar 2021,,,,15 Apr 2021,Marketing,Content,223,29600,EUR,New hire,N,E2,No,"2 months, 6 days",0
+215,Inactive,28,Male,Unknown,04 May 2016,19 Dec 2019,Voluntary,Ready for the next challenge,04 May 2016,Design,Creative Design,190,29621,EUR,,Y,L2,No,"3 years, 7 months, 15 days",3
+448,Inactive,37,Female,Unknown,09 May 2016,23 Dec 2018,Voluntary,Personal reasons,01 Mar 2018,Customer Success,Account Management,,29920,EUR,,Y,L3,No,"2 years, 7 months, 14 days",2
+477,Inactive,33,Male,Unknown,15 Feb 2016,13 Jan 2017,Voluntary,Other employment,15 Feb 2016,Engineering,Development,,30000,EUR,New hire,Y,,No,"10 months, 27 days",0
+453,Inactive,33,Male,Unknown,12 Jan 2015,13 Oct 2017,Voluntary,Other employment,12 Jan 2015,Engineering,Infrastructure,,30400,EUR,,Y,,No,"2 years, 9 months, 1 day",2
+391,Inactive,42,Female,Unknown,09 Jan 2017,28 Oct 2018,Voluntary,Other employment,09 Jan 2017,People,,,30400,EUR,,Y,L2,No,"1 year, 9 months, 19 days",1
+632,Inactive,36,Female,Technical degree (FP),01 Jul 2020,16 Apr 2021,Voluntary,Ready for the next challenge,14 Apr 2021,Customer Success,Customer Engagement,702,30400,EUR,New hire,N,E2,No,"9 months, 15 days",0
+646,Active,35,Female,Master/Postgraduate,13 Jul 2020,,,,15 Apr 2021,Security,Security,507,30400,EUR,New hire,N,E1,No,"10 months, 15 days",0
+663,Active,26,Male,Undergraduate degree (Grado),24 Aug 2020,,,,01 Sep 2020,Security,Security,507,30400,EUR,New hire,N,E1,No,"9 months, 4 days",0
+673,Active,33,Male,High-school (Bachillerato),02 Nov 2020,,,,15 Apr 2021,Design,Creative Design,504,30400,EUR,New hire,N,E2,No,"6 months, 26 days",0
+681,Active,34,Female,Undergraduate degree (Grado),16 Nov 2020,,,,15 Apr 2021,Design,Creative Design,504,30400,EUR,New hire,N,E2,No,"6 months, 12 days",0
+214,Active,31,Male,Master/Postgraduate,28 Aug 2017,,,,15 Apr 2021,Marketing,Content,223,30414,EUR,Merit increase,Y,E2,No,"3 years, 9 months, 0 days",3
+512,Active,29,Female,Undergraduate degree (Grado),13 Jan 2020,,,,15 Apr 2021,Customer Success,Customer Engagement,702,30784,EUR,Merit increase,N,E2,No,"1 year, 4 months, 15 days",1
+505,Active,35,Male,Master/Postgraduate,13 Jan 2020,,,,15 Apr 2021,Customer Success,Customer Engagement,702,30784,EUR,Merit increase,N,E2,No,"1 year, 4 months, 15 days",1
+436,Inactive,34,Female,Unknown,13 Jun 2016,04 Nov 2018,Voluntary,Other employment,01 Mar 2018,Design,Product Design,,31200,EUR,,Y,L2,No,"2 years, 4 months, 21 days",2
+372,Inactive,32,Male,Unknown,22 Aug 2016,26 Jun 2019,Involuntary,Low Performance,01 Sep 2017,Customer Success,Customer Support,,31200,EUR,,Y,,No,"2 years, 10 months, 4 days",2
+162,Active,30,Male,Master/Postgraduate,28 Oct 2019,,,,15 Apr 2021,Data & Analytics,Marketing Insights,731,31200,EUR,,N,E1,No,"1 year, 7 months, 0 days",1
+435,Inactive,34,Male,Unknown,06 Nov 2015,06 Oct 2017,Involuntary,Low Performance,06 Nov 2015,Design,Product Design,,32000,EUR,,Y,,No,"1 year, 11 months, 0 days",1
+469,Inactive,31,Female,Unknown,15 Feb 2016,28 Oct 2018,Voluntary,Other employment,01 Mar 2018,Customer Success,Customer Support,,32000,EUR,,Y,M1,No,"2 years, 8 months, 13 days",2
+386,Inactive,37,Male,Unknown,29 Mar 2016,31 Jul 2017,Voluntary,Other employment,29 Mar 2016,Product,,,32000,EUR,New hire,Y,,No,"1 year, 4 months, 2 days",1
+471,Inactive,33,Female,Unknown,28 Nov 2016,24 Jun 2018,Voluntary,Unhappy with the manager,01 Jul 2017,People,,,32000,EUR,,Y,,No,"1 year, 6 months, 26 days",1
+141,Active,42,Male,Undergraduate degree (Grado),03 Jul 2017,,,,15 Apr 2021,Business Development,Sales,579,32000,EUR,Promotion,Y,E3,No,"3 years, 10 months, 25 days",3
+222,Active,38,Male,Technical degree (FP),05 Feb 2018,,,,15 Apr 2021,Engineering,Corporate,267,32000,EUR,Merit increase,Y,E2,No,"3 years, 3 months, 23 days",3
+291,Inactive,44,Male,Undergraduate degree (Grado),14 May 2018,31 Dec 2019,Involuntary,Low Performance,14 May 2018,Finance,Controlling,303,32000,EUR,,Y,L3,No,"1 year, 7 months, 17 days",1
+454,Inactive,54,Female,Undergraduate degree (Grado),28 May 2018,31 Dec 2018,Voluntary,Other employment,28 May 2018,Founders,,282,32000,EUR,,Y,L3,No,"7 months, 3 days",0
+182,Active,27,Female,Master/Postgraduate,16 Sep 2019,,,,15 Apr 2021,Strategy,Strategy,148,32000,EUR,Promotion,Y,E2,No,"1 year, 8 months, 12 days",1
+163,Active,34,Female,Master/Postgraduate,28 Oct 2019,,,,15 Apr 2021,Finance & Legal,Finance,272,32000,EUR,Merit increase,N,E3,No,"1 year, 7 months, 0 days",1
+568,Active,28,Male,Undergraduate degree (Grado),03 Mar 2020,,,,15 Apr 2021,Finance & Legal,Finance,692,32000,EUR,New hire,N,E3,Yes,"1 year, 2 months, 25 days",1
+613,Active,30,Female,Master/Postgraduate,15 Jun 2020,,,,15 Apr 2021,Design,Product Design,168,32000,EUR,Contract change,N,E2,No,"11 months, 13 days",0
+650,Active,30,Male,Master/Postgraduate,10 Aug 2020,,,,15 Apr 2021,Design,Product Design,168,32000,EUR,New hire,N,E2,No,"9 months, 18 days",0
+138,Active,36,Female,Master/Postgraduate,19 Oct 2020,,,,15 Apr 2021,Marketing,Paid Marketing,544,32000,EUR,Contract change,Y,E2,No,"2 years, 3 months, 16 days",2
+685,Active,31,Female,Master/Postgraduate,11 Jan 2021,,,,15 Apr 2021,Product,Core,567,32000,EUR,New hire,N,E1,No,"4 months, 17 days",0
+705,Inactive,37,Female,Undergraduate degree (Grado),08 Feb 2021,21 Mar 2021,Voluntary,Personal reasons,15 Mar 2021,People & Home,People Operations,1,32000,EUR,New hire,N,E2,No,"1 month, 13 days",0
+251,Active,38,Male,High-school (Bachillerato),04 Feb 2019,,,,15 Apr 2021,Customer Success,Customer Support,266,32256,EUR,Merit increase,Y,E3,No,"2 years, 3 months, 24 days",2
+185,Active,34,Female,Undergraduate degree (Grado),09 Nov 2015,,,,15 Apr 2021,Customer Success,Customer Support,266,32673,EUR,Merit increase,Y,E3,No,"5 years, 6 months, 19 days",5
+480,Inactive,40,Male,Unknown,16 Nov 2015,14 Apr 2017,Involuntary,Low Performance,16 Nov 2015,Engineering,,,32800,EUR,,Y,,No,"1 year, 4 months, 28 days",1
+371,Inactive,37,Female,Unknown,01 Oct 2018,30 Jun 2019,Involuntary,Low Performance,01 Oct 2018,People,People Operations,276,32800,EUR,,Y,L2,No,"8 months, 29 days",0
+208,Active,29,Female,Master/Postgraduate,01 Oct 2019,,,,15 Apr 2021,People & Home,People Talent,146,32800,EUR,Promotion,Y,E3,No,"1 year, 7 months, 27 days",1
+423,Inactive,32,Male,Unknown,17 May 2016,14 Apr 2019,Voluntary,Limited career opportunities,17 May 2016,Engineering,Development,,33000,EUR,,Y,L2,No,"2 years, 10 months, 28 days",2
+311,Inactive,40,Female,Unknown,22 Aug 2016,07 Apr 2020,Voluntary,Lack of strategy / direction,12 Mar 2018,Customer Success,Customer Support,266,33600,EUR,Merit increase,Y,E3,No,"3 years, 7 months, 16 days",3
+326,Inactive,32,Male,Unknown,20 Mar 2017,15 Nov 2019,Voluntary,Ready for the next challenge,01 Mar 2018,Marketing,Content,223,33600,EUR,,Y,L2,No,"2 years, 7 months, 26 days",2
+411,Inactive,34,Male,Technical degree (FP),28 Aug 2017,29 Apr 2018,Voluntary,Other employment,28 Aug 2017,Engineering,,,33600,EUR,,Y,L3,No,"8 months, 1 day",0
+186,Active,28,Male,Undergraduate degree (Grado),01 Oct 2019,,,,15 Apr 2021,Engineering,R&D,664,34000,EUR,Merit increase,N,E2,No,"1 year, 7 months, 27 days",1
+486,Inactive,25,Male,Unknown,05 Dec 2016,08 Mar 2019,Voluntary,Ready for the next challenge,05 Dec 2016,Engineering,Development,,34400,EUR,,Y,L2,No,"2 years, 3 months, 3 days",2
+298,Active,26,Female,Undergraduate degree (Grado),06 Feb 2017,,,,15 Apr 2021,Design,Creative Design,504,34400,EUR,Promotion,Y,E3,No,"4 years, 3 months, 22 days",4
+331,Inactive,35,Male,Master/Postgraduate,27 Feb 2017,25 Oct 2019,Voluntary,Other employment,01 Mar 2019,Engineering,Infrastructure,270,34400,EUR,,Y,M1,No,"2 years, 7 months, 26 days",2
+506,Active,32,Female,Undergraduate degree (Grado),13 Jan 2020,,,,15 Apr 2021,Engineering,Funnel Health,580,34400,EUR,New hire,N,E2,No,"1 year, 4 months, 15 days",1
+645,Active,30,Female,Technical degree (FP),10 Aug 2020,,,,22 May 2021,Engineering,Conversations,246,34400,EUR,New hire,N,E2,No,"9 months, 18 days",0
+670,Active,28,Male,Undergraduate degree (Grado),05 Oct 2020,,,,15 Apr 2021,Finance & Legal,Finance,272,34400,EUR,New hire,N,E3,No,"7 months, 23 days",0
+173,Active,33,Female,Master/Postgraduate,13 May 2019,,,,15 Apr 2021,Customer Success,Community & Learning,312,34560,EUR,Merit increase,N,E2,No,"2 years, 15 days",2
+370,Inactive,34,Male,Unknown,08 Jan 2018,28 Jun 2019,Involuntary,Low Performance,08 Jan 2018,Engineering,Core,228,34650,EUR,,Y,,No,"1 year, 5 months, 20 days",1
+165,Active,38,Female,Undergraduate degree (Grado),25 Jan 2016,,,,15 Apr 2021,Customer Success,Customer Support,266,34778,EUR,Merit increase,Y,M1,Yes,"5 years, 4 months, 3 days",5
+465,Inactive,33,Male,Unknown,01 Jul 2015,31 Mar 2017,Voluntary,Other employment,01 Jul 2015,Engineering,Development,,34800,EUR,,Y,,No,"1 year, 8 months, 30 days",1
+341,Inactive,33,Male,Master/Postgraduate,28 May 2018,03 Oct 2019,Voluntary,No details given,28 May 2018,Data & Analytics,Data Operations,292,35120,EUR,,Y,L2,No,"1 year, 4 months, 6 days",1
+494,Inactive,31,Female,Undergraduate degree (Grado),01 Dec 2014,17 Jun 2018,Voluntary,Unhappy with the manager,01 Jan 2018,People,,,35200,EUR,,Y,,No,"3 years, 6 months, 16 days",3
+129,Inactive,30,Male,Unknown,14 Mar 2016,17 Mar 2019,Voluntary,Sabbatical leave,21 Mar 2017,Engineering,Development,,35200,EUR,Promotion,Y,L2,No,"3 years, 3 days",3
+212,Inactive,43,Female,Master/Postgraduate,22 Jul 2019,25 Sep 2020,Voluntary,Lack of strategy / direction,01 Sep 2020,People & Home,People Talent,146,35200,EUR,Promotion,N,E3,No,"1 year, 2 months, 3 days",1
+258,Active,32,Female,Master/Postgraduate,19 Aug 2019,,,,15 Apr 2021,People & Home,People Experience,305,35200,EUR,Merit increase,Y,E2,No,"1 year, 9 months, 9 days",1
+599,Active,28,Female,Master/Postgraduate,02 Jun 2020,,,,15 Apr 2021,Engineering,Funnel Health,556,35200,EUR,New hire,N,E2,No,"11 months, 26 days",0
+708,Active,29,Male,Master/Postgraduate,25 Jan 2021,,,,15 Apr 2021,Customer Success,Community & Learning,312,35200,EUR,New hire,N,E3,No,"4 months, 3 days",0
+452,Inactive,29,Male,Unknown,29 Feb 2016,29 Dec 2017,Voluntary,Other employment,29 Feb 2016,Engineering,Development,,35520,EUR,,Y,,No,"1 year, 10 months, 0 days",1
+312,Active,43,Male,Undergraduate degree (Grado),09 May 2016,,,,15 Apr 2021,Customer Success,Community & Learning,220,35708,EUR,Merit increase,Y,E3,Yes,"5 years, 19 days",5
+399,Inactive,31,Male,Unknown,15 Feb 2016,29 Sep 2017,Voluntary,Personal reasons,15 Feb 2016,Product,,,36000,EUR,,Y,,No,"1 year, 7 months, 14 days",1
+350,Inactive,34,Female,Unknown,14 Sep 2015,17 Jul 2019,Involuntary,Low Performance,01 Sep 2018,People,,276,36000,EUR,,Y,M1,No,"3 years, 10 months, 3 days",3
+476,Inactive,36,Male,Unknown,09 May 2016,03 Mar 2017,Involuntary,Low Performance,09 May 2016,Engineering,Development,,36000,EUR,New hire,Y,,No,"9 months, 25 days",0
+445,Inactive,30,Male,Unknown,23 May 2016,30 Dec 2018,Voluntary,Personal reasons,23 May 2016,Engineering,Development,,36000,EUR,,Y,L2,No,"2 years, 7 months, 7 days",2
+422,Inactive,39,Male,Unknown,27 Jun 2016,15 Sep 2017,Voluntary,No details given,27 Jun 2016,Product,,,36000,EUR,,Y,,No,"1 year, 2 months, 18 days",1
+389,Inactive,42,Male,Master/Postgraduate,06 Nov 2017,29 Dec 2017,Voluntary,Other employment,06 Nov 2017,Product,,,36000,EUR,,N,,No,"1 month, 23 days",0
+287,Active,27,Female,Technical degree (FP),14 May 2018,,,,29 Apr 2021,Marketing,Marketing Ops,725,36000,EUR,Lateral move,Y,E2,No,"3 years, 14 days",3
+237,Inactive,27,Male,Undergraduate degree (Grado),22 Jul 2019,31 Jan 2021,Voluntary,Ready for the next challenge,01 Jan 2021,Engineering,Ecosystems,236,36000,EUR,Promotion,Y,E2,No,"1 year, 6 months, 9 days",1
+565,Active,29,Male,Undergraduate degree (Grado),09 Mar 2020,,,,15 Apr 2021,Security,Security,507,36000,EUR,New hire,N,E2,No,"1 year, 2 months, 19 days",1
+602,Active,28,Not Specified,Master/Postgraduate,18 May 2020,,,,15 Apr 2021,People & Home,People Operations,1,36000,EUR,Market adjustment,N,E3,No,"1 year, 10 days",1
+610,Active,28,Male,High-school (Bachillerato),02 Jun 2020,,,,15 Apr 2021,Engineering,Funnel Health,556,36000,EUR,Contract change,N,E2,No,"11 months, 26 days",0
+655,Active,24,Male,Undergraduate degree (Grado),10 Aug 2020,,,,15 Apr 2021,Engineering,Teams & Enterprise,638,36000,EUR,New hire,N,E2,No,"9 months, 18 days",0
+434,Inactive,30,Male,Unknown,17 Jul 2017,31 Jan 2019,Involuntary,Low Performance,17 Jul 2017,Design,Product Design,,36160,EUR,,Y,L2,No,"1 year, 6 months, 14 days",1
+244,Inactive,28,Female,Undergraduate degree (Grado),17 May 2016,05 Apr 2021,Voluntary,Limited career opportunities,01 Jan 2021,Engineering,Conversations,509,36252,EUR,Merit increase,Y,E2,No,"4 years, 10 months, 19 days",4
+160,Active,37,Female,Master/Postgraduate,29 Feb 2016,,,,15 Apr 2021,Engineering,Platform,319,36480,EUR,Merit increase,Y,E2,No,"5 years, 2 months, 28 days",5
+295,Active,43,Male,Undergraduate degree (Grado),28 Aug 2017,,,,15 Apr 2021,Customer Success,Community & Learning,558,36624,EUR,Merit increase,Y,E3,No,"3 years, 9 months, 0 days",3
+325,Inactive,37,Male,Unknown,12 Sep 2016,30 Nov 2019,Involuntary,Low Performance,01 Nov 2017,Business Development,Sales,196,36800,EUR,,Y,M1,No,"3 years, 2 months, 18 days",3
+424,Inactive,33,Male,Unknown,10 Oct 2016,26 Apr 2019,Voluntary,Other employment,01 Mar 2018,Design,Product Design,,36800,EUR,,Y,L2,No,"2 years, 6 months, 16 days",2
+334,Inactive,29,Male,Unknown,02 Jan 2017,10 Oct 2019,Voluntary,No details given,17 Jun 2019,Engineering,Core,240,36800,EUR,,Y,L2,No,"2 years, 9 months, 8 days",2
+421,Inactive,28,Male,Unknown,13 Mar 2017,04 Nov 2018,Voluntary,Personal reasons,13 Mar 2017,Product,,,36800,EUR,,Y,L2,No,"1 year, 7 months, 22 days",1
+501,Active,35,Male,Master/Postgraduate,13 Jan 2020,,,,15 Apr 2021,Engineering,Funnel Health,556,36800,EUR,New hire,N,E2,No,"1 year, 4 months, 15 days",1
+571,Active,28,Male,High-school (Bachillerato),09 Mar 2020,,,,15 Apr 2021,Engineering,Conversations,542,36800,EUR,New hire,N,E2,No,"1 year, 2 months, 19 days",1
+656,Active,31,Female,Master/Postgraduate,10 Aug 2020,,,,15 Apr 2021,Marketing,Content,223,36800,EUR,New hire,N,E2,No,"9 months, 18 days",0
+660,Active,44,Female,Undergraduate degree (Grado),07 Sep 2020,,,,15 Apr 2021,People & Home,Home,305,36800,EUR,Reduce/Increase Working hours,N,M1,Yes,"8 months, 21 days",0
+706,Active,32,Male,Master/Postgraduate,08 Feb 2021,,,,15 Apr 2021,Engineering,Funnel Health,556,36800,EUR,New hire,N,E2,No,"3 months, 20 days",0
+193,Active,38,Female,Master/Postgraduate,13 Aug 2013,,,,01 Sep 2020,Customer Success,Project Management,220,36960,EUR,Merit increase,Y,E2,No,"7 years, 9 months, 15 days",7
+472,Inactive,35,Male,Unknown,27 May 2015,29 Mar 2018,Voluntary,Other employment,27 May 2015,Engineering,Development,,36960,EUR,,Y,,No,"2 years, 10 months, 2 days",2
+446,Inactive,40,Male,Unknown,05 Sep 2016,17 Oct 2018,Voluntary,Other employment,09 Apr 2018,Engineering,Development,,37200,EUR,,Y,L2,No,"2 years, 1 month, 12 days",2
+255,Inactive,32,Male,Unknown,05 Dec 2016,10 Aug 2020,Voluntary,,06 Feb 2020,Marketing,SEO,544,37488,EUR,Merit increase,Y,E2,No,"3 years, 8 months, 5 days",3
+368,Inactive,37,Male,Unknown,21 Mar 2016,30 Jun 2019,Voluntary,Ready for the next challenge,01 Apr 2019,People,,305,37600,EUR,,Y,L3,No,"3 years, 3 months, 9 days",3
+393,Inactive,33,Male,Master/Postgraduate,31 Oct 2016,29 Mar 2019,Voluntary,Limited career opportunities,31 Oct 2016,Product,,229,37600,EUR,,Y,L2,No,"2 years, 4 months, 29 days",2
+407,Inactive,33,Male,Unknown,14 Feb 2017,27 Apr 2018,Voluntary,No details given,14 Feb 2017,Engineering,Development,,37600,EUR,,Y,,No,"1 year, 2 months, 13 days",1
+260,Active,28,Female,Master/Postgraduate,27 May 2019,,,,15 Apr 2021,Strategy,Strategy,148,37600,EUR,Promotion,Y,E3,No,"2 years, 1 day",2
+159,Active,28,Female,Undergraduate degree (Grado),04 Nov 2019,,,,15 Apr 2021,Finance & Legal,Finance,692,37600,EUR,Merit increase,N,E3,No,"1 year, 6 months, 24 days",1
+618,Active,35,Male,Master/Postgraduate,02 Jun 2020,,,,15 Apr 2021,Engineering,Funnel Health,264,37600,EUR,New hire,N,E2,No,"11 months, 26 days",0
+630,Inactive,33,Male,Undergraduate degree (Grado),01 Jul 2020,31 Dec 2020,Voluntary,Personal reasons,01 Sep 2020,Engineering,Funnel Health,556,37600,EUR,Contract change,N,E2,No,"5 months, 30 days",0
+691,Active,27,Female,High-school (Bachillerato),01 Dec 2020,,,,01 Dec 2020,Customer Success,Customer Support,133,37600,USD,New hire,N,E2,No,"5 months, 27 days",0
+318,Inactive,34,Female,PhD,08 Jul 2019,06 Apr 2021,Voluntary,Unhappy with the salary / perks,01 Jan 2021,Engineering,Conversations,509,37680,EUR,Merit increase,N,E2,No,"1 year, 8 months, 29 days",1
+415,Inactive,36,Male,Master/Postgraduate,08 Jun 2015,28 Feb 2019,Voluntary,Personal reasons,08 Jun 2015,Engineering,Development,,37800,EUR,,Y,L2,No,"3 years, 8 months, 20 days",3
+380,Inactive,29,Male,Unknown,18 Apr 2016,26 May 2019,Voluntary,Limited career opportunities,18 Apr 2016,Engineering,,,38000,EUR,,Y,L2,No,"3 years, 1 month, 8 days",3
+739,Active,41,Female,PhD,19 Apr 2021,,,,19 Apr 2021,Data & Analytics,Insights Enablers,283,38080,EUR,New hire,N,E2,No,"1 month, 9 days",0
+226,Active,29,Female,Master/Postgraduate,16 Sep 2019,,,,15 Apr 2021,Data & Analytics,Insights Enablers,283,38160,EUR,Merit increase,N,E2,No,"1 year, 8 months, 12 days",1
+166,Active,26,Male,Undergraduate degree (Grado),28 Oct 2019,,,,15 Apr 2021,Engineering,Ecosystems,236,38160,EUR,Reduce/Increase Working hours,N,E2,No,"1 year, 7 months, 0 days",1
+365,Inactive,28,Male,Undergraduate degree (Grado),28 May 2018,30 Aug 2019,Voluntary,No details given,28 May 2018,Data & Analytics,Marketing Insights,248,38240,EUR,,Y,L2,No,"1 year, 3 months, 2 days",1
+197,Inactive,30,Male,Unknown,29 Feb 2016,11 Dec 2019,Involuntary,Low Performance,17 Jun 2019,Engineering,Core,240,38400,EUR,Merit increase,Y,L2,No,"3 years, 9 months, 11 days",3
+140,Inactive,31,Female,Master/Postgraduate,23 Oct 2017,22 Apr 2021,Voluntary,Lack of strategy / direction,01 Sep 2020,Business Development,Reseller,623,38400,EUR,Promotion,Y,E3,No,"3 years, 5 months, 30 days",3
+137,Active,31,Female,Undergraduate degree (Grado),25 Jun 2018,,,,15 Apr 2021,Marketing,Brand Marketing,223,38400,EUR,Promotion,Y,E3,No,"2 years, 11 months, 3 days",2
+642,Active,31,Male,Master/Postgraduate,27 Jul 2020,,,,15 Apr 2021,Engineering,Funnel Health,264,38400,EUR,New hire,N,E2,No,"10 months, 1 day",0
+671,Active,34,Male,Undergraduate degree (Grado),19 Oct 2020,,,,15 Apr 2021,Engineering,Quality,164,38400,EUR,New hire,N,E2,No,"7 months, 9 days",0
+672,Active,26,Male,Undergraduate degree (Grado),26 Oct 2020,,,,15 Apr 2021,Engineering,Funnel Health,264,38400,EUR,New hire,N,E2,No,"7 months, 2 days",0
+194,Inactive,34,Male,Unknown,12 Sep 2016,13 Dec 2019,Voluntary,Sabbatical leave,01 Sep 2018,Design,Creative Design,190,38520,EUR,,Y,L3,No,"3 years, 3 months, 1 day",3
+498,Inactive,29,Male,Unknown,06 Jun 2016,28 Feb 2019,Voluntary,Lack of strategy / direction,06 Jun 2016,Engineering,,,38800,EUR,,Y,L2,No,"2 years, 8 months, 22 days",2
+200,Inactive,32,Male,Unknown,01 Aug 2016,16 Dec 2019,Voluntary,Other employment,17 Jun 2019,Engineering,Core,236,38800,EUR,Merit increase,Y,L1,No,"3 years, 4 months, 15 days",3
+442,Inactive,28,Male,Unknown,02 Jun 2015,22 Feb 2019,Voluntary,Ready for the next challenge,01 Mar 2017,Marketing,SEO,,39200,EUR,,Y,M1,No,"3 years, 8 months, 20 days",3
+346,Inactive,42,Male,Unknown,03 Jul 2017,25 Sep 2019,Voluntary,Unhappy with the job,17 Jun 2019,Engineering,Infrastructure,270,39200,EUR,,Y,L3,No,"2 years, 2 months, 22 days",2
+327,Inactive,34,Female,Undergraduate degree (Grado),14 May 2018,13 Nov 2019,Involuntary,Low Performance,17 Jun 2019,Engineering,Platform,245,39200,EUR,,Y,M1,No,"1 year, 5 months, 30 days",1
+541,Inactive,46,Not Specified,Master/Postgraduate,10 Feb 2020,21 Sep 2020,Involuntary,Low Performance,01 Sep 2020,Customer Success,Customer Support,133,39200,USD,New hire,N,E2,No,"7 months, 11 days",0
+626,Active,40,Male,Master/Postgraduate,15 Jun 2020,,,,01 Sep 2020,Customer Success,Customer Support,133,39200,USD,New hire,N,E2,No,"11 months, 13 days",0
+636,Active,32,Female,Undergraduate degree (Grado),01 Jul 2020,,,,01 Sep 2020,Customer Success,Customer Support,133,39200,USD,New hire,N,E2,No,"10 months, 27 days",0
+690,Active,33,Male,Technical degree (FP),01 Dec 2020,,,,01 Dec 2020,Customer Success,Customer Support,133,39200,USD,New hire,N,E2,No,"5 months, 27 days",0
+715,Active,27,Female,Undergraduate degree (Grado),08 Feb 2021,,,,08 Feb 2021,Customer Success,Customer Support,133,39200,USD,New hire,N,E2,No,"3 months, 20 days",0
+743,Active,32,Male,Undergraduate degree (Grado),06 Apr 2021,,,,15 Apr 2021,Customer Success,Customer Support,165,39200,USD,New hire,N,E2,No,"1 month, 22 days",0
+740,Active,27,Female,Technical degree (FP),06 Apr 2021,,,,15 Apr 2021,Customer Success,Customer Support,165,39200,USD,New hire,N,E2,No,"1 month, 22 days",0
+242,Inactive,32,Female,Undergraduate degree (Grado),18 Dec 2017,31 Jan 2021,Voluntary,Sabbatical leave,01 Jan 2021,Engineering,Conversations,509,39359,EUR,Merit increase,Y,E2,No,"3 years, 1 month, 13 days",3
+340,Inactive,31,Female,Unknown,15 May 2017,03 Oct 2019,Voluntary,No details given,17 Jun 2019,Engineering,Core,236,39480,EUR,,Y,L2,No,"2 years, 4 months, 19 days",2
+259,Active,30,Male,Undergraduate degree (Grado),27 May 2019,,,,15 Apr 2021,Engineering,Funnel Health,264,39600,EUR,Merit increase,N,E2,No,"2 years, 1 day",2
+388,Inactive,31,Female,Unknown,11 Jul 2016,12 Sep 2018,Voluntary,Other employment,11 Jul 2016,Engineering,Development,,39800,EUR,,Y,L2,No,"2 years, 2 months, 1 day",2
+466,Inactive,34,Male,Unknown,24 Apr 2017,26 Sep 2018,Voluntary,Personal reasons,24 Apr 2017,Engineering,Development,,39800,EUR,,Y,L2,No,"1 year, 5 months, 2 days",1
+420,Inactive,42,Female,Unknown,19 Jan 2015,31 Dec 2018,Voluntary,Sabbatical leave,01 Apr 2018,Customer Success,Customer Education,,40000,EUR,,Y,M2,No,"3 years, 11 months, 12 days",3
+378,Inactive,31,Female,Unknown,29 Jun 2015,31 May 2019,Voluntary,Unhappy with the leadership,01 Sep 2018,People,,305,40000,EUR,,Y,M1,No,"3 years, 11 months, 2 days",3
+396,Inactive,37,Male,Unknown,02 May 2016,31 Oct 2017,Voluntary,Other employment,02 May 2016,Engineering,Development,,40000,EUR,,Y,,No,"1 year, 5 months, 29 days",1
+313,Inactive,31,Male,Unknown,12 Jul 2016,21 Jan 2020,Voluntary,Other employment,12 Jul 2016,Data & Analytics,Customer Insights,247,40000,EUR,,Y,L2,No,"3 years, 9 months, 20 days",3
+417,Inactive,35,Female,Unknown,12 Sep 2016,30 May 2017,Involuntary,Low Performance,12 Sep 2016,Customer Success,Sales,,40000,EUR,,Y,,No,"8 months, 18 days",0
+437,Inactive,39,Male,Unknown,07 Nov 2016,18 Jan 2019,Involuntary,Low Performance,07 Nov 2016,Design,Product Design,,40000,EUR,,Y,L3,No,"2 years, 2 months, 11 days",2
+474,Inactive,36,Male,Unknown,14 Nov 2016,30 Dec 2016,Voluntary,Other employment,14 Nov 2016,Engineering,Development,,40000,EUR,New hire,N,,No,"1 month, 16 days",0
+296,Inactive,44,Female,Master/Postgraduate,03 Apr 2017,16 Dec 2019,Involuntary,Low Performance,08 Jan 2019,People,People Experience,276,40000,EUR,Temporary Assignment,Y,L3,No,"2 years, 8 months, 13 days",2
+450,Inactive,33,Male,Master/Postgraduate,09 Oct 2017,28 Feb 2019,Voluntary,Unhappy with the leadership,09 Oct 2017,Finance,,227,40000,EUR,,Y,M1,No,"1 year, 4 months, 19 days",1
+328,Inactive,28,Male,Undergraduate degree (Grado),05 Feb 2018,08 Nov 2019,Involuntary,Role no longer needed,01 Mar 2019,Product,,229,40000,EUR,,Y,L2,No,"1 year, 9 months, 3 days",1
+404,Inactive,36,Male,Unknown,14 May 2018,28 Oct 2018,Voluntary,Other employment,14 May 2018,Engineering,Infrastructure,,40000,EUR,New hire,Y,L3,No,"5 months, 14 days",0
+307,Inactive,33,Male,Undergraduate degree (Grado),22 Jul 2019,30 Jun 2020,Voluntary,Unhappy with the job,31 Jan 2020,Engineering,Security,507,40000,EUR,New hire,N,E2,No,"11 months, 8 days",0
+308,Active,34,Male,Master/Postgraduate,22 Jul 2019,,,,15 Apr 2021,Marketing,Content,223,40000,EUR,Promotion,Y,E3,No,"1 year, 10 months, 6 days",1
+529,Active,29,Male,Master/Postgraduate,09 Dec 2019,,,,15 Apr 2021,Data & Analytics,Insights Enablers,283,40000,EUR,,N,E2,No,"1 year, 5 months, 19 days",1
+555,Active,28,Male,Undergraduate degree (Grado),24 Feb 2020,,,,15 Apr 2021,Engineering,Ecosystems,236,40000,EUR,New hire,Y,E2,No,"1 year, 3 months, 4 days",1
+563,Active,40,Male,Undergraduate degree (Grado),09 Mar 2020,,,,15 Apr 2021,Engineering,Corporate,267,40000,EUR,New hire,N,E3,No,"1 year, 2 months, 19 days",1
+566,Active,34,Male,Master/Postgraduate,09 Mar 2020,,,,15 Apr 2021,Engineering,Teams & Enterprise,638,40000,EUR,New hire,N,E2,No,"1 year, 2 months, 19 days",1
+607,Active,25,Male,Master/Postgraduate,30 Mar 2020,,,,15 Apr 2021,Engineering,Insights,240,40000,EUR,Contract change,N,E2,No,"1 year, 1 month, 29 days",1
+601,Active,35,Male,Master/Postgraduate,23 Apr 2020,,,,15 Apr 2021,Engineering,Ecosystems,635,40000,EUR,Contract change,N,E3,No,"1 year, 1 month, 5 days",1
+614,Active,37,Female,Master/Postgraduate,18 May 2020,,,,15 Apr 2021,Design,Creative Design,504,40000,EUR,New hire,N,E3,Yes,"1 year, 10 days",1
+640,Active,33,Female,Master/Postgraduate,27 Jul 2020,,,,15 Apr 2021,Data & Analytics,Data Platform,147,40000,EUR,New hire,N,E2,No,"10 months, 1 day",0
+659,Active,37,Male,Master/Postgraduate,07 Sep 2020,,,,15 Apr 2021,Engineering,Platform,521,40000,EUR,New hire,N,E3,No,"8 months, 21 days",0
+694,Active,30,Male,Master/Postgraduate,11 Jan 2021,,,,15 Apr 2021,Engineering,R&D,727,40000,EUR,New hire,N,E2,No,"4 months, 17 days",0
+707,Active,36,Male,Undergraduate degree (Grado),08 Feb 2021,,,,15 Apr 2021,Data & Analytics,Machine Learning,181,40000,EUR,New hire,N,E2,No,"3 months, 20 days",0
+754,Active,29,Female,Master/Postgraduate,19 Apr 2021,,,,19 Apr 2021,Data & Analytics,Customer Insights,151,40000,EUR,New hire,N,E2,No,"1 month, 9 days",0
+134,Inactive,31,Male,Unknown,18 Apr 2016,30 Apr 2020,Voluntary,Ready for the next challenge,01 Sep 2019,Customer Success,Customer Support,133,40059,USD,Reclassification to Non Exempt,Y,E2,No,"4 years, 12 days",4
+394,Inactive,33,Male,Unknown,07 Mar 2016,11 Feb 2019,Voluntary,Ready for the next challenge,01 Sep 2017,Data & Analytics,,,40140,EUR,,Y,L4,No,"2 years, 11 months, 4 days",2
+205,Active,31,Female,Master/Postgraduate,04 Mar 2019,,,,25 May 2021,Marketing,Product Marketing,760,40320,EUR,Promotion,Y,E3,No,"2 years, 2 months, 24 days",2
+516,Active,31,Female,Unknown,13 Jan 2020,,,,01 Sep 2020,Customer Success,Customer Support,133,40376,USD,Merit increase,N,E2,No,"1 year, 4 months, 15 days",1
+470,Inactive,37,Female,Unknown,24 Nov 2014,13 Oct 2017,Voluntary,Other employment,24 Nov 2014,Engineering,,,40800,EUR,,Y,,No,"2 years, 10 months, 19 days",2
+126,Active,37,Male,Undergraduate degree (Grado),25 Nov 2019,,,,15 Apr 2021,Engineering,Corporate,267,40800,EUR,,N,E3,No,"1 year, 6 months, 3 days",1
+317,Active,38,Male,Master/Postgraduate,07 Mar 2016,,,,15 Apr 2021,Finance & Legal,Finance,272,41200,EUR,Promotion,Y,E4,No,"5 years, 2 months, 21 days",5
+274,Active,43,Male,Undergraduate degree (Grado),04 Feb 2019,,,,15 Apr 2021,Engineering,Corporate,267,41200,EUR,Merit increase,N,E3,No,"2 years, 3 months, 24 days",2
+232,Inactive,34,Male,Unknown,13 May 2015,06 Dec 2019,Voluntary,Ready for the next challenge,17 Jun 2019,Engineering,Platform,245,41600,EUR,Promotion,Y,L3,No,"4 years, 6 months, 24 days",4
+406,Inactive,40,Male,Unknown,11 Jan 2016,27 Apr 2018,Voluntary,Personal reasons,11 Jan 2016,Engineering,Development,,41600,EUR,,Y,,No,"2 years, 3 months, 16 days",2
+367,Inactive,32,Female,Master/Postgraduate,21 Jun 2016,12 Jul 2019,Involuntary,Low Performance,01 Jan 2019,Home,,276,41600,EUR,,Y,L5,No,"3 years, 21 days",3
+297,Inactive,32,Male,Unknown,10 Apr 2017,26 Mar 2020,Voluntary,Unhappy with the salary / perks,10 Jan 2020,Engineering,Infrastructure,319,41600,EUR,Merit increase,Y,E3,No,"2 years, 11 months, 16 days",2
+218,Inactive,30,Male,Unknown,09 Jul 2018,24 Jan 2020,Voluntary,Personal reasons,17 Jun 2019,Engineering,Core,246,41600,EUR,,Y,E3,No,"1 year, 6 months, 15 days",1
+191,Inactive,29,Male,Technical degree (FP),03 Sep 2018,23 Jan 2020,Voluntary,Limited career opportunities,01 Mar 2019,Engineering,Security,228,41600,EUR,Merit increase,Y,E2,No,"1 year, 4 months, 20 days",1
+174,Active,33,Male,Master/Postgraduate,18 Mar 2019,,,,15 Apr 2021,Design,Product Design,168,41600,EUR,Promotion,Y,E3,No,"2 years, 2 months, 10 days",2
+309,Active,35,Female,Master/Postgraduate,25 Jun 2019,,,,15 Apr 2021,Engineering,Funnel Health,264,41600,EUR,Merit increase,Y,E2,Yes,"1 year, 11 months, 3 days",1
+167,Active,32,Female,Master/Postgraduate,28 Oct 2019,,,,15 Apr 2021,Customer Success,Customer Engagement,725,41600,EUR,Merit increase,N,E2,No,"1 year, 7 months, 0 days",1
+124,Active,32,Male,Unknown,25 Nov 2019,,,,01 Sep 2020,Customer Success,Customer Support,133,41600,USD,Merit increase,N,E2,No,"1 year, 6 months, 3 days",1
+517,Active,34,Female,Unknown,13 Jan 2020,,,,01 Mar 2021,Customer Success,Customer Support,133,41600,USD,Lateral move,N,E2,No,"1 year, 4 months, 15 days",1
+598,Active,38,Female,Master/Postgraduate,04 May 2020,,,,15 Apr 2021,Marketing,Content,223,41600,EUR,Transfer,N,E3,No,"1 year, 24 days",1
+617,Active,29,Male,Master/Postgraduate,18 May 2020,,,,15 Apr 2021,Engineering,Funnel Health,309,41600,EUR,New hire,N,E2,No,"1 year, 10 days",1
+609,Active,30,Male,High-school (Bachillerato),15 Jun 2020,,,,15 Apr 2021,Engineering,Funnel Health,309,41600,EUR,New hire,N,E2,No,"11 months, 13 days",0
+637,Active,36,Male,Master/Postgraduate,01 Jul 2020,,,,15 Apr 2021,Engineering,R&D,664,41600,EUR,New hire,N,E3,No,"10 months, 27 days",0
+647,Active,41,Male,PhD,10 Aug 2020,,,,15 Apr 2021,Design,Creative Design,504,41600,EUR,New hire,N,E3,No,"9 months, 18 days",0
+644,Active,42,Female,Undergraduate degree (Grado),10 Aug 2020,,,,15 Apr 2021,Marketing,Content,223,41600,EUR,New hire,N,E3,No,"9 months, 18 days",0
+652,Active,31,Male,Master/Postgraduate,24 Aug 2020,,,,22 May 2021,Engineering,Conversations,246,41600,EUR,New hire,N,E2,No,"9 months, 4 days",0
+703,Active,32,Male,Master/Postgraduate,11 Jan 2021,,,,15 Apr 2021,Engineering,Corporate,267,41600,EUR,New hire,N,E3,No,"4 months, 17 days",0
+700,Active,30,Female,Master/Postgraduate,11 Jan 2021,,,,01 Apr 2021,Marketing,Content,223,41600,GBP,Contract change,N,E3,No,"4 months, 17 days",0
+713,Active,30,Male,Undergraduate degree (Grado),22 Feb 2021,,,,15 Apr 2021,Engineering,Ecosystems,236,41600,EUR,New hire,N,E2,No,"3 months, 6 days",0
+726,Active,27,Male,Undergraduate degree (Grado),08 Mar 2021,,,,08 Mar 2021,Customer Success,Customer Support,133,41600,USD,New hire,N,E2,No,"2 months, 20 days",0
+301,Active,43,Female,Unknown,13 Aug 2015,,,,01 May 2021,Customer Success,Customer Support,678,41885,EUR,Merit increase,Y,E2,No,"5 years, 9 months, 15 days",5
+132,Active,28,Female,Unknown,03 Jul 2017,,,,04 Mar 2021,Customer Success,Community & Learning,558,41958,USD,Merit increase,Y,E2,No,"3 years, 10 months, 25 days",3
+213,Inactive,33,Female,Master/Postgraduate,02 May 2016,24 Jan 2021,Voluntary,Ready for the next challenge,01 Sep 2020,Design,Creative Design,277,42000,EUR,Merit increase,Y,E3,No,"4 years, 8 months, 22 days",4
+412,Inactive,35,Female,Unknown,17 Oct 2016,14 Sep 2018,Voluntary,Other employment,17 Oct 2016,Engineering,,,42000,EUR,,Y,M1,No,"1 year, 10 months, 28 days",1
+201,Inactive,31,Male,Master/Postgraduate,28 May 2018,24 Jan 2020,Involuntary,Low Performance,17 Jun 2019,Engineering,Core,236,42000,EUR,Merit increase,Y,E2,No,"1 year, 7 months, 27 days",1
+439,Inactive,44,Male,Unknown,01 Feb 2016,04 Nov 2018,Voluntary,Personal reasons,01 Mar 2018,Marketing,Editorial,,42400,EUR,,Y,M1,No,"2 years, 9 months, 3 days",2
+351,Inactive,27,Male,Unknown,23 Jan 2017,23 Aug 2019,Voluntary,Other employment,01 Apr 2019,Design,Product Design,229,42400,EUR,,Y,L3,No,"2 years, 7 months, 0 days",2
+266,Active,41,Male,Undergraduate degree (Grado),11 Jun 2019,,,,15 Apr 2021,Customer Success,Customer Support,220,42400,EUR,Merit increase,N,M2,Yes,"1 year, 11 months, 17 days",1
+677,Active,30,Male,Undergraduate degree (Grado),08 Feb 2021,,,,15 Apr 2021,Design,Product Design,168,42400,EUR,New hire,N,E3,No,"3 months, 20 days",0
+717,Active,44,Male,Master/Postgraduate,22 Feb 2021,,,,22 Feb 2021,Engineering,Ecosystems,236,42400,EUR,New hire,N,E2,No,"3 months, 6 days",0
+709,Active,38,Male,Master/Postgraduate,22 Feb 2021,,,,15 Apr 2021,Engineering,Platform,521,42400,EUR,New hire,N,E3,No,"3 months, 6 days",0
+730,Active,24,Male,Primary school,08 Mar 2021,,,,15 Apr 2021,Engineering,Corporate,267,42400,EUR,New hire,N,E3,No,"2 months, 20 days",0
+741,Active,36,Male,Undergraduate degree (Grado),17 May 2021,,,,17 May 2021,Engineering,Teams & Enterprise,638,42400,EUR,New hire,N,E2,No,11 days,0
+473,Inactive,27,Female,Unknown,09 Dec 2013,27 Oct 2017,Voluntary,Personal reasons,01 Jul 2016,Engineering,,,43200,EUR,,Y,,No,"3 years, 10 months, 18 days",3
+413,Inactive,37,Male,Unknown,07 Jan 2014,11 Nov 2018,Voluntary,Other employment,05 Mar 2018,Engineering,Infrastructure,,43200,EUR,,Y,L3,No,"4 years, 10 months, 4 days",4
+654,Inactive,28,Male,Undergraduate degree (Grado),24 Feb 2014,31 Aug 2016,Voluntary,,24 Feb 2014,Engineering,,,43200,EUR,,N,,No,"2 years, 6 months, 7 days",2
+175,Active,30,Female,Master/Postgraduate,03 Jan 2017,,,,15 Apr 2021,Design,Product Design,168,43200,EUR,Promotion,Y,E3,No,"4 years, 4 months, 25 days",4
+426,Inactive,42,Male,Technical degree (FP),07 Jan 2019,24 Apr 2019,Involuntary,Low Performance,07 Jan 2019,Engineering,Infrastructure,170,43200,EUR,,N,,No,"3 months, 17 days",0
+710,Active,35,Male,Master/Postgraduate,21 Sep 2020,,,,21 Sep 2020,People & Home,People Talent,146,43200,EUR,New hire,N,E3,No,"8 months, 7 days",0
+723,Active,40,Female,Master/Postgraduate,22 Feb 2021,,,,22 Feb 2021,Business Development,Sales,579,43200,USD,New hire,N,E2,No,"3 months, 6 days",0
+397,Inactive,42,Female,Unknown,01 Jul 2013,12 Apr 2019,Voluntary,Limited career opportunities,01 Feb 2017,Engineering,,228,43560,EUR,,Y,,No,"5 years, 9 months, 11 days",5
+478,Inactive,38,Male,Unknown,24 Oct 2013,31 Dec 2017,Voluntary,Other employment,24 Oct 2013,Engineering,Development,,44000,EUR,,Y,,No,"4 years, 2 months, 7 days",4
+241,Inactive,29,Male,Unknown,18 Nov 2014,13 Dec 2019,Voluntary,Lack of strategy / direction,17 Jun 2019,Engineering,Core,246,44000,EUR,Promotion,Y,L3,No,"5 years, 25 days",5
+432,Inactive,39,Female,Unknown,07 Apr 2015,29 Mar 2019,Voluntary,Ready for the next challenge,01 Mar 2018,Design,Product Design,,44000,EUR,,Y,L2,No,"3 years, 11 months, 22 days",3
+376,Inactive,37,Male,Unknown,10 Oct 2016,09 Jun 2019,Voluntary,Lack of strategy / direction,01 Mar 2018,Design,Product Design,229,44000,EUR,,Y,L3,No,"2 years, 7 months, 30 days",2
+143,Inactive,37,Female,Master/Postgraduate,12 Dec 2016,31 Dec 2019,Voluntary,Unhappy with the leadership,01 Mar 2019,Marketing,Lifecycle Marketing,269,44000,EUR,Merit increase,Y,M1,No,"3 years, 19 days",3
+497,Inactive,39,Female,Unknown,02 Jan 2017,03 Apr 2018,Voluntary,Other employment,02 Jan 2017,Engineering,Development,,44000,EUR,,Y,,No,"1 year, 3 months, 1 day",1
+322,Inactive,28,Male,Undergraduate degree (Grado),06 Nov 2017,28 Nov 2019,Voluntary,Unhappy with the manager,01 Mar 2019,Marketing,Paid Marketing,269,44000,EUR,,Y,M1,No,"2 years, 22 days",2
+347,Inactive,47,Male,Master/Postgraduate,20 Nov 2017,31 Jan 2018,Involuntary,Low Performance,20 Nov 2017,Engineering,Development,,44000,EUR,,N,,No,"2 months, 11 days",0
+188,Active,33,Male,Undergraduate degree (Grado),15 Oct 2018,,,,15 Apr 2021,Engineering,Platform,521,44000,EUR,Promotion,Y,E3,No,"2 years, 7 months, 13 days",2
+180,Active,40,Male,Technical degree (FP),07 Jan 2019,,,,15 Apr 2021,Design,Creative Design,504,44000,EUR,New hire,Y,E3,No,"2 years, 4 months, 21 days",2
+332,Inactive,36,Male,Unknown,21 Jan 2019,31 May 2019,Voluntary,Lack of strategy / direction,21 Jan 2019,Engineering,,,44000,EUR,,Y,L2,No,"4 months, 10 days",0
+271,Active,27,Male,Undergraduate degree (Grado),15 Apr 2019,,,,15 Apr 2021,Engineering,Platform,521,44000,EUR,Promotion,Y,E3,No,"2 years, 1 month, 13 days",2
+198,Inactive,26,Female,Unknown,17 Jun 2019,16 Oct 2020,Voluntary,Ready for the next challenge,01 Sep 2020,Engineering,Core,240,44000,EUR,Promotion,Y,E3,No,"1 year, 3 months, 29 days",1
+320,Active,30,Female,Master/Postgraduate,08 Jul 2019,,,,15 Apr 2021,Data & Analytics,Data Platform,147,44000,EUR,Promotion,Y,E3,No,"1 year, 10 months, 20 days",1
+209,Inactive,30,Female,Master/Postgraduate,01 Oct 2019,12 Jun 2020,Voluntary,Unhappy with the leadership,01 May 2020,Engineering,Platform,521,44000,EUR,Promotion,Y,E3,No,"8 months, 11 days",0
+125,Active,36,Male,Undergraduate degree (Grado),25 Nov 2019,,,,14 Apr 2021,Customer Success,Customer Engagement,702,44000,USD,Lateral move,N,E1,No,"1 year, 6 months, 3 days",1
+523,Inactive,37,Male,Technical degree (FP),09 Dec 2019,05 Feb 2020,Involuntary,Failing probation period,31 Jan 2020,Engineering,Funnel Health,264,44000,EUR,New hire,N,E2,No,"1 month, 27 days",0
+503,Active,36,Male,Undergraduate degree (Grado),13 Jan 2020,,,,15 Apr 2021,Engineering,Insights,240,44000,EUR,Promotion,Y,E3,Yes,"1 year, 4 months, 15 days",1
+538,Active,31,Male,Undergraduate degree (Grado),10 Feb 2020,,,,15 Apr 2021,Engineering,Conversations,542,44000,EUR,,N,E3,No,"1 year, 3 months, 18 days",1
+564,Active,32,Male,Undergraduate degree (Grado),09 Mar 2020,,,,15 Apr 2021,Engineering,Journeys,508,44000,EUR,New hire,N,E3,No,"1 year, 2 months, 19 days",1
+561,Active,36,Male,Undergraduate degree (Grado),09 Mar 2020,,,,15 Apr 2021,Engineering,Funnel Health,580,44000,EUR,New hire,N,E3,No,"1 year, 2 months, 19 days",1
+558,Active,37,Male,Master/Postgraduate,01 Jul 2020,,,,15 Apr 2021,Customer Success,Community & Learning,220,44000,EUR,New hire,N,E3,Yes,"10 months, 27 days",0
+643,Active,29,Male,Master/Postgraduate,13 Jul 2020,,,,22 May 2021,Engineering,Conversations,246,44000,EUR,New hire,N,E3,No,"10 months, 15 days",0
+666,Active,30,Male,Undergraduate degree (Grado),21 Sep 2020,,,,15 Apr 2021,Engineering,R&D,664,44000,EUR,Contract change,N,E2,No,"8 months, 7 days",0
+674,Active,35,Female,Master/Postgraduate,19 Oct 2020,,,,15 Apr 2021,People & Home,People Experience,305,44000,EUR,Reduce/Increase Working hours,N,E3,No,"7 months, 9 days",0
+688,Active,35,Male,Undergraduate degree (Grado),01 Dec 2020,,,,15 Apr 2021,Engineering,Quality,164,44000,EUR,New hire,N,E3,No,"5 months, 27 days",0
+689,Active,27,Male,Master/Postgraduate,14 Dec 2020,,,,01 Feb 2021,Engineering,Ecosystems,236,44000,EUR,Transfer,N,E3,No,"5 months, 14 days",0
+699,Active,34,Male,Undergraduate degree (Grado),11 Jan 2021,,,,15 Feb 2021,Customer Success,Customer Support,624,44000,USD,New hire,N,E2,No,"4 months, 17 days",0
+697,Active,36,Male,Master/Postgraduate,25 Jan 2021,,,,01 Apr 2021,People & Home,People Talent,146,44000,GBP,Contract change,N,E3,No,"4 months, 3 days",0
+718,Active,28,Male,Undergraduate degree (Grado),22 Feb 2021,,,,18 May 2021,Engineering,Insights,503,44000,EUR,New hire,N,E2,No,"3 months, 6 days",0
+779,Active,50,Female,Unknown,24 May 2021,,,,24 May 2021,Product,Corporate,721,44000,GBP,New hire,N,E3,No,4 days,0
+149,Active,28,Male,Undergraduate degree (Grado),03 Sep 2018,,,,15 Apr 2021,Engineering,Insights,240,44560,EUR,Promotion,Y,E3,No,"2 years, 8 months, 25 days",2
+360,Inactive,31,Male,Unknown,18 Jul 2016,10 Sep 2019,Voluntary,No details given,07 Aug 2019,Data & Analytics,,292,44800,EUR,,Y,L3,No,"3 years, 1 month, 23 days",3
+231,Inactive,34,Male,Unknown,03 Jul 2017,26 Dec 2019,Voluntary,Other employment,17 Jun 2019,Engineering,Core,246,44800,EUR,,Y,L3,No,"2 years, 5 months, 23 days",2
+150,Active,28,Male,High-school (Bachillerato),20 Aug 2018,,,,15 Apr 2021,Engineering,Funnel Health,309,44800,EUR,Promotion,Y,E3,No,"2 years, 9 months, 8 days",2
+511,Active,34,Male,Undergraduate degree (Grado),13 Jan 2020,,,,15 Apr 2021,Engineering,Insights,240,44800,EUR,,N,E3,No,"1 year, 4 months, 15 days",1
+665,Active,30,Male,Master/Postgraduate,21 Sep 2020,,,,15 Apr 2021,Data & Analytics,Machine Learning,181,44800,EUR,New hire,N,E2,No,"8 months, 7 days",0
+131,Inactive,32,Male,Master/Postgraduate,16 Sep 2019,08 Jan 2021,Involuntary,Low Performance,01 Jan 2021,Engineering,Corporate,267,44880,EUR,Merit increase,N,E3,No,"1 year, 3 months, 22 days",1
+275,Active,29,Male,Undergraduate degree (Grado),18 Feb 2019,,,,15 Apr 2021,Strategy,Strategy,148,45126,EUR,Promotion,Y,E3,No,"2 years, 3 months, 10 days",2
+261,Active,27,Female,Master/Postgraduate,27 May 2019,,,,15 Apr 2021,Product,Core,304,45156,EUR,Merit increase,N,E2,No,"2 years, 1 day",2
+177,Active,35,Male,Undergraduate degree (Grado),14 Oct 2019,,,,15 Apr 2021,Engineering,Platform,521,45344,EUR,Merit increase,N,E3,No,"1 year, 7 months, 14 days",1
+192,Active,33,Female,Master/Postgraduate,02 Jan 2017,,,,15 Apr 2021,Engineering,Journeys,508,45452,EUR,Promotion,Y,E3,No,"4 years, 4 months, 26 days",4
+314,Inactive,37,Male,Undergraduate degree (Grado),12 Dec 2016,05 Dec 2019,Voluntary,Ready for the next challenge,01 Mar 2018,Data & Analytics,Data Operations,292,45490,EUR,,Y,L3,No,"2 years, 11 months, 24 days",2
+401,Inactive,35,Male,Unknown,05 Mar 2014,28 Feb 2019,Voluntary,Other employment,01 Mar 2018,Engineering,,,45600,EUR,,Y,M1,No,"4 years, 11 months, 23 days",4
+414,Inactive,37,Male,Unknown,03 Aug 2015,04 Nov 2018,Voluntary,Unhappy with the manager,03 Aug 2015,Engineering,Development,,45600,EUR,,Y,L3,No,"3 years, 3 months, 1 day",3
+335,Inactive,34,Female,Unknown,18 Jan 2016,04 Oct 2019,Voluntary,Ready for the next challenge,01 Mar 2019,Marketing,Product Marketing,269,45600,EUR,,Y,M1,No,"3 years, 8 months, 17 days",3
+221,Inactive,37,Female,Undergraduate degree (Grado),23 Sep 2019,24 Mar 2020,Voluntary,Unhappy with the job,23 Sep 2019,People,People Experience,276,45600,EUR,,N,E3,No,"6 months, 1 day",0
+510,Active,32,Female,Master/Postgraduate,13 Jan 2020,,,,25 May 2021,Marketing,Product Marketing,760,45600,EUR,,N,E3,No,"1 year, 4 months, 15 days",1
+696,Active,37,Female,Undergraduate degree (Grado),11 Jan 2021,,,,15 Feb 2021,Customer Success,Customer Support,624,45600,USD,New hire,N,E2,No,"4 months, 17 days",0
+199,Active,36,Male,Undergraduate degree (Grado),16 Sep 2019,,,,15 Apr 2021,Engineering,Platform,521,46200,EUR,Merit increase,N,E3,No,"1 year, 8 months, 12 days",1
+409,Inactive,30,Male,Unknown,23 Nov 2015,27 Jul 2018,Voluntary,Other employment,23 Nov 2015,Engineering,Development,,46400,EUR,,Y,L3,No,"2 years, 8 months, 4 days",2
+223,Active,41,Male,PhD,04 Jan 2016,,,,15 Apr 2021,Marketing,Content,224,46400,EUR,Promotion,Y,M2,Yes,"5 years, 4 months, 24 days",5
+374,Inactive,34,Male,Unknown,08 Mar 2016,09 Jun 2019,Voluntary,Lack of strategy / direction,01 Mar 2019,Product,,229,46400,EUR,,Y,L2,No,"3 years, 3 months, 1 day",3
+354,Inactive,33,Male,Unknown,18 Apr 2016,16 Aug 2019,Voluntary,Other employment,18 Apr 2016,Engineering,Platform,228,46400,EUR,,Y,L3,No,"3 years, 3 months, 28 days",3
+189,Active,30,Male,Master/Postgraduate,11 Jul 2016,,,,15 Apr 2021,Engineering,Teams & Enterprise,638,46400,EUR,Merit increase,Y,E3,No,"4 years, 10 months, 17 days",4
+348,Inactive,37,Female,Master/Postgraduate,18 Apr 2017,24 Jul 2019,Involuntary,Low Performance,18 Apr 2017,Home,,517,46400,EUR,,Y,L3,No,"2 years, 3 months, 6 days",2
+352,Inactive,29,Male,Undergraduate degree (Grado),20 Aug 2018,23 Aug 2019,Voluntary,Other employment,17 Jun 2019,Engineering,Platform,228,46400,EUR,,Y,L3,No,"1 year, 3 days",1
+267,Active,41,Male,Technical degree (FP),27 May 2019,,,,15 Apr 2021,Engineering,Corporate,245,46400,EUR,Promotion,Y,M1,Yes,"2 years, 1 day",2
+557,Active,29,Male,Master/Postgraduate,09 Mar 2020,,,,15 Apr 2021,Engineering,Quality,164,46400,EUR,New hire,N,E3,No,"1 year, 2 months, 19 days",1
+682,Active,36,Male,Master/Postgraduate,11 Jan 2021,,,,15 Apr 2021,Design,Product Design,168,46400,EUR,New hire,N,E3,No,"4 months, 17 days",0
+695,Active,31,Male,Master/Postgraduate,11 Jan 2021,,,,15 Apr 2021,Engineering,Quality,595,46400,EUR,New hire,N,E3,Yes,"4 months, 17 days",0
+234,Active,35,Female,Undergraduate degree (Grado),29 Apr 2015,,,,22 May 2021,Engineering,Conversations,246,46800,EUR,Merit increase,Y,E3,No,"6 years, 29 days",6
+239,Inactive,33,Male,Unknown,04 Jul 2016,30 Apr 2020,Voluntary,Ready for the next challenge,17 Jun 2019,Engineering,Platform,245,47040,EUR,,Y,E3,No,"3 years, 9 months, 26 days",3
+233,Inactive,32,Male,Unknown,08 Aug 2016,17 Jan 2020,Voluntary,Ready for the next challenge,17 Jun 2019,Engineering,Core,246,47040,EUR,Merit increase,Y,M0,No,"3 years, 5 months, 9 days",3
+277,Active,35,Male,Undergraduate degree (Grado),04 Feb 2019,,,,15 Apr 2021,Design,Creative Design,504,47200,EUR,Merit increase,Y,M1,Yes,"2 years, 3 months, 24 days",2
+732,Active,30,Male,Master/Postgraduate,22 Mar 2021,,,,15 Apr 2021,Marketing,Paid Marketing,544,47200,EUR,New hire,N,E3,No,"2 months, 6 days",0
+164,Active,39,Male,Undergraduate degree (Grado),31 Oct 2016,,,,15 Apr 2021,Engineering,Quality,595,48000,EUR,Promotion,Y,M1,Yes,"4 years, 6 months, 28 days",4
+216,Active,31,Male,Master/Postgraduate,14 Nov 2016,,,,22 May 2021,Engineering,Conversations,246,48000,EUR,Merit increase,Y,E3,No,"4 years, 6 months, 14 days",4
+385,Inactive,40,Female,Unknown,14 Nov 2016,31 Jan 2019,Voluntary,Limited career opportunities,01 Sep 2017,Finance,FP&A,,48000,EUR,,Y,L4,No,"2 years, 2 months, 17 days",2
+257,Inactive,48,Male,Unknown,05 Dec 2016,31 Dec 2019,Voluntary,Unhappy with the leadership,01 Mar 2018,Marketing,Marketing Ops,269,48000,EUR,,Y,L3,No,"3 years, 26 days",3
+408,Inactive,50,Male,Unknown,03 Apr 2017,11 Oct 2018,Voluntary,Other employment,03 Apr 2017,Engineering,Development,,48000,EUR,,Y,M1,No,"1 year, 6 months, 8 days",1
+176,Inactive,33,Female,Master/Postgraduate,11 Jun 2018,30 Jun 2020,Voluntary,Limited career opportunities,11 Jun 2018,Design,Product Design,168,48000,EUR,Merit increase,Y,E3,No,"2 years, 19 days",2
+289,Active,32,Female,Master/Postgraduate,11 Jun 2018,,,,15 Apr 2021,Marketing,Lifecycle Marketing,544,48000,EUR,Promotion,Y,E3,No,"2 years, 11 months, 17 days",2
+333,Inactive,42,Male,Undergraduate degree (Grado),07 Jan 2019,23 Oct 2019,Voluntary,Other employment,07 Jan 2019,Engineering,Platform,245,48000,EUR,New hire,Y,L3,No,"9 months, 16 days",0
+264,Active,34,Male,Undergraduate degree (Grado),13 May 2019,,,,15 Apr 2021,Engineering,Funnel Health,595,48000,EUR,Promotion,Y,M1,Yes,"2 years, 15 days",2
+146,Active,32,Male,Undergraduate degree (Grado),01 Oct 2019,,,,15 Apr 2021,People & Home,People Talent,305,48000,EUR,Merit increase,Y,M1,Yes,"1 year, 7 months, 27 days",1
+127,Active,33,Male,Undergraduate degree (Grado),25 Nov 2019,,,,15 Apr 2021,Engineering,R&D,664,48000,EUR,Merit increase,N,E3,No,"1 year, 6 months, 3 days",1
+500,Inactive,37,Male,Master/Postgraduate,13 Jan 2020,25 Nov 2020,Voluntary,Unhappy with the job,01 Sep 2020,Engineering,Core,236,48000,EUR,,N,E3,No,"10 months, 12 days",0
+522,Active,45,Male,Master/Postgraduate,13 Jan 2020,,,,01 Jan 2021,Engineering,Platform,521,48000,EUR,,N,E3,No,"1 year, 4 months, 15 days",1
+569,Active,43,Male,High-school (Bachillerato),06 Mar 2020,,,,01 Jan 2021,Engineering,Conversations,542,48000,EUR,New hire,N,E2,No,"1 year, 2 months, 22 days",1
+578,Active,37,Female,Master/Postgraduate,06 Apr 2020,,,,29 Apr 2021,Marketing,Marketing Ops,725,48000,EUR,Reduce/Increase Working hours,N,E3,No,"1 year, 1 month, 22 days",1
+572,Active,41,Male,Undergraduate degree (Grado),20 Apr 2020,,,,15 Apr 2021,Data & Analytics,Insights Enablers,283,48000,EUR,New hire,N,E3,No,"1 year, 1 month, 8 days",1
+580,Active,35,Male,Master/Postgraduate,20 Apr 2020,,,,15 Apr 2021,Engineering,Funnel Health,595,48000,EUR,New hire,N,E3,Yes,"1 year, 1 month, 8 days",1
+611,Active,30,Female,Undergraduate degree (Grado),02 Jun 2020,,,,19 Apr 2021,Marketing,Paid Marketing,760,48000,EUR,New hire,N,E3,Yes,"11 months, 26 days",0
+619,Active,34,Male,Master/Postgraduate,02 Jun 2020,,,,15 Apr 2021,Marketing,Paid Marketing,544,48000,EUR,New hire,N,E3,No,"11 months, 26 days",0
+606,Inactive,28,Male,Undergraduate degree (Grado),02 Jun 2020,04 Jan 2021,Voluntary,Unhappy with the job,01 Sep 2020,Data & Analytics,Customer Insights,247,48000,EUR,New hire,N,E3,No,"7 months, 2 days",0
+627,Inactive,25,Female,Unknown,15 Jun 2020,19 Feb 2021,Voluntary,Lack of strategy / direction,01 Sep 2020,Business Development,Sales,579,48000,USD,Merit increase,N,E2,No,"8 months, 4 days",0
+628,Inactive,36,Male,Master/Postgraduate,13 Jul 2020,28 Feb 2021,Voluntary,Unhappy with the job,01 Sep 2020,Product,Core,294,48000,EUR,New hire,N,E2,No,"7 months, 15 days",0
+653,Active,33,Female,Undergraduate degree (Grado),27 Jul 2020,,,,15 Feb 2021,Customer Success,Customer Support,312,48000,USD,New hire,N,E2,No,"10 months, 1 day",0
+662,Active,37,Male,Undergraduate degree (Grado),21 Sep 2020,,,,15 Apr 2021,Security,Security,507,48000,EUR,New hire,N,E3,No,"8 months, 7 days",0
+667,Active,30,Male,Undergraduate degree (Grado),05 Oct 2020,,,,15 Apr 2021,Engineering,Platform,521,48000,EUR,New hire,N,E3,No,"7 months, 23 days",0
+722,Active,44,Male,Secondary school (ESO),22 Feb 2021,,,,22 Feb 2021,Business Development,Sales,579,48000,USD,New hire,N,E2,No,"3 months, 6 days",0
+719,Active,33,Male,Master/Postgraduate,08 Mar 2021,,,,08 Mar 2021,Engineering,Insights,240,48000,EUR,New hire,N,E3,No,"2 months, 20 days",0
+745,Inactive,27,Female,Master/Postgraduate,06 Apr 2021,14 May 2021,Voluntary,Lack of strategy / direction,06 Apr 2021,Business Development,Sales,579,48000,USD,New hire,N,E2,No,"1 month, 8 days",0
+750,Active,44,Male,Undergraduate degree (Grado),19 Apr 2021,,,,19 Apr 2021,Security,Security,507,48000,EUR,New hire,N,E3,No,"1 month, 9 days",0
+777,Active,33,Male,Undergraduate degree (Grado),17 May 2021,,,,17 May 2021,Business Development,Sales,579,48000,USD,New hire,N,E2,No,11 days,0
+772,Active,47,Male,High-school (Bachillerato),17 May 2021,,,,17 May 2021,Business Development,Sales,579,48000,USD,New hire,N,E2,No,11 days,0
+219,Inactive,36,Female,Master/Postgraduate,25 Apr 2014,14 Apr 2021,Voluntary,Unhappy with the manager,01 Sep 2020,Customer Success,Customer Engagement,220,48400,EUR,Merit increase,Y,M2,No,"6 years, 11 months, 19 days",6
+202,Active,35,Male,Technical degree (FP),21 Feb 2012,,,,15 Apr 2021,Engineering,Ecosystems,635,48800,EUR,Merit increase,Y,E3,No,"9 years, 3 months, 7 days",9
+250,Inactive,33,Male,Unknown,19 Oct 2015,30 Apr 2020,Voluntary,Ready for the next challenge,01 Oct 2019,Engineering,Platform,245,48800,EUR,Merit increase,Y,M3,No,"4 years, 6 months, 11 days",4
+531,Inactive,28,Male,Technical degree (FP),27 Jan 2020,12 Feb 2021,Voluntary,Unhappy with the salary / perks,01 Oct 2020,Data & Analytics,Data Platform,147,48800,EUR,Promotion,Y,E3,No,"1 year, 16 days",1
+315,Inactive,38,Male,Unknown,11 Apr 2016,13 Oct 2020,Voluntary,Unhappy with the salary / perks,01 Sep 2020,Engineering,Platform,319,49140,EUR,Merit increase,Y,E3,No,"4 years, 6 months, 2 days",4
+395,Inactive,37,Female,Unknown,22 Apr 2014,30 Mar 2018,Involuntary,Low Performance,01 Jan 2017,People,,,49600,EUR,,Y,,No,"3 years, 11 months, 8 days",3
+279,Active,37,Female,Undergraduate degree (Grado),17 Dec 2018,,,,15 Apr 2021,Design,Creative Design,504,49600,EUR,Merit increase,Y,M1,Yes,"2 years, 5 months, 11 days",2
+550,Inactive,33,Male,,18 Feb 2020,26 Feb 2021,Voluntary,Ready for the next challenge,01 Jan 2021,Engineering,Platform,521,49600,EUR,,N,E3,No,"1 year, 8 days",1
+755,Active,40,Female,Master/Postgraduate,19 Apr 2021,,,,19 Apr 2021,Marketing,Brand Marketing,224,49600,EUR,New hire,N,E3,No,"1 month, 9 days",0
+770,Active,39,Male,Master/Postgraduate,17 May 2021,,,,17 May 2021,Data & Analytics,Data Platform,147,49600,EUR,New hire,N,E3,No,11 days,0
+369,Inactive,39,Male,Unknown,02 May 2017,30 Jun 2019,Voluntary,Ready for the next challenge,01 Sep 2018,Data & Analytics,,283,50200,EUR,,Y,L3,No,"2 years, 1 month, 28 days",2
+330,Inactive,30,Male,Unknown,05 Sep 2016,31 Oct 2019,Voluntary,Ready for the next challenge,05 Aug 2019,Product,,229,50400,EUR,,Y,L2,No,"3 years, 1 month, 26 days",3
+230,Active,35,Female,Master/Postgraduate,19 Feb 2018,,,,15 Apr 2021,Marketing,Brand Marketing,224,50400,EUR,Promotion,Y,E4,No,"3 years, 3 months, 9 days",3
+268,Active,43,Male,Undergraduate degree (Grado),01 Apr 2019,,,,15 Apr 2021,Product,Partnerships,704,50400,EUR,Merit increase,N,E2,No,"2 years, 1 month, 27 days",2
+575,Active,33,Male,Undergraduate degree (Grado),06 Apr 2020,,,,15 Apr 2021,Data & Analytics,Data Platform,147,50400,EUR,New hire,N,E2,No,"1 year, 1 month, 22 days",1
+678,Active,38,Male,Master/Postgraduate,11 Jan 2021,,,,15 Apr 2021,Customer Success,Customer Support,266,50400,EUR,New hire,N,E4,Yes,"4 months, 17 days",0
+720,Active,32,Male,Undergraduate degree (Grado),08 Mar 2021,,,,15 Apr 2021,Data & Analytics,Data Platform,147,50400,EUR,New hire,N,E2,No,"2 months, 20 days",0
+290,Inactive,33,Male,Unknown,19 Mar 2018,31 Dec 2019,Voluntary,Sabbatical leave,17 Jun 2019,Engineering,Funnel Health,228,50715,EUR,Merit increase,Y,M1,No,"1 year, 9 months, 12 days",1
+184,Active,32,Male,Undergraduate degree (Grado),07 Nov 2016,,,,15 Apr 2021,Engineering,Journeys,508,50752,EUR,Merit increase,Y,E3,No,"4 years, 6 months, 21 days",4
+169,Active,38,Female,Master/Postgraduate,07 Nov 2016,,,,15 Apr 2021,Engineering,Journeys,508,50785,EUR,Merit increase,Y,E3,No,"4 years, 6 months, 21 days",4
+514,Active,36,Male,Master/Postgraduate,13 Jan 2020,,,,15 Apr 2021,Engineering,Teams & Enterprise,638,51000,EUR,Promotion,N,E3,No,"1 year, 4 months, 15 days",1
+400,Inactive,36,Male,Unknown,01 Jul 2013,28 Feb 2019,Voluntary,Other employment,01 Mar 2017,Engineering,Development,,51200,EUR,,Y,M1,No,"5 years, 7 months, 27 days",5
+444,Inactive,34,Female,Unknown,13 Oct 2014,04 Nov 2018,Voluntary,Other employment,01 Mar 2018,Engineering,,,51200,EUR,,Y,L3,No,"4 years, 22 days",4
+353,Inactive,40,Male,Master/Postgraduate,27 Nov 2017,30 Apr 2019,Involuntary,Low Performance,27 Nov 2017,Product,,,51200,EUR,,Y,L4,No,"1 year, 5 months, 3 days",1
+187,Active,34,Male,Master/Postgraduate,01 Oct 2019,,,,15 Apr 2021,Data & Analytics,Customer Insights,247,51240,EUR,Merit increase,N,E3,No,"1 year, 7 months, 27 days",1
+243,Active,36,Male,Master/Postgraduate,02 May 2016,,,,22 May 2021,Engineering,Conversations,246,51584,EUR,Merit increase,Y,E3,No,"5 years, 26 days",5
+190,Active,33,Male,Master/Postgraduate,13 Apr 2015,,,,15 Apr 2021,R&D,Creative Design,299,52000,EUR,,Y,M3,No,"6 years, 1 month, 15 days",6
+286,Active,31,Male,Undergraduate degree (Grado),30 Apr 2018,,,,15 Apr 2021,Data & Analytics,Data Platform,147,52000,EUR,Promotion,Y,E3,No,"3 years, 28 days",3
+562,Active,52,Male,Undergraduate degree (Grado),09 Mar 2020,,,,15 Apr 2021,Security,Security,507,52000,EUR,New hire,N,E3,No,"1 year, 2 months, 19 days",1
+631,Active,35,Male,Undergraduate degree (Grado),01 Jul 2020,,,,15 Apr 2021,Engineering,Funnel Health,556,52000,EUR,New hire,N,E3,No,"10 months, 27 days",0
+638,Active,31,Male,Technical degree (FP),13 Jul 2020,,,,15 Apr 2021,Engineering,Teams & Enterprise,246,52000,EUR,New hire,N,M1,Yes,"10 months, 15 days",0
+664,Active,37,Male,Master/Postgraduate,24 Aug 2020,,,,15 Apr 2021,Engineering,R&D,246,52000,EUR,New hire,N,M1,Yes,"9 months, 4 days",0
+669,Active,27,Male,Undergraduate degree (Grado),02 Nov 2020,,,,15 Apr 2021,Product,Funnel Health,285,52000,EUR,New hire,N,E2,No,"6 months, 26 days",0
+693,Inactive,37,Male,Undergraduate degree (Grado),08 Feb 2021,08 Apr 2021,Involuntary,Failing probation period,08 Feb 2021,Design,Product Design,168,52000,EUR,Contract change,N,E3,No,"2 months, 0 days",0
+738,Active,29,Male,Master/Postgraduate,06 Apr 2021,,,,06 Apr 2021,Data & Analytics,Customer Insights,151,52000,EUR,New hire,N,E3,No,"1 month, 22 days",0
+235,Inactive,31,Male,Unknown,15 Dec 2014,31 Jul 2020,Voluntary,Unhappy with the leadership,17 Jun 2019,Engineering,Platform,245,52400,EUR,Merit increase,Y,E3,No,"5 years, 7 months, 16 days",5
+135,Active,34,Female,Undergraduate degree (Grado),26 Feb 2018,,,,01 May 2021,Customer Success,Customer Support,678,52668,USD,Merit increase,Y,E2,No,"3 years, 3 months, 2 days",3
+375,Inactive,37,Male,Unknown,09 Feb 2011,10 Jun 2019,Voluntary,Ready for the next challenge,09 Feb 2011,Engineering,Development,228,52800,EUR,,Y,L2,No,"8 years, 4 months, 1 day",8
+496,Inactive,30,Male,Unknown,11 Feb 2014,25 Nov 2018,Voluntary,Other employment,01 Mar 2018,Product,,,52800,EUR,,Y,M1,No,"4 years, 9 months, 14 days",4
+284,Inactive,31,Male,Unknown,06 Aug 2018,10 Jan 2020,Voluntary,Unhappy with the leadership,17 Jun 2019,Engineering,Funnel Health,228,52920,EUR,Merit increase,Y,M1,No,"1 year, 5 months, 4 days",1
+133,Active,35,Female,Unknown,24 Apr 2017,,,,01 Sep 2020,Customer Success,Customer Support,266,53248,USD,Promotion,Y,M1,Yes,"4 years, 1 month, 4 days",4
+513,Active,35,Male,Master/Postgraduate,13 Jan 2020,,,,15 Apr 2021,Data & Analytics,Insights Enablers,247,53600,EUR,New hire,N,E4,No,"1 year, 4 months, 15 days",1
+537,Active,31,Female,Master/Postgraduate,10 Feb 2020,,,,15 Apr 2021,Design,Product Design,168,54000,EUR,,Y,E4,No,"1 year, 3 months, 18 days",1
+349,Inactive,39,Female,Unknown,03 Mar 2016,31 Mar 2019,Involuntary,Low Performance,01 Mar 2018,Design,Product Design,,54400,EUR,,Y,M2,No,"3 years, 28 days",3
+495,Inactive,39,Male,Master/Postgraduate,22 Jan 2018,07 Mar 2018,Voluntary,Other employment,22 Jan 2018,Engineering,,,54400,EUR,,Y,,No,"1 month, 16 days",0
+509,Inactive,38,Male,Master/Postgraduate,13 Jan 2020,21 May 2021,Voluntary,Unhappy with the leadership,15 Apr 2021,Engineering,Conversations,246,54400,EUR,New hire,N,M1,No,"1 year, 4 months, 8 days",1
+724,Active,33,Male,Master/Postgraduate,22 Feb 2021,,,,15 Apr 2021,Strategy,Strategy,148,54400,EUR,Contract change,N,E3,No,"3 months, 6 days",0
+727,Active,31,Male,High-school (Bachillerato),08 Mar 2021,,,,15 Apr 2021,Engineering,R&D,246,54400,EUR,New hire,N,M1,Yes,"2 months, 20 days",0
+499,Inactive,33,Female,Undergraduate degree (Grado),03 Apr 2018,06 Sep 2019,Voluntary,Personal reasons,03 Apr 2018,Customer Success,Customer Support,,54600,USD,,Y,L2,No,"1 year, 5 months, 3 days",1
+136,Inactive,35,Male,Undergraduate degree (Grado),02 May 2016,29 Nov 2019,Voluntary,Limited career opportunities,01 Mar 2018,Customer Success,Customer Support,266,55176,USD,,Y,M1,No,"3 years, 6 months, 27 days",3
+236,Active,34,Male,Undergraduate degree (Grado),21 Jan 2019,,,,15 Apr 2021,Engineering,Ecosystems,680,55200,EUR,Merit increase,Y,M1,Yes,"2 years, 4 months, 7 days",2
+240,Active,33,Male,Master/Postgraduate,18 Mar 2019,,,,15 Apr 2021,Engineering,Insights,246,55200,EUR,Merit increase,Y,M1,Yes,"2 years, 2 months, 10 days",2
+278,Active,29,Male,Master/Postgraduate,18 Mar 2019,,,,15 Apr 2021,Data & Analytics,Customer Insights,247,55200,EUR,Promotion,Y,E3,No,"2 years, 2 months, 10 days",2
+508,Active,37,Male,Master/Postgraduate,13 Jan 2020,28 May 2021,Voluntary,,15 Apr 2021,Engineering,Journeys,246,55200,EUR,Reduce/Increase Working hours,N,M1,Yes,"1 year, 4 months, 15 days",1
+756,Active,32,Male,PhD,17 May 2021,,,,17 May 2021,Data & Analytics,Insights Enablers,151,55200,EUR,New hire,N,E3,No,11 days,0
+475,Inactive,45,Female,Unknown,29 Sep 2014,17 Dec 2018,Voluntary,No details given,01 Jan 2017,People,,,56000,EUR,,Y,,No,"4 years, 2 months, 18 days",4
+302,Active,44,Male,Master/Postgraduate,08 Jul 2019,,,,15 Apr 2021,People & Home,People Experience,305,56000,EUR,Merit increase,Y,E4,No,"1 year, 10 months, 20 days",1
+183,Active,28,Male,Undergraduate degree (Grado),01 Oct 2019,,,,15 Apr 2021,Product,Core,294,56000,EUR,Merit increase,N,E2,No,"1 year, 7 months, 27 days",1
+525,Active,32,Female,Undergraduate degree (Grado),09 Dec 2019,,,,15 Apr 2021,Product,Core,567,56000,EUR,Transfer,N,E2,No,"1 year, 5 months, 19 days",1
+532,Active,32,Male,Master/Postgraduate,04 Feb 2020,,,,01 Jan 2021,Engineering,Platform,521,56000,EUR,,N,E3,No,"1 year, 3 months, 24 days",1
+540,Active,30,Male,Undergraduate degree (Grado),10 Feb 2020,,,,15 Apr 2021,Data & Analytics,Machine Learning,181,56000,EUR,,N,E3,No,"1 year, 3 months, 18 days",1
+556,Active,33,Male,Master/Postgraduate,24 Feb 2020,,,,15 Apr 2021,Engineering,Funnel Health,595,56000,EUR,New hire,N,M1,Yes,"1 year, 3 months, 4 days",1
+584,Active,42,Male,Undergraduate degree (Grado),20 Apr 2020,,,,15 Apr 2021,Marketing,Lifecycle Marketing,544,56000,EUR,Transfer,N,E4,No,"1 year, 1 month, 8 days",1
+615,Active,35,Male,,12 Jun 2020,,,,01 Jan 2021,Engineering,Journeys,508,56000,EUR,New hire,N,E2,No,"11 months, 16 days",0
+633,Inactive,34,Male,Master/Postgraduate,13 Jul 2020,25 May 2021,Voluntary,Unhappy with the manager,15 Apr 2021,Data & Analytics,Customer Insights,247,56000,EUR,New hire,Y,E3,No,"10 months, 12 days",0
+649,Active,39,Female,Undergraduate degree (Grado),20 Jul 2020,,,,15 Apr 2021,Data & Analytics,Customer Insights,247,56000,EUR,Reduce/Increase Working hours,N,E3,No,"10 months, 8 days",0
+657,Active,34,Female,PhD,02 Nov 2020,,,,15 Apr 2021,Data & Analytics,Marketing Insights,731,56000,EUR,New hire,N,E3,No,"6 months, 26 days",0
+698,Active,44,Female,Master/Postgraduate,11 Jan 2021,,,,01 Apr 2021,People & Home,People Talent,146,56000,GBP,Contract change,N,E3,No,"4 months, 17 days",0
+714,Active,34,Male,Master/Postgraduate,22 Feb 2021,,,,17 May 2021,Marketing,SEO,746,56000,EUR,New hire,N,E4,No,"3 months, 6 days",0
+761,Active,32,Male,Master/Postgraduate,17 May 2021,,,,17 May 2021,Data & Analytics,Data Platform,147,56000,EUR,New hire,N,E3,No,11 days,0
+784,Active,33,Male,Master/Postgraduate,25 May 2021,,,,25 May 2021,Marketing,Demand Generation,544,56000,EUR,New hire,N,E3,No,3 days,0
+170,Inactive,36,Male,Unknown,06 Mar 2017,03 Apr 2020,Voluntary,Unhappy with the leadership,01 Oct 2019,Engineering,Platform,245,56280,EUR,,Y,E4,No,"3 years, 28 days",3
+128,Inactive,40,Female,Master/Postgraduate,25 Nov 2019,19 Nov 2020,Voluntary,Personal reasons,01 Sep 2020,Data & Analytics,Marketing Insights,283,57584,EUR,Merit increase,N,E3,No,"11 months, 24 days",0
+392,Inactive,32,Male,Unknown,29 Aug 2016,27 Jul 2018,Involuntary,Low Performance,01 Mar 2018,Product,,,57600,EUR,,Y,M2,No,"1 year, 10 months, 29 days",1
+373,Inactive,46,Male,Unknown,29 Apr 2019,21 Jun 2019,Involuntary,Failing probation period,29 Apr 2019,Product,,229,57600,EUR,,N,,No,"1 month, 22 days",0
+518,Active,32,Male,Master/Postgraduate,10 Jan 2020,,,,01 Jan 2021,Engineering,Conversations,542,57600,EUR,,Y,E3,No,"1 year, 4 months, 18 days",1
+534,Active,38,Male,Master/Postgraduate,07 Feb 2020,,,,01 Jan 2021,Engineering,Platform,521,57600,EUR,,N,E3,No,"1 year, 3 months, 21 days",1
+460,Inactive,36,Male,Unknown,21 Jan 2015,25 Nov 2018,Voluntary,Other employment,31 Jan 2018,People,,,57685,EUR,,Y,M2,No,"3 years, 10 months, 4 days",3
+377,Inactive,35,Male,Unknown,08 May 2017,31 May 2019,Voluntary,Unhappy with the manager,08 May 2017,Engineering,,228,58000,EUR,,Y,L4,No,"2 years, 23 days",2
+608,Inactive,36,,Master/Postgraduate,06 Apr 2020,14 Aug 2020,Involuntary,Other,01 May 2020,Engineering,Platform,521,58240,EUR,Contract change,N,E3,No,"4 months, 8 days",0
+419,Inactive,33,Male,Master/Postgraduate,13 Nov 2017,28 Feb 2019,Involuntary,Low Performance,13 Nov 2017,Customer Success,,,58800,EUR,,Y,M2,No,"1 year, 3 months, 15 days",1
+355,Inactive,40,Male,Unknown,15 May 2017,30 Apr 2019,Involuntary,Low Performance,15 May 2017,Product,,227,60000,EUR,,Y,L4,No,"1 year, 11 months, 15 days",1
+256,Inactive,35,Male,Undergraduate degree (Grado),11 Jun 2018,19 Feb 2021,Voluntary,Unhappy with the leadership,01 Jan 2021,Marketing,Growth Marketing,282,60000,EUR,Promotion,Y,M2,No,"2 years, 8 months, 8 days",2
+304,Active,35,Female,Master/Postgraduate,05 Aug 2019,,,,15 Apr 2021,Product,Core,721,60000,EUR,Promotion,N,E3,Yes,"1 year, 9 months, 23 days",1
+589,Active,44,Female,PhD,04 May 2020,,,,15 Apr 2021,Design,Product Design,168,60000,EUR,Transfer,Y,E4,No,"1 year, 24 days",1
+625,Active,41,Male,Undergraduate degree (Grado),02 Jun 2020,,,,01 Jan 2021,Business Development,Sales,579,60000,USD,Reclassification to Non Exempt,N,E3,No,"11 months, 26 days",0
+641,Active,31,Female,Master/Postgraduate,10 Aug 2020,,,,15 Apr 2021,Data & Analytics,Marketing Insights,731,60000,EUR,New hire,N,E3,No,"9 months, 18 days",0
+684,Active,34,Male,Master/Postgraduate,25 Jan 2021,,,,15 Apr 2021,Design,Product Design,168,60000,EUR,New hire,N,E4,No,"4 months, 3 days",0
+145,Active,40,Male,Unknown,04 Nov 2019,,,,01 Sep 2020,Security,Security,507,60480,EUR,Promotion,Y,E3,No,"1 year, 6 months, 24 days",1
+1,Active,36,Female,Undergraduate degree (Grado),01 Jul 2019,,,,15 Apr 2021,People & Home,People Operations,305,61600,EUR,Reduce/Increase Working hours,Y,M2,Yes,"1 year, 10 months, 27 days",1
+519,Inactive,37,Male,Unknown,10 Jan 2020,04 Jan 2021,Involuntary,Low Performance,01 Sep 2020,Engineering,Core Services,521,61600,EUR,,N,E3,No,"11 months, 25 days",0
+533,Active,37,Male,Master/Postgraduate,04 Feb 2020,,,,01 Jan 2021,Engineering,Insights,240,61600,EUR,,N,E3,No,"1 year, 3 months, 24 days",1
+590,Active,33,Male,Undergraduate degree (Grado),20 Apr 2020,,,,15 Apr 2021,Data & Analytics,Data Platform,147,61600,EUR,New hire,N,E3,No,"1 year, 1 month, 8 days",1
+502,Active,35,Male,PhD,13 Jan 2020,,,,15 Apr 2021,Data & Analytics,Machine Learning,181,62400,EUR,,N,E3,No,"1 year, 4 months, 15 days",1
+683,Active,33,Male,Master/Postgraduate,16 Nov 2020,,,,15 Apr 2021,Data & Analytics,Machine Learning,181,62400,EUR,New hire,N,E3,No,"6 months, 12 days",0
+151,Active,33,Male,PhD,11 Nov 2019,,,,15 Apr 2021,Data & Analytics,Insights Enablers,247,63000,EUR,Merit increase,N,E4,Yes,"1 year, 6 months, 17 days",1
+319,Active,34,Male,High-school (Bachillerato),08 Jul 2019,,,,15 Apr 2021,Engineering,Platform,245,63600,EUR,Merit increase,Y,M1,Yes,"1 year, 10 months, 20 days",1
+430,Inactive,38,Male,Unknown,28 Sep 2015,27 Jul 2018,Involuntary,Low Performance,01 Mar 2018,Product,,,64000,EUR,,Y,M2,No,"2 years, 9 months, 29 days",2
+238,Active,26,Male,Undergraduate degree (Grado),29 Mar 2016,,,,15 Apr 2021,Engineering,R&D,299,64000,EUR,Promotion,Y,E4,No,"5 years, 1 month, 30 days",5
+210,Active,48,Male,Undergraduate degree (Grado),05 Sep 2016,,,,15 Apr 2021,Data & Analytics,Machine Learning,181,64000,EUR,Merit increase,Y,E4,No,"4 years, 8 months, 23 days",4
+418,Inactive,44,Male,Unknown,03 Jul 2017,06 Apr 2018,Involuntary,Low Performance,03 Jul 2017,Customer Success,,,64000,EUR,,Y,,No,"9 months, 3 days",0
+272,Active,34,Female,Master/Postgraduate,08 Apr 2019,,,,15 Apr 2021,Finance & Legal,Finance,227,64000,EUR,Promotion,Y,M3,Yes,"2 years, 1 month, 20 days",2
+303,Inactive,47,Female,Master/Postgraduate,01 Aug 2019,04 Sep 2020,Voluntary,Ready for the next challenge,01 Sep 2020,Finance & Legal,Finance,227,64000,EUR,Promotion,Y,M3,No,"1 year, 1 month, 3 days",1
+629,Active,33,Not Specified,Undergraduate degree (Grado),15 Jun 2020,,,,01 Jan 2021,Engineering,R&D,664,64000,EUR,New hire,N,E3,No,"11 months, 13 days",0
+635,Active,33,Male,High-school (Bachillerato),10 Jul 2020,,,,01 Jan 2021,Engineering,Ecosystems,680,64000,EUR,New hire,N,M1,Yes,"10 months, 18 days",0
+651,Active,30,Male,Master/Postgraduate,01 Sep 2020,,,,01 Jan 2021,Engineering,Platform,319,64000,EUR,New hire,N,E3,No,"8 months, 27 days",0
+692,Active,45,Male,Undergraduate degree (Grado),01 Dec 2020,,,,15 Apr 2021,Finance & Legal,Finance,227,64000,EUR,New hire,N,M3,Yes,"5 months, 27 days",0
+747,Active,35,Male,Master/Postgraduate,17 May 2021,,,,17 May 2021,Data & Analytics,Insights Enablers,247,64000,EUR,New hire,N,E4,No,11 days,0
+594,Active,31,Male,Undergraduate degree (Grado),01 May 2020,,,,01 Jan 2021,Engineering,Ecosystems,635,64680,EUR,Promotion,N,E3,No,"1 year, 27 days",1
+248,Inactive,30,Female,Master/Postgraduate,21 Mar 2016,16 Aug 2020,Voluntary,Sabbatical leave,01 Mar 2020,Data & Analytics,Marketing Insights,283,64800,EUR,Merit increase,Y,M1,No,"4 years, 4 months, 26 days",4
+746,Active,38,Male,Master/Postgraduate,17 May 2021,,,,17 May 2021,Marketing,SEO,544,64800,EUR,New hire,N,M2,Yes,11 days,0
+285,Active,37,Male,PhD,25 Jun 2018,,,,15 Apr 2021,Product,Funnel Health,721,65600,EUR,Merit increase,Y,E3,Yes,"2 years, 11 months, 3 days",2
+542,Active,0,Male,Master/Postgraduate,11 Feb 2020,,,,01 Jan 2021,Engineering,Conversations,246,65600,EUR,,Y,E3,Yes,"1 year, 3 months, 17 days",1
+622,Active,43,Male,PhD,12 Jun 2020,,,,01 Jan 2021,Engineering,Ecosystems,236,65600,EUR,New hire,N,E3,No,"11 months, 16 days",0
+616,Inactive,33,Male,PhD,15 May 2020,26 Feb 2021,Voluntary,Ready for the next challenge,01 Jan 2021,Engineering,Ecosystems,635,67200,EUR,New hire,N,E3,No,"9 months, 11 days",0
+603,Inactive,28,Male,,02 Jun 2020,07 Jan 2021,Involuntary,Low Performance,01 Jan 2021,Engineering,Ecosystems,635,67200,EUR,New hire,N,E3,No,"7 months, 5 days",0
+292,Inactive,45,Male,Unknown,31 Jul 2017,06 Feb 2020,Voluntary,Personal reasons,31 Jul 2017,Data & Analytics,Data Operations,269,68000,EUR,Merit increase,Y,M2,No,"2 years, 6 months, 6 days",2
+294,Active,30,Male,Undergraduate degree (Grado),23 Oct 2017,,,,15 Apr 2021,Product,Core,721,68000,EUR,Merit increase,Y,M2,Yes,"3 years, 7 months, 5 days",3
+679,Active,32,Female,Master/Postgraduate,11 Jan 2021,,,,15 Apr 2021,Product,Core,567,68000,EUR,New hire,N,E3,No,"4 months, 17 days",0
+744,Active,43,Male,Master/Postgraduate,03 May 2021,,,,18 May 2021,Data & Analytics,Marketing Insights,731,68000,EUR,New hire,N,E3,No,25 days,0
+774,Active,43,Male,Undergraduate degree (Grado),17 May 2021,,,,17 May 2021,Design,Product Design,504,68000,GBP,New hire,N,E3,No,11 days,0
+757,Active,39,Male,Master/Postgraduate,24 May 2021,,,,24 May 2021,Data & Analytics,Customer Insights,151,68000,GBP,New hire,N,E3,No,4 days,0
+593,Active,32,Male,,01 May 2020,,,,01 Jan 2021,Engineering,Platform,319,68800,EUR,Market adjustment,N,E3,No,"1 year, 27 days",1
+520,Active,36,Male,Master/Postgraduate,10 Jan 2020,,,,01 Jan 2021,Engineering,Ecosystems,236,69440,EUR,,N,E3,No,"1 year, 4 months, 18 days",1
+459,Inactive,45,Male,Unknown,17 Feb 2016,08 Feb 2019,Involuntary,Low Performance,17 Feb 2016,Data & Analytics,,282,69600,EUR,,Y,M3,No,"2 years, 11 months, 20 days",2
+462,Inactive,40,Male,Master/Postgraduate,04 Dec 2017,31 Dec 2018,Voluntary,Other employment,04 Dec 2017,Business Development,,282,70400,EUR,,Y,,No,"1 year, 27 days",1
+147,Active,30,Male,Undergraduate degree (Grado),11 Nov 2019,,,,15 Apr 2021,Data & Analytics,Data Platform,181,70400,EUR,Promotion,Y,M1,Yes,"1 year, 6 months, 17 days",1
+247,Active,39,Male,Master/Postgraduate,04 Mar 2019,,,,15 Apr 2021,Data & Analytics,Customer Insights,283,70720,EUR,Merit increase,Y,M2,Yes,"2 years, 2 months, 24 days",2
+530,Active,45,Male,PhD,03 May 2021,,,,03 May 2021,Data & Analytics,Machine Learning,181,71200,EUR,,N,E4,No,"1 year, 30 days",1
+356,Inactive,37,Male,Master/Postgraduate,14 May 2018,22 Jul 2019,Involuntary,Low Performance,14 May 2018,Engineering,Management,228,72000,EUR,,Y,M3,No,"1 year, 2 months, 8 days",1
+262,Active,30,Male,Master/Postgraduate,13 May 2019,,,,15 Apr 2021,Data & Analytics,Marketing Insights,731,72000,EUR,Promotion,Y,E4,No,"2 years, 15 days",2
+521,Active,41,Male,,10 Jan 2020,,,,01 Jan 2021,Engineering,Platform,245,72000,EUR,Promotion,N,M2,Yes,"1 year, 4 months, 18 days",1
+582,Active,35,Male,Master/Postgraduate,03 Apr 2020,,,,01 Jan 2021,Engineering,Platform,319,72000,EUR,Market adjustment,N,E3,No,"1 year, 1 month, 25 days",1
+567,Active,33,Female,Undergraduate degree (Grado),06 Apr 2020,,,,15 Apr 2021,Product,Core,721,72000,EUR,Promotion,N,M2,Yes,"1 year, 1 month, 22 days",1
+142,Active,37,Male,Unknown,16 Nov 2020,,,,01 Jan 2021,Engineering,Platform,521,72000,EUR,New hire,Y,E4,No,"1 year, 1 month, 0 days",1
+702,Active,30,Male,Undergraduate degree (Grado),11 Jan 2021,,,,15 Apr 2021,Customer Success,Customer Engagement,282,72000,USD,New hire,N,E3,Yes,"4 months, 17 days",0
+560,Active,31,Female,Undergraduate degree (Grado),02 Mar 2020,,,,15 Apr 2021,Business Development,Reseller,623,74800,USD,Market adjustment,N,E3,No,"1 year, 2 months, 26 days",1
+425,Inactive,42,Male,Undergraduate degree (Grado),28 Aug 2017,25 Apr 2019,Voluntary,Lack of strategy / direction,18 Sep 2018,Engineering,Development,228,76000,EUR,,Y,M3,No,"1 year, 7 months, 28 days",1
+467,Inactive,38,Male,Unknown,23 Apr 2018,10 Feb 2019,Voluntary,Unhappy with the leadership,23 Apr 2018,Product,,,76000,EUR,,Y,L3,No,"9 months, 17 days",0
+429,Inactive,37,Female,Undergraduate degree (Grado),30 Apr 2018,15 Feb 2019,Voluntary,Personal reasons,30 Apr 2018,Product,,,76000,EUR,,Y,L3,No,"9 months, 15 days",0
+280,Active,34,Male,Undergraduate degree (Grado),12 Nov 2018,,,,15 Apr 2021,Finance & Legal,Legal,227,76000,EUR,Merit increase,Y,M3,Yes,"2 years, 6 months, 16 days",2
+270,Inactive,44,Male,Master/Postgraduate,18 Feb 2019,10 Jan 2020,Voluntary,Unhappy with the leadership,18 Feb 2019,Engineering,Infrastructure,228,76000,EUR,New hire,N,M3,No,"10 months, 20 days",0
+225,Active,36,Male,Undergraduate degree (Grado),16 Sep 2019,,,,15 Apr 2021,Data & Analytics,Insights Enablers,283,76000,EUR,Merit increase,Y,E5,Yes,"1 year, 8 months, 12 days",1
+595,Active,37,Male,Master/Postgraduate,04 May 2020,,,,15 Apr 2021,Engineering,Funnel Health,228,76000,EUR,New hire,Y,M3,Yes,"1 year, 24 days",1
+749,Active,30,Male,Undergraduate degree (Grado),19 Apr 2021,,,,19 Apr 2021,Engineering,Corporate,267,76000,USD,New hire,N,E2,No,"1 month, 9 days",0
+771,Active,39,Male,Undergraduate degree (Grado),17 May 2021,,,,17 May 2021,People & Home,People Operations,1,76000,USD,New hire,N,E3,No,11 days,0
+342,Inactive,33,Female,Undergraduate degree (Grado),26 Feb 2018,30 Sep 2019,Voluntary,Unhappy with the leadership,22 Aug 2019,Marketing,,269,77040,EUR,,Y,M3,No,"1 year, 7 months, 4 days",1
+768,Active,32,Male,Master/Postgraduate,17 May 2021,,,,17 May 2021,Strategy,Strategy,148,77600,EUR,New hire,N,E4,No,11 days,0
+276,Active,35,Female,Master/Postgraduate,07 Jan 2019,,,,15 Apr 2021,People & Home,People Experience,305,80000,EUR,Merit increase,Y,M3,No,"2 years, 4 months, 21 days",2
+245,Active,47,Male,High-school (Bachillerato),02 Sep 2019,,,,15 Apr 2021,Engineering,Platform,228,80000,EUR,Merit increase,Y,M3,Yes,"1 year, 8 months, 26 days",1
+504,Active,45,Male,Undergraduate degree (Grado),13 Jan 2020,,,,15 Apr 2021,Design,Creative Design,282,80000,EUR,New hire,Y,M3,Yes,"1 year, 4 months, 15 days",1
+507,Active,41,Male,Master/Postgraduate,13 Jan 2020,,,,15 Apr 2021,Security,Security,228,80000,EUR,,Y,M3,Yes,"1 year, 4 months, 15 days",1
+737,Active,33,Female,Master/Postgraduate,22 Mar 2021,,,,01 May 2021,Business Development,Sales,282,80000,USD,New hire,N,E4,No,"2 months, 6 days",0
+246,Active,37,Male,Undergraduate degree (Grado),02 Sep 2019,,,,15 Apr 2021,Engineering,Conversations,228,82400,EUR,Merit increase,Y,M3,Yes,"1 year, 8 months, 26 days",1
+207,Active,36,Male,Undergraduate degree (Grado),01 Oct 2019,,,,15 Apr 2021,Marketing,Product Marketing,725,82400,EUR,Merit increase,Y,M2,No,"1 year, 7 months, 27 days",1
+220,Active,49,Female,Undergraduate degree (Grado),18 Apr 2018,,,,15 Apr 2021,Customer Success,Customer Success,282,85600,EUR,Merit increase,Y,M4,Yes,"3 years, 1 month, 10 days",3
+329,Inactive,31,Male,Unknown,22 Jan 2019,01 Nov 2019,Voluntary,Lack of strategy / direction,22 Jan 2019,Engineering,Developer Advocates,228,88000,USD,,N,L2,No,"9 months, 10 days",0
+544,Active,38,Male,Undergraduate degree (Grado),06 Feb 2020,,,,15 Apr 2021,Marketing,Demand Generation,725,92000,EUR,Contract change,Y,M3,Yes,"1 year, 3 months, 22 days",1
+447,Inactive,35,Female,Unknown,13 Aug 2015,05 Mar 2019,Voluntary,Lack of strategy / direction,06 Apr 2018,Customer Success,Account Management,220,96000,USD,Transfer,Y,M1,No,"3 years, 6 months, 23 days",3
+661,Active,28,Female,Undergraduate degree (Grado),24 Aug 2020,,,,14 Apr 2021,Customer Success,Customer Engagement,725,96000,USD,New hire,N,E3,No,"9 months, 4 days",0
+680,Active,38,Male,Master/Postgraduate,01 Dec 2020,,,,15 Apr 2021,Engineering,Ecosystems,228,96000,EUR,New hire,N,M3,Yes,"5 months, 27 days",0
+731,Active,54,Male,Undergraduate degree (Grado),22 Mar 2021,,,,22 Mar 2021,Data & Analytics,Marketing Insights,283,96000,GBP,New hire,N,M2,Yes,"2 months, 6 days",0
+161,Active,44,Male,Unknown,28 Oct 2019,,,,01 Feb 2021,R&D,Core,299,99200,GBP,Transfer,Y,E6,No,"1 year, 7 months, 0 days",1
+283,Active,39,Female,Master/Postgraduate,09 Jul 2018,,,,15 Apr 2021,Data & Analytics,Data & Analytics,227,99360,EUR,Reduce/Increase Working hours,Y,M3,Yes,"2 years, 9 months, 3 days",2
+438,Inactive,37,Male,Unknown,07 Sep 2015,29 Mar 2019,Voluntary,Unhappy with the leadership,01 Jul 2018,Marketing,,282,100000,EUR,,Y,,No,"3 years, 6 months, 22 days",3
+181,Active,38,Male,PhD,01 Oct 2019,,,,15 Apr 2021,Data & Analytics,Data & Analytics,227,100320,EUR,Merit increase,Y,M3,Yes,"1 year, 7 months, 27 days",1
+363,Inactive,47,Male,Unknown,07 Nov 2014,14 Feb 2018,Voluntary,Other employment,07 Nov 2014,Engineering,,299,104000,EUR,,Y,,No,"3 years, 3 months, 7 days",3
+405,Inactive,43,Male,Unknown,11 Apr 2016,30 Apr 2018,Voluntary,Other employment,11 Apr 2016,Engineering,,,104000,EUR,,Y,,No,"2 years, 19 days",2
+168,Active,43,Female,Master/Postgraduate,14 Oct 2019,,,,15 Apr 2021,Design,Product Design,721,104000,EUR,New hire,N,M4,Yes,"1 year, 7 months, 14 days",1
+621,Inactive,31,Male,Undergraduate degree (Grado),02 Jun 2020,25 Sep 2020,Voluntary,Lack of strategy / direction,01 Sep 2020,Design,Product Design,168,104000,USD,New hire,N,E3,No,"3 months, 23 days",0
+734,Active,37,Male,PhD,03 May 2021,,,,03 May 2021,Product,Conversations,721,104000,EUR,New hire,N,M3,No,25 days,0
+148,Active,31,Male,Master/Postgraduate,10 Dec 2018,,,,15 Apr 2021,Strategy,Strategy,282,112000,EUR,Promotion,Y,M4,Yes,"2 years, 5 months, 18 days",2
+588,Active,31,Male,Master/Postgraduate,20 Apr 2020,,,,01 Apr 2021,Engineering,Ecosystems,515,112000,USD,Promotion,N,E2,No,"1 year, 1 month, 8 days",1
+712,Active,34,Male,Undergraduate degree (Grado),08 Feb 2021,,,,08 Feb 2021,Marketing,Demand Generation,544,116000,USD,New hire,N,E3,No,"3 months, 20 days",0
+224,Active,49,Male,Primary school,11 May 2015,,,,01 Jan 2021,Marketing,Brand Marketing,282,116480,USD,Merit increase,Y,M3,Yes,"6 years, 17 days",6
+364,Inactive,42,Male,Unknown,04 Sep 2017,13 Jun 2018,Involuntary,Low Performance,04 Sep 2017,People,,,120000,EUR,,Y,,No,"9 months, 9 days",0
+579,Active,45,Male,Undergraduate degree (Grado),06 Apr 2020,,,,13 Nov 2020,Business Development,Sales,282,120000,USD,New hire,Y,M3,Yes,"1 year, 1 month, 22 days",1
+604,Active,28,Male,Master/Postgraduate,28 Apr 2020,,,,01 Jan 2021,Engineering,Ecosystems,515,120000,USD,New hire,N,E2,No,"1 year, 1 month, 0 days",1
+623,Active,45,Male,Master/Postgraduate,02 Jun 2020,,,,13 Nov 2020,Business Development,Reseller,282,120000,USD,New hire,Y,M2,Yes,"11 months, 26 days",0
+293,Active,30,Male,Master/Postgraduate,19 Mar 2018,,,,01 Jan 2021,Product,Partnerships,195,124000,USD,Promotion,Y,E3,No,"3 years, 2 months, 9 days",3
+585,Active,33,Female,Undergraduate degree (Grado),20 Apr 2020,,,,25 May 2021,Marketing,Product Marketing,760,128000,USD,New hire,N,E3,No,"1 year, 1 month, 8 days",1
+704,Active,44,Male,PhD,22 Feb 2021,,,,22 Feb 2021,Product,Partnerships,721,128000,EUR,New hire,N,M3,Yes,"3 months, 6 days",0
+686,Active,37,Male,Undergraduate degree (Grado),16 Nov 2020,,,,22 Mar 2021,Data & Analytics,Marketing Insights,731,132000,USD,New hire,N,E3,No,"6 months, 12 days",0
+362,Inactive,39,Male,Unknown,27 Feb 2017,20 Dec 2018,Voluntary,Other employment,27 Feb 2017,Finance,,282,136000,EUR,,Y,,No,"1 year, 9 months, 21 days",1
+398,Inactive,57,Male,Unknown,10 Jul 2017,31 Mar 2019,Involuntary,Low Performance,10 Jul 2017,Design,,282,136000,EUR,,Y,L3,No,"1 year, 8 months, 21 days",1
+305,Active,39,Male,Master/Postgraduate,07 Jan 2019,,,,15 Apr 2021,People & Home,Leadership,282,140000,EUR,Merit increase,Y,C-Level,Yes,"2 years, 4 months, 21 days",2
+227,Active,46,Male,Master/Postgraduate,21 Jan 2019,,,,15 Apr 2021,Finance & Legal,Leadership,282,140000,EUR,Merit increase,Y,C-Level,Yes,"2 years, 4 months, 7 days",2
+515,Active,38,Male,Unknown,13 Jan 2020,,,,01 Jan 2021,Engineering,Ecosystems,680,152000,USD,New hire,N,M1,Yes,"1 year, 4 months, 15 days",1
+554,Active,44,Male,Master/Postgraduate,09 Mar 2020,,,,01 Jan 2021,Engineering,Ecosystems,515,152000,USD,New hire,N,E3,No,"1 year, 2 months, 19 days",1
+576,Inactive,31,Male,Undergraduate degree (Grado),20 Apr 2020,07 Aug 2020,Voluntary,Lack of strategy / direction,01 Jul 2020,Product,,282,152000,USD,New hire,N,E3,No,"3 months, 17 days",0
+281,Inactive,39,Male,Master/Postgraduate,04 Sep 2018,17 Mar 2021,Voluntary,Ready for the next challenge,01 Jan 2021,Product,Partnerships,195,156000,USD,Contract change,Y,E5,No,"2 years, 6 months, 13 days",2
+763,Active,39,Female,Master/Postgraduate,03 May 2021,,,,03 May 2021,Marketing,Viral,725,156000,USD,New hire,N,M3,No,25 days,0
+358,Inactive,46,Male,Unknown,30 May 2016,11 Apr 2019,Involuntary,Low Performance,30 May 2016,Engineering,,282,160000,EUR,,Y,,No,"2 years, 10 months, 12 days",2
+228,Active,37,Male,Master/Postgraduate,01 Apr 2019,,,,15 Apr 2021,Engineering,Leadership,282,160000,EUR,Merit increase,Y,C-Level,Yes,"2 years, 1 month, 27 days",2
+196,Inactive,39,Male,Undergraduate degree (Grado),09 Oct 2019,13 Nov 2020,Voluntary,Ready for the next challenge,01 Sep 2020,Business Development,Business Development,269,192000,USD,,Y,M2,No,"1 year, 1 month, 4 days",1
+229,Inactive,43,Female,Master/Postgraduate,11 Feb 2019,30 Jun 2020,Involuntary,Low Performance,24 Jul 2019,Product,,282,196000,EUR,Merit increase,Y,C-Level,No,"1 year, 4 months, 19 days",1
+269,Inactive,41,Male,Master/Postgraduate,25 Feb 2019,31 Dec 2020,Involuntary,Role no longer needed,01 Sep 2020,Leadership,Leadership,282,196000,EUR,Merit increase,Y,C-Level,No,"1 year, 10 months, 6 days",1
+390,Inactive,39,Male,Unknown,10 Sep 2014,08 Apr 2019,Voluntary,Limited career opportunities,06 Apr 2018,Customer Success,Customer Support,282,200000,USD,,Y,,No,"4 years, 6 months, 28 days",4
+282,Active,47,Male,Master/Postgraduate,31 Aug 2018,,,,15 Apr 2021,Leadership,Leadership,,200000,EUR,,Y,C-Level,Yes,"2 years, 8 months, 28 days",2
+195,Active,33,Male,Undergraduate degree (Grado),16 Sep 2019,,,,22 Feb 2021,Product,Partnerships,704,200000,USD,Contract change,Y,M3,Yes,"1 year, 8 months, 12 days",1
+431,Inactive,35,Female,Unknown,20 Aug 2018,09 Nov 2018,Voluntary,,20 Aug 2018,Product,,,211200,USD,,N,,No,"2 months, 20 days",0
+760,Active,47,Female,Master/Postgraduate,21 Apr 2021,,,,21 Apr 2021,R&D,Core,725,220000,USD,New hire,N,M3,Yes,"1 month, 7 days",0
+773,Active,40,Male,Undergraduate degree (Grado),17 May 2021,,,,17 May 2021,Marketing,Growth Marketing,725,220000,USD,New hire,N,M4,No,11 days,0
+725,Active,48,Male,Master/Postgraduate,15 Mar 2021,,,,15 Mar 2021,Marketing,Demand Generation,721,260800,USD,New hire,N,M4,Yes,"2 months, 13 days",0
+721,Active,39,Female,Master/Postgraduate,22 Feb 2021,,,,22 Feb 2021,Product,Leadership,282,320000,USD,New hire,N,C-Level,Yes,"3 months, 6 days",0
