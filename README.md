@@ -4,67 +4,39 @@
 
 ## Overview
 
-The goal of this project is for you to practice statistical analysis using the iterative data analysis process. For this project, you will use this [Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset we choose for you. You need to download the `train.csv` dataset then use your statistical analysis skills to analyze this dataset. **The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
-
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
+The goal of this project is to practice statistical analysis using the iterative data analysis process and combine it with interactive data visualization libraries such as plotly or ipywidgets. For this project, we have used the FilmAffinity dataset that we had scrapped in previous projects. The main information is in the `pelis_fa_pr06.csv` dataset, but there is another file already filtered through SQL also from a previous project with the top 10 actors by average movie rating per decade in the `SQL-top10actores_puntuacion.csv` file.
 
 ---
 
-## Technical Requirements
+## Statistical analyisis
 
-The technical requirements for this project are as follows:
+The 3 statistical analysis are contained in the `Proyecto_slides.ipynb` workbook:
 
-* Try to apply everything you have learned so far about data analysis (in creative ways if you can) such as data cleaning, data manipulation, data visualization, and various statistical analysis methods.
+* **ANOVA**: in this visualization it is possible to see the pvalue of applying the ANOVA method to the distributions of the ratings of all movies for 3 different actors. The program will inform us if there are significant differences in their rating distributions.
 
-* Apply the iterative data analysis process -- setting expectations, collecting information, and reacting to data / revising expectations.
+* **Confidence intervals**: _if we decide to hire a specific actor, we can ensure with a given confidence interval that the rating of the movie will be between A and B_. The goal of this visualization is to answer this questions, i.e. calculate both A and B values given any actor and confidence interval.
 
-* Conduct your analysis in Jupyter Notebook using Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, and other Python libraries you have learned, as necessary.
+* **Two-sample independent test**: _is it worth hiring that actor?_ This is the question we are trying to answer by applying a two-sample independent test in which we compare the rating distributions of a given actor's rating with the rest of the ratings in the dataset for those movies that might be comparable. To do that, the program will filter all the rest of the movies in the dataset that share the same activity years of that actor and the main genre.
 
-* It will be mandatory to use 3 different inferential statistics methods if using a prediction algorithm (regression / time series / classification) or 5 inferential methods without predictions.
+## Prediction: linear regression
 
-* At least 5 interactive plots will be needed to do the presentation, at least 1 of them must use ipywidgets and at least one of them must use plotly.
+The prediction with linear regression is also contained in the `Proyecto_slides.ipynb` workbook. The goal of this program is to predict a movie's rating depending on its main director, its main genre and its origin, having reduced the last one to US, Europe or rest of the world.
 
-## Necessary Deliverables
+Since most of our variables are categorical, we needed to apply the `pd.get_dummies()` function that converts categorical variables into numerical by adding all values into new columns that contain 0 or 1.
 
-The following deliverables should be pushed to your Github repo for this project.
+To avoid ending up with a dataframe with thousands of columns, we reduced our dataset by keeping only those movies directed by the top 10 most prolific directors.
 
-* **A Jupyter Notebook (statistical-analysis.ipynb)** containing your Python codes, outputs, and data visualizations. Make sure to include explanations for each of your steps in Markdown cells or Python comments.
+The categorical values of our predictor have been reduced to the following fields:
 
-* [optional] A `README.md` file containing any additional information.
+* Director: the top 10 most prolific directors
 
-## Suggested Ways to Get Started
+* Genre: drama, comedy, horror, action, sci-fi or thriller
 
-1. Explore data and understand what the fields mean.
+* Country: United States, Europe or rest.
 
-1. Examine the relationships between the sales price and other features in the dataset. Use data visualization techniques to help you gain intuitive understanding of the relationships.
+## Prediction: time series
 
-1. Make informed guess on which features should be investigated in depth.
+Our interactive predictor with time series is contained in the workbook `TimeSeries.ipynb`. The objective of this visualization is to have an overview of the number of movies in the last 100 years by genre and predict the number of movies in the upcoming years by genre.
 
-1. Data cleaning & manipulation. Apply the following techniques as appropriate:
-    * Adjust skewed data distribution.
-    * Remove columns with high proportion of missing values.
-    * Remove records with missing values.
-    * Feature reduction.
-    * Convert categorical data to numerical.
-
-1. Compute field relationship scores with the chosen statistical model.
-
-1. Present your findings in statistical summary and/or data visualizations.
-
-## Project Feedback + Evaluation
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+Since the number of movies decreased a lot in the last years due to Covid-19, this program will allow the user the option to see how the prediction would have been if this effect would not have existed, i.e. filtering the movies from 1920 to 2018, instead of 
+considering the entire dataset until 2020.
