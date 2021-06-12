@@ -3,6 +3,7 @@
 # Project 5: Football Analytics
 
 Ready? 🚀
+
 We are Javier Alvarez and Carlos Azagra.
 We are super fans not only of football but also at playing at it in videogames. We are very interested in interpretate football information with all the technical knowledge learnt during the course, and we found a dataset with big tons of stats about the most famous football videogame in the history: FIFA.
 This dataset combines real data from football players (name, shirt number, teams, salaries, biological information...) and virtual data (subjective data such as rating and skills) that we will use to analyse certain statements or predetermined ideas that we, the fans of football, have, and compare them to real data.
