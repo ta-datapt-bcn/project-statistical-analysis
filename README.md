@@ -13,7 +13,7 @@ This dataset combines real data from football players (name, shirt number, teams
 Moreover, we have obtained data from a website about real stats of some of the players from the FIFA dataset in the real life, that we think can help us to test if the virtual data fits or matches real performance of the players.
 
 
-Analysis ⚙️
+**Analysis** ⚙️
 
 -	Player number : The player who wears the jersey with the number 10 uses to be the VIP of the team. The number is related to a set of skills that makes this person not only a relevant player for the team but also a very important economic asset. 
 -	Skills: 
@@ -22,12 +22,12 @@ o	We have also grouped the players according to the main position groups and per
 -	Leagues: The idea behind this study would be how much do the teams invest in their teams by paying wages, how this affect the values of the teams and check if it has a direct effect on the performance rate. Are there differences between the teams or, more importantly, leagues? Are the teams being profitable?
 
 
-Information 📖
+**Information** 📖
 
 For this project we have used information from both Sofascore and a dataset with fifa data.
 
 
-Authors ✒️
+**Authors** ✒️
 -	Javier Álvarez
 -	Carlos Azagra
 
